@@ -3,6 +3,9 @@ import { createHSKFile } from './helpers/createHSKFile';
 
 import { hsk_list } from './data/hsk_5';
 import { genReplaceHSKFile } from './helpers/genReplaceHSKFile';
+
+const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 : -1);
+
 const main = async () => {
   try {
     const main_list = hsk_list;
@@ -19,6 +22,7 @@ const main = async () => {
       leftHeader: '【斗罗零】', rightHeader: '【斗罗一】',
       records: xlist1,
     });
+
     console.log(">total items", xlist2.length);
     const fileResp2 = await genReplaceHSKFile({
       rootFol: 'replaced',
