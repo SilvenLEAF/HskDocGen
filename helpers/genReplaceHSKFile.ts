@@ -2,18 +2,20 @@ import fs from 'fs';
 import { replaceDocPlaceholders } from '../utils/docModify';
 
 interface IRHSKFile {
+  rootFol?: string,
   fileName: string,
+
   pageHeader: string,
   leftHeader?: string,
   rightHeader?: string,
   records: { pinyin: string, hanzi: string, meaning: string }[]
 }
-const genReplaceHSKFile = async ({ fileName, pageHeader, leftHeader, rightHeader, records }: IRHSKFile) => {
+const genReplaceHSKFile = async ({ rootFol, fileName, pageHeader, leftHeader, rightHeader, records }: IRHSKFile) => {
   try {
     const totalItems = records.length;
     if (totalItems > 100) throw new Error(`Total records are more than 100`);
 
-    const templateLoc = `../templates/hsk.docx`;
+    const templateLoc = `./templates/hsk.docx`;
     const templateBuffer = fs.readFileSync(templateLoc);
 
 
@@ -35,9 +37,11 @@ const genReplaceHSKFile = async ({ fileName, pageHeader, leftHeader, rightHeader
 
     const hskFileBuffer = await replaceDocPlaceholders({ fileBuffer: templateBuffer, placeholders: placeholders, replacerKey: '' });
 
-    fs.writeFileSync(`replaced/${fileName}.docx`, hskFileBuffer!);
+    const savedLocation = [rootFol, `${fileName}.docx`].join('/');
+    fs.writeFileSync(savedLocation, hskFileBuffer!);
     console.log(`>generated ${fileName}.docx`);
-  } catch (error) {
+    return savedLocation;
+  } catch (error: any) {
     console.error("@@@@@@@Error while generating HSK file::", error.message);
     console.error(error);
     return { error: true, message: error.message };
