@@ -25,7 +25,7 @@ const main = async () => {
 
         placeholders[`lp_${padIndex}`] = item.pinyin;
         placeholders[`lh_${padIndex}`] = item.hanzi;
-        placeholders[`ly_${padIndex}`] = item.meaning;
+        placeholders[`ly_${padIndex}`] = lowerAndTrim(item.meaning);
       }
 
       const hskFileBuffer = await replaceDocPlaceholders({ fileBuffer: templateBuffer, placeholders: placeholders, replacerKey: '' });
@@ -41,5 +41,7 @@ const main = async () => {
   console.log(">completed");
   // process.exit();
 }
+
+const lowerAndTrim = (text: string) => `${text || ''}`.toLowerCase().trim();
 
 main();
