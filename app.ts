@@ -15,21 +15,12 @@ const main = async () => {
 
     const xlist1 = records.slice(0, 100);
     const xlist2 = records.slice(100, 200);
+
     console.log(">total items", xlist1.length);
-    const fileResp1 = await genReplaceHSKFile({
-      rootFol: 'replaced',
-      fileName: `_random_1_hun_douluo_I`, pageHeader: '魂斗罗',
-      leftHeader: '【斗罗零】', rightHeader: '【斗罗一】',
-      records: xlist1,
-    });
+    const fileResp1 = await genReplaceHSKFile({ records: xlist1, rootFol: 'replaced', fileName: `_random_1_hun_douluo_I`, pageHeader: '魂斗罗', leftHeader: '【斗罗零】', rightHeader: '【斗罗一】' });
 
     console.log(">total items", xlist2.length);
-    const fileResp2 = await genReplaceHSKFile({
-      rootFol: 'replaced',
-      fileName: `_random_2_hun_douluo_II`, pageHeader: '魂斗罗',
-      leftHeader: '【斗罗二】', rightHeader: '【斗罗三】',
-      records: xlist2,
-    });
+    const fileResp2 = await genReplaceHSKFile({ records: xlist2, rootFol: 'replaced', fileName: `_random_2_hun_douluo_II`, pageHeader: '魂斗罗', leftHeader: '【斗罗二】', rightHeader: '【斗罗三】' });
     console.log(fileResp1, fileResp2);
   } catch (error) {
     console.error(error);
