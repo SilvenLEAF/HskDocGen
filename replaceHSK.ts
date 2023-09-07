@@ -19,7 +19,7 @@ const main = async () => {
         leftHeader: `【第一集】`,
         rightHeader: `【第二季】`,
       };
-      for (let j = 0; j < 50; j++) {
+      for (let j = 0; j < 100; j++) {
         const item = xlist[j];
         const padIndex = (j + 1).toString().padStart(2, '0');
 
@@ -28,14 +28,6 @@ const main = async () => {
         placeholders[`ly_${padIndex}`] = item.meaning;
       }
 
-      for (let k = 50; k < 100; k++) {
-        const item = xlist[k];
-        const padIndex = (k + 1).toString().padStart(2, '0');
-
-        placeholders[`rp_${padIndex}`] = item.pinyin;
-        placeholders[`rh_${padIndex}`] = item.hanzi;
-        placeholders[`ry_${padIndex}`] = item.meaning;
-      }
       const hskFileBuffer = await replaceDocPlaceholders({ fileBuffer: templateBuffer, placeholders: placeholders, replacerKey: '' });
 
       const pageIndex = (i + 1).toString().padStart(2, '0');
