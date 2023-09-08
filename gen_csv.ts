@@ -11,14 +11,17 @@ const main = async () => {
 
     const xlist1 = records.slice(0, 100);
     // randomizeList(xlist1);
+    const csvList: any[] = [];
     for (let i = 0; i < xlist1.length; i++) {
       const item = xlist1[i];
       item.slNo = i + 1;
+
+      csvList.push({ term: item.meaning, definition: item.hanzi });
     }
 
     const rootFol = ``;
     const fileName = `hun_douluo_ling_yi`;
-    const fileResp = await createCSV({ dataList: xlist1, rootFol: rootFol, fileName: fileName });
+    const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 
     console.log(",fileResp", fileResp);
   } catch (error: any) {
