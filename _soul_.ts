@@ -4,7 +4,7 @@ const _soul_ = {
 
   feng_hao_dou_luo: `封号斗罗`,
   hao_tian_dou_luo: `昊天斗罗`,
-  jian_dou_luo: `鬼斗罗`,
+  jian_dou_luo: `剑斗罗`,
   gui_dou_luo: `鬼斗罗`,
   hun_dou_luo: `魂斗罗`,
 
