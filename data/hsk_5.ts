@@ -954,7 +954,7 @@ export const hsk_list = [
   { slNo: 932, hanzi: "老实(人)", pinyin: "lǎoshi", meaning: "honest/sincere" },
   { slNo: 933, hanzi: "老婆", pinyin: "lǎopó", meaning: "wife" },
   { slNo: 934, hanzi: "乐观(悲观)", pinyin: "lèguān", meaning: "optimistic" },
-  { slNo: 935, hanzi: "雷(击)", pinyin: "léi", meaning: "Thunder" },
+  { slNo: 935, hanzi: "雷(击)", pinyin: "léi", meaning: "thunder" },
   { slNo: 936, hanzi: "类型", pinyin: "lèixíng", meaning: "type/category/genre" },
   { slNo: 937, hanzi: "冷淡(冷漠)", pinyin: "lěngdàn", meaning: "cold/cool attitude" },
   { slNo: 938, hanzi: "梨(花/树/子)", pinyin: "lí", meaning: "pear" },
