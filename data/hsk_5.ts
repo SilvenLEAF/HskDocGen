@@ -993,7 +993,7 @@ export const hsk_list = [
   { slNo: 971, hanzi: "敏感(点)", pinyin: "mǐngǎn", meaning: "sensitive" },
   { slNo: 972, hanzi: "明星", pinyin: "míngxīng", meaning: "star/celebrity" },
   { slNo: 973, hanzi: "名片", pinyin: "míngpiàn", meaning: "business card" },
-  { slNo: 974, hanzi: "命运", pinyin: "mìngyùn", meaning: "fate, destiny" },
+  { slNo: 974, hanzi: "命运", pinyin: "mìngyùn", meaning: "fate/destiny" },
   { slNo: 975, hanzi: "模仿", pinyin: "mófǎng", meaning: "to imitate/copy" },
   { slNo: 976, hanzi: "模特", pinyin: "mótè", meaning: "model" },
   { slNo: 977, hanzi: "陌生(人/感)(熟悉)", pinyin: "mòshēng", meaning: "strange/unfamiliar" },

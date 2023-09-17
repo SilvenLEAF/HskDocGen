@@ -9,7 +9,7 @@ const main = async () => {
     const records = main_list.slice(800, 1000);
     const totalItems = records.length;
 
-    const xlist1 = records.slice(0, 100);
+    const xlist1 = records.slice(0, 200);
     // randomizeList(xlist1);
     const csvList: any[] = [];
     for (let i = 0; i < xlist1.length; i++) {
@@ -20,7 +20,7 @@ const main = async () => {
     }
 
     const rootFol = ``;
-    const fileName = `hao_tian_douluo_ling`;
+    const fileName = `hao_tian_douluo_san_bu`;
     const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 
     console.log(",fileResp", fileResp);
