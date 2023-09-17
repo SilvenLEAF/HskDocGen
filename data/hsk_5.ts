@@ -860,7 +860,7 @@ export const hsk_list = [
   { slNo: 839, hanzi: "哈", pinyin: "hā", meaning: "ah" },
   { slNo: 840, hanzi: "海关(柜台)", pinyin: "hǎiguān", meaning: "customs" },
   { slNo: 841, hanzi: "(哭)喊(声/叫)", pinyin: "hǎn", meaning: "shout" },
-  { slNo: 842, hanzi: "(银/服务)行业(行业)", pinyin: "hángyè", meaning: "industry" },
+  { slNo: 842, hanzi: "(银/服务)行业(工业)", pinyin: "hángyè", meaning: "industry" },
   { slNo: 843, hanzi: "好客(热情)(冷漠)", pinyin: "hàokè", meaning: "hospitality/friendly" },
   { slNo: 844, hanzi: "和平", pinyin: "hépíng", meaning: "peace" },
   { slNo: 845, hanzi: "何况", pinyin: "hékuàng", meaning: "not to mention/besides" },
