@@ -823,7 +823,7 @@ export const hsk_list = [
   { slNo: 802, hanzi: "搞(定/好/笑)", pinyin: "gǎo", meaning: "to do/make(settle/fix)" },
   { slNo: 803, hanzi: "格外(特别)", pinyin: "géwài", meaning: "especially" },
   { slNo: 804, hanzi: "个别(人/性/差异)", pinyin: "gèbié", meaning: "individual/specific" },
-  { slNo: 805, hanzi: "个性(生性)", pinyin: "gèxìng", meaning: "personality" },
+  { slNo: 805, hanzi: "个性(性格)", pinyin: "gèxìng", meaning: "personality" },
   { slNo: 806, hanzi: "根(基/源/据/本)", pinyin: "gēn", meaning: "root" },
   { slNo: 807, hanzi: "公布(发/宣布)", pinyin: "gōngbù", meaning: "to announce/make known" },
   { slNo: 808, hanzi: "公元(前)", pinyin: "gōngyuán", meaning: "A.D." },
