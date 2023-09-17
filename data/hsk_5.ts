@@ -879,7 +879,7 @@ export const hsk_list = [
   { slNo: 858, hanzi: "(发)挥(手)", pinyin: "huī", meaning: "to wave" },
   { slNo: 859, hanzi: "灰尘", pinyin: "huīchén", meaning: "dust" },
   { slNo: 860, hanzi: "恢复", pinyin: "huīfù", meaning: "recover/restore" },
-  { slNo: 861, hanzi: "汇率", pinyin: "huìlǜ", meaning: "exchange rate" },
+  { slNo: 861, hanzi: "汇率(汇报/汇合)", pinyin: "huìlǜ", meaning: "exchange rate" },
   { slNo: 862, hanzi: "婚姻", pinyin: "hūnyīn", meaning: "marriage" },
   { slNo: 863, hanzi: "火柴(盒)", pinyin: "huǒchái", meaning: "match (fire)" },
   { slNo: 864, hanzi: "激烈", pinyin: "jīliè", meaning: "fierce/intense" },
