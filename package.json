@@ -5,6 +5,7 @@
   "main": "app.ts",
   "dependencies": {
     "@types/node": "^20.5.9",
+    "chinese-conv": "^1.0.1",
     "docx": "^8.2.2",
     "docxtemplater": "^3.38.0",
     "json-2-csv": "^4.1.0",
