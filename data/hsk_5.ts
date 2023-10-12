@@ -581,7 +581,7 @@ export const hsk_list = [
   { slNo: 569, hanzi: "有利(不利)", pinyin: "yǒulì", meaning: "favourable/advantageous" },
   { slNo: 570, hanzi: "娱乐", pinyin: "yúlè", meaning: "entertain(-ment)" },
   { slNo: 571, hanzi: "预报(预告)", pinyin: "yùbào", meaning: "forecast/predict" },
-  { slNo: 572, hanzi: "预防", pinyin: "yùfáng", meaning: "prevent/guard against" },
+  { slNo: 572, hanzi: "预防(谨防)", pinyin: "yùfáng", meaning: "prevent/guard against(beware of)" },
   { slNo: 573, hanzi: "圆(柱)", pinyin: "yuán", meaning: "circle" },
   { slNo: 574, hanzi: "元旦", pinyin: "yuándàn", meaning: "new year's day" },
   { slNo: 575, hanzi: "员工", pinyin: "yuángōng", meaning: "employee" },
