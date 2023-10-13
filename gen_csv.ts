@@ -1,4 +1,4 @@
-import { hsk_list } from './data/pure_hsk_5';
+import { hsk_list } from './data/hsk_6';
 import { createCSV } from './utils/createCSV';
 
 const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 : -1);
@@ -6,7 +6,7 @@ const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 
 const main = async () => {
   try {
     const main_list = hsk_list;
-    const records = main_list.slice(0 * 260, 5 * 260);
+    const records = main_list.slice(25, 50);
     const totalItems = records.length;
 
     const xlist1 = records;  // records.slice(200, 300);
@@ -17,11 +17,12 @@ const main = async () => {
       const item = xlist1[i];
       item.slNo = i + 1;
 
-      csvList.push({ traditional: item.traditionalHanzi, simple: item.simplifiedHanzi });
+      // csvList.push({ traditional: item.traditionalHanzi, simple: item.simplifiedHanzi });
+      csvList.push({ yisi: item.meaning, hanzi: item.hanzi });
     }
 
-    const rootFol = `Di_Wu_Ji`;
-    const fileName = `封号斗罗`;
+    const rootFol = `Di_LIU_Ji`;
+    const fileName = `LIU_ER`;
     const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 
     console.log(",fileResp", fileResp);

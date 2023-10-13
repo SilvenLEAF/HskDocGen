@@ -44,7 +44,7 @@ export const hsk_list = [
   { slNo: 42, hanzi: "磅(英磅)", pinyin: "bàng", meaning: "pound (weight/money)" },
   { slNo: 43, hanzi: "包庇(袒护)", pinyin: "bāobì", meaning: "to shield/cover up [to shield (a miscreant) from punishment, criticism etc / to take sb's side]" },
   { slNo: 44, hanzi: "包袱(负担)", pinyin: "bāofu", meaning: "(wrapping cloth) burden/load" },
-  { slNo: 45, hanzi: "包围（围住)(无路可逃)", pinyin: "bāowéi", meaning: " to surround/encircle" },
+  { slNo: 45, hanzi: "包围（围住)(无路可逃)", pinyin: "bāowéi", meaning: "to surround/encircle" },
   { slNo: 46, hanzi: "包装(包裹)", pinyin: "bāozhuāng", meaning: "to pack/to package/wrap" },
   { slNo: 47, hanzi: "(不)饱和", pinyin: "bǎohé", meaning: "saturated (holding as much water as it can)" },
   { slNo: 48, hanzi: "(一生)饱经沧桑", pinyin: "bǎojīngcāngsāng", meaning: "have seen much of the changes in human life" },
