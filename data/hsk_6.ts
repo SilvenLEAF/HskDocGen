@@ -307,9 +307,6 @@ export const hsk_list = [
   { slNo: 299, hanzi: "出神", pinyin: "chūshén", meaning: "be lost in thought" },
   { slNo: 300, hanzi: "(有)出息(没出息)(前途)", pinyin: "chūxi", meaning: "promising/future prospects" },
 
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
-
   { slNo: 301, hanzi: "初步", pinyin: "chūbù", meaning: "initial/preliminary" },
   { slNo: 302, hanzi: "除 (除了)(消除/排除/清除/删除)(开除)(废除)", pinyin: "chú", meaning: "except (eliminate/clear away/delete)(to fire sb)(to abolish)" },
   { slNo: 303, hanzi: "储备(粮/金)(储存)", pinyin: "chǔbèi", meaning: "to store/reserve" },
@@ -335,7 +332,6 @@ export const hsk_list = [
   { slNo: 323, hanzi: "吹牛(夸口)", pinyin: "chuī niú", meaning: "to brag/boast/talk big" },
   { slNo: 324, hanzi: "吹捧", pinyin: "chuī pěng", meaning: "to flatter/laud sb's accomplishments" },
   { slNo: 325, hanzi: "炊烟", pinyin: "chuī yān", meaning: "cooking smoke" },
-
   { slNo: 326, hanzi: "昊天锤", pinyin: "chuí", meaning: "hammer" },
   { slNo: 327, hanzi: "垂直(水平)", pinyin: "chuízhí", meaning: "vertical" },
   { slNo: 328, hanzi: "纯粹(纯洁)(單純)", pinyin: "chúncuì", meaning: "pure" },
@@ -346,21 +342,24 @@ export const hsk_list = [
   { slNo: 333, hanzi: "雌雄", pinyin: "cíxióng", meaning: "male and female" },
   { slNo: 334, hanzi: "刺 (刺激/讽刺)", pinyin: "cì", meaning: "thorn" },
   { slNo: 335, hanzi: "次品", pinyin: "cìpǐn", meaning: "defective goods" },
-  { slNo: 336, hanzi: "次序", pinyin: "cìxù", meaning: "order; sequence" },
-  { slNo: 337, hanzi: "伺候", pinyin: "cìhou", meaning: "Wait" },
-  { slNo: 338, hanzi: "丛", pinyin: "cóng", meaning: "cluster" },
-  { slNo: 339, hanzi: "从容", pinyin: "cóngróng", meaning: "take one’s time; calm and unhurried" },
-  { slNo: 340, hanzi: "凑合", pinyin: "còuhuo", meaning: "gather together" },
-  { slNo: 341, hanzi: "粗鲁", pinyin: "cūlǔ", meaning: "rude" },
+  { slNo: 336, hanzi: "次序 (程序/顺序)", pinyin: "cìxù", meaning: "order/sequence" },
+  { slNo: 337, hanzi: "伺候 (难伺候)", pinyin: "cìhou", meaning: "to serve/attend to/take care" },
+  { slNo: 338, hanzi: "丛 (丛书/树丛/人丛)", pinyin: "cóng", meaning: "cluster/collection (of books)" },
+  { slNo: 339, hanzi: "从容", pinyin: "cóngróng", meaning: "take one's time/calm and unhurried" },
+  { slNo: 340, hanzi: "凑合 (还凑合)", pinyin: "còuhuo", meaning: "Well, it's fine, it's okey, though it's not what I exactly wanted to have" },
+  { slNo: 341, hanzi: "粗鲁 (粗暴)", pinyin: "cūlǔ", meaning: "rude" },
   { slNo: 342, hanzi: "窜", pinyin: "cuàn", meaning: "Channeling" },
-  { slNo: 343, hanzi: "摧残", pinyin: "cuīcán", meaning: "devastate; wreck" },
-  { slNo: 344, hanzi: "脆弱", pinyin: "cuìruò", meaning: "fragile" },
+  { slNo: 343, hanzi: "摧残 (损害)", pinyin: "cuīcán", meaning: "devastate/wreck/ravage/ruin" },
+  { slNo: 344, hanzi: "脆弱(性)(薄弱/软弱)", pinyin: "cuìruò", meaning: "fragile/frail/weak/vulnerable" },
   { slNo: 345, hanzi: "搓", pinyin: "cuō", meaning: "Rub" },
-  { slNo: 346, hanzi: "磋商", pinyin: "cuōshāng", meaning: "negotiate" },
-  { slNo: 347, hanzi: "挫折", pinyin: "cuòzhé", meaning: "frustration" },
-  { slNo: 348, hanzi: "搭", pinyin: "dā", meaning: "to match, to take" },
-  { slNo: 349, hanzi: "搭档", pinyin: "dādàng", meaning: "partner" },
-  { slNo: 350, hanzi: "搭配", pinyin: "dāpèi", meaning: "arrange; match" },
+  { slNo: 346, hanzi: "磋商 (商量)", pinyin: "cuōshāng", meaning: "to negotiate/consult/discuss seriously" },
+  { slNo: 347, hanzi: "挫折(感)(挫败)", pinyin: "cuòzhé", meaning: "frustration" },
+  { slNo: 348, hanzi: "搭 (搭配/搭档)", pinyin: "dā", meaning: "to match/to take" },
+  { slNo: 349, hanzi: "搭档", pinyin: "dādàng", meaning: "partner/to partner up" },
+  { slNo: 350, hanzi: "搭配", pinyin: "dāpèi", meaning: " to pair up/to match/to arrange in pairs/to add sth into a group" },
+
+  /* -------------------------- completed up to here -------------------------- */
+  /* -------------------------------------------------------------------------- */
 
   { slNo: 351, hanzi: "答辩", pinyin: "dábiàn", meaning: "reply; answer" },
   { slNo: 352, hanzi: "答复", pinyin: "dáfù", meaning: "Reply" },
@@ -766,7 +765,7 @@ export const hsk_list = [
   { slNo: 752, hanzi: "耗费", pinyin: "hàofèi", meaning: "cost" },
   { slNo: 753, hanzi: "呵", pinyin: "hē", meaning: "Oh" },
   { slNo: 754, hanzi: "和蔼", pinyin: "hé’ǎi", meaning: "Kindly" },
-  { slNo: 755, hanzi: "和解", pinyin: "héjiě", meaning: "compromise" },
+  { slNo: 755, hanzi: "和解 (妥协)", pinyin: "héjiě", meaning: "to compromise" },
   { slNo: 756, hanzi: "和睦", pinyin: "hémù", meaning: "harmony" },
   { slNo: 757, hanzi: "和气", pinyin: "héqi", meaning: "kind; polite" },
   { slNo: 758, hanzi: "和谐", pinyin: "héxié", meaning: "Harmonious" },
