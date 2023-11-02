@@ -348,7 +348,7 @@ export const hsk_list = [
   { slNo: 339, hanzi: "从容", pinyin: "cóngróng", meaning: "take one's time/calm and unhurried" },
   { slNo: 340, hanzi: "凑合 (还凑合)", pinyin: "còuhuo", meaning: "Well, it's fine, it's okey, though it's not what I exactly wanted to have" },
   { slNo: 341, hanzi: "粗鲁 (粗暴)", pinyin: "cūlǔ", meaning: "rude" },
-  { slNo: 342, hanzi: "窜", pinyin: "cuàn", meaning: "Channeling" },
+  { slNo: 342, hanzi: "窜 (逃窜/逃奔)(流窜)", pinyin: "cuàn", meaning: "to run away/flee" },
   { slNo: 343, hanzi: "摧残 (损害)", pinyin: "cuīcán", meaning: "devastate/wreck/ravage/ruin" },
   { slNo: 344, hanzi: "脆弱(性)(薄弱/软弱)", pinyin: "cuìruò", meaning: "fragile/frail/weak/vulnerable" },
   { slNo: 345, hanzi: "搓", pinyin: "cuō", meaning: "Rub" },
