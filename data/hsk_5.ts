@@ -1299,7 +1299,7 @@ export const hsk_list = [
   { slNo: 1268, hanzi: "煮(饭)", pinyin: "zhǔ", meaning: "to cook/boil" },
   { slNo: 1269, hanzi: "主动", pinyin: "zhǔdòng", meaning: "to take initiative/do on own's accord" },
   { slNo: 1270, hanzi: "主人(主任)", pinyin: "zhǔrén", meaning: "master/owner" },
-  { slNo: 1271, hanzi: "主席", pinyin: "zhǔxí", meaning: "chairman" },
+  { slNo: 1271, hanzi: "主席 (董事长)", pinyin: "zhǔxí", meaning: "chairman" },
   { slNo: 1272, hanzi: "主张(意见)", pinyin: "zhǔzhāng", meaning: "to stand for/advocate/opinion" },
   { slNo: 1273, hanzi: "祝福(诅咒)", pinyin: "zhùfú", meaning: "blessing/wish sb well" },
   { slNo: 1274, hanzi: "注册(挂号/登记/报名)", pinyin: "zhùcè", meaning: "to register/enroll" },

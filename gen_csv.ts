@@ -6,7 +6,7 @@ const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 
 const main = async () => {
   try {
     const main_list = hsk_list;
-    const records = main_list.slice(200, 250);
+    const records = main_list.slice(400, 450);
     const totalItems = records.length;
 
     const xlist1 = records;  // records.slice(200, 300);
@@ -22,7 +22,7 @@ const main = async () => {
     }
 
     const rootFol = `Di_LIU_Ji`;
-    const fileName = `封号斗罗第一步完结`;
+    const fileName = `封号斗罗第二步四顿`;
     const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 
     console.log(",fileResp", fileResp);
