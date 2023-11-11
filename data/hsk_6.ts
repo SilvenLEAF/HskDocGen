@@ -522,11 +522,11 @@ export const hsk_list = [
   /* -------------------------- completed up to here -------------------------- */
   /* -------------------------------------------------------------------------- */
 
-  { slNo: 501, hanzi: "发扬", pinyin: "fāyáng", meaning: "carry forward" },
-  { slNo: 502, hanzi: "发育", pinyin: "fāyù", meaning: "Development, growth" },
+  { slNo: 501, hanzi: "发扬", pinyin: "fāyáng", meaning: "to promote (making the good stuff even better and well-appreciated)" },
+  { slNo: 502, hanzi: "发育 (生长)", pinyin: "fāyù", meaning: "growth/to mature or develop" },
   { slNo: 503, hanzi: "法人", pinyin: "fǎrén", meaning: "juridical person" },
-  { slNo: 504, hanzi: "番", pinyin: "fān", meaning: "Some" },
-  { slNo: 505, hanzi: "繁华", pinyin: "fánhuá", meaning: "Bustling" },
+  { slNo: 504, hanzi: "番 (轮到) (三番五次)", pinyin: "fān", meaning: "(turn/time) (to be sb's turn) (over and over again)" },
+  { slNo: 505, hanzi: "繁华 (热闹)", pinyin: "fánhuá", meaning: "flourishing/bustling" },
   { slNo: 506, hanzi: "繁忙", pinyin: "fánmáng", meaning: "busy" },
   { slNo: 507, hanzi: "繁体字", pinyin: "fántǐzì", meaning: "the traditional Chinese character" },
   { slNo: 508, hanzi: "繁殖", pinyin: "fánzhí", meaning: "Reproduction" },
@@ -547,6 +547,7 @@ export const hsk_list = [
   { slNo: 523, hanzi: "方位", pinyin: "fāngwèi", meaning: "Position" },
   { slNo: 524, hanzi: "方言", pinyin: "fāngyán", meaning: "dialect" },
   { slNo: 525, hanzi: "方圆", pinyin: "fāngyuán", meaning: "circumference" },
+
   { slNo: 526, hanzi: "方针", pinyin: "fāngzhēn", meaning: "policy" },
   { slNo: 527, hanzi: "防守", pinyin: "fángshǒu", meaning: "Defense" },
   { slNo: 528, hanzi: "防御", pinyin: "fángyù", meaning: "defense" },
@@ -572,6 +573,7 @@ export const hsk_list = [
   { slNo: 548, hanzi: "分红", pinyin: "fēnhóng", meaning: "bonus" },
   { slNo: 549, hanzi: "分解", pinyin: "fēnjiě", meaning: "decompose" },
   { slNo: 550, hanzi: "分裂", pinyin: "fēnliè", meaning: "division" },
+
   { slNo: 551, hanzi: "分泌", pinyin: "fēnmì", meaning: "secretion" },
   { slNo: 552, hanzi: "分明", pinyin: "fēnmíng", meaning: "clear" },
   { slNo: 553, hanzi: "分歧", pinyin: "fēnqí", meaning: "divergence" },
@@ -622,6 +624,7 @@ export const hsk_list = [
   { slNo: 598, hanzi: "富裕", pinyin: "fùyù", meaning: "Affluent" },
   { slNo: 599, hanzi: "副", pinyin: "fù", meaning: "Vice-" },
   { slNo: 600, hanzi: "负担", pinyin: "fùdān", meaning: "burden" },
+
   { slNo: 601, hanzi: "覆盖", pinyin: "fùgài", meaning: "overlay; cover with" },
   { slNo: 602, hanzi: "附和", pinyin: "fùhè", meaning: "chime in with; come to heel" },
   { slNo: 603, hanzi: "附件", pinyin: "fùjiàn", meaning: "Enclosure" },
