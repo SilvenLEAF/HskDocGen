@@ -81,7 +81,7 @@ export const hsk_list = [
   { slNo: 80, hanzi: "次要(主要)", pinyin: "cìyào", meaning: "secondary" },
   { slNo: 81, hanzi: "匆忙", pinyin: "cōngmáng", meaning: "hastily/in a hurry" },
   { slNo: 82, hanzi: "从而", pinyin: "cóng ér", meaning: "thus" },
-  { slNo: 83, hanzi: "从前", pinyin: "cóngqián", meaning: "before" },
+  { slNo: 83, hanzi: "从前", pinyin: "cóngqián", meaning: "once upon a time" },
   { slNo: 84, hanzi: "粗糙", pinyin: "cūcāo", meaning: "rough" },
   { slNo: 85, hanzi: "醋", pinyin: "cù", meaning: "vinegar" },
   { slNo: 86, hanzi: "促使", pinyin: "cùshǐ", meaning: "urge" },

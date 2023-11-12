@@ -240,7 +240,7 @@ export const hsk_list = [
   { slNo: 237, hanzi: "超越", pinyin: "chāoyuè", meaning: "to surpass/transcend" },
   { slNo: 238, hanzi: "钞票(纸币/硬币/零钱)", pinyin: "chāopiào", meaning: "paper money" },
   { slNo: 239, hanzi: "朝代", pinyin: "cháodài", meaning: "dynasty/reign (of a king)" },
-  { slNo: 240, hanzi: "潮流", pinyin: "cháoliú", meaning: "Trend" },
+  { slNo: 240, hanzi: "潮流", pinyin: "cháoliú", meaning: "trend" },
   { slNo: 241, hanzi: "嘲笑", pinyin: "cháoxiào", meaning: "to ridicule/laugh at" },
   { slNo: 242, hanzi: "巢穴(贼巢/贼人/强盗)", pinyin: "cháoxué", meaning: "nest/den/lair/hideout" },
   { slNo: 243, hanzi: "(战略的)撤退", pinyin: "chètuì", meaning: "to retreat(senryaku-teki tettai)" },
