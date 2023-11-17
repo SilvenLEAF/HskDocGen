@@ -678,9 +678,6 @@ export const hsk_list = [
   { slNo: 649, hanzi: "跟随 (追随) (跟踪)(跟踪器/跟踪狂)", pinyin: "gēnsuí", meaning: "to follow (to follow sb's tracks/to tail)(tracker/stalker)" },
   { slNo: 650, hanzi: "跟踪 (跟随/追随) (跟踪器/跟踪狂)", pinyin: "gēnzōng", meaning: "to run after/to tail/to follow sb's tracks" },
 
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
-
   { slNo: 651, hanzi: "耕地 (农耕地)", pinyin: "gēngdì", meaning: "cultivated land/to plow land (arable land)" },
   { slNo: 652, hanzi: "更新 (重构)", pinyin: "gēngxīn", meaning: "to renew/upgrade/update/replace old with the new (to refactor code)" },
   { slNo: 653, hanzi: "更正", pinyin: "gēngzhèng", meaning: "to correct/make a correction" },
@@ -706,6 +703,9 @@ export const hsk_list = [
   { slNo: 673, hanzi: "恭敬", pinyin: "gōngjìng", meaning: "being respectful" },
   { slNo: 674, hanzi: "巩固 (合并)", pinyin: "gǒnggù", meaning: "to consolidate (making something strong, stable, and not easily shaken or knocked over) (to merge/consolidate)" },
   { slNo: 675, hanzi: "共和国 (君主国)", pinyin: "gònghéguó", meaning: "republic" },
+
+  /* -------------------------- completed up to here -------------------------- */
+  /* -------------------------------------------------------------------------- */
 
   { slNo: 676, hanzi: "共计", pinyin: "gòngjì", meaning: "count up to; sum to" },
   { slNo: 677, hanzi: "共鸣", pinyin: "gòngmíng", meaning: "resonance" },
