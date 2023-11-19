@@ -1,5 +1,5 @@
-import { hsk_list } from './data/hsk_6';
-// import { hsk_list } from './data/KunHuoDouluo';
+// import { hsk_list } from './data/hsk_6';
+import { hsk_list } from './data/KunHuoDouluo_II';
 // import { hsk_list } from './data/XiuLian';
 import { createCSV } from './utils/createCSV';
 
@@ -8,7 +8,7 @@ const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 
 const main = async () => {
   try {
     const main_list = hsk_list;
-    const records = main_list.slice(500, 750);
+    const records = main_list.slice(0, 750);
     const totalItems = records.length;
 
     const xlist1 = records;  // records.slice(200, 300);
@@ -24,8 +24,8 @@ const main = async () => {
     }
 
     const rootFol = `Di_LIU_Ji`;
-    const fileName = `封号斗罗第三魂环`;
-    // const fileName = `炼斗罗第一步`;
+    // const fileName = `封号斗罗第三魂环`;
+    const fileName = `困惑斗罗第二步`;
     // const fileName = `七百五十`;
     const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 

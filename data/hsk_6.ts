@@ -811,6 +811,7 @@ export const hsk_list = [
   { slNo: 773, hanzi: "宏伟", pinyin: "hóngwěi", meaning: "grand" },
   { slNo: 774, hanzi: "洪水", pinyin: "hóngshuǐ", meaning: "Flood" },
   { slNo: 775, hanzi: "喉咙", pinyin: "hóulóng", meaning: "throat" },
+
   { slNo: 776, hanzi: "吼", pinyin: "hǒu", meaning: "Roar" },
   { slNo: 777, hanzi: "后代", pinyin: "hòudài", meaning: "Offspring" },
   { slNo: 778, hanzi: "后顾之忧", pinyin: "hòugùzhīyōu", meaning: "Any menace from the “rear" },
@@ -836,6 +837,7 @@ export const hsk_list = [
   { slNo: 798, hanzi: "话筒", pinyin: "huàtǒng", meaning: "Microphone" },
   { slNo: 799, hanzi: "欢乐", pinyin: "huānlè", meaning: "Happy" },
   { slNo: 800, hanzi: "还原", pinyin: "huányuán", meaning: "reduction" },
+
   { slNo: 801, hanzi: "环节", pinyin: "huánjié", meaning: "link" },
   { slNo: 802, hanzi: "缓和", pinyin: "huǎnhé", meaning: "To moderate" },
   { slNo: 803, hanzi: "患者", pinyin: "huànzhě", meaning: "Patient" },
