@@ -893,6 +893,9 @@ export const hsk_list = [
   { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "hunger" },
   { slNo: 850, hanzi: "讥笑", pinyin: "jīxiào", meaning: "to sneer/ridicule" },
 
+  /* -------------------------- completed up to here -------------------------- */
+  /* -------------------------------------------------------------------------- */
+
   { slNo: 851, hanzi: "极端", pinyin: "jíduān", meaning: "extreme" },
   { slNo: 852, hanzi: "极限", pinyin: "jíxiàn", meaning: "limit" },
   { slNo: 853, hanzi: "即便", pinyin: "jíbiàn", meaning: "even if" },
