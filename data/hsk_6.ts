@@ -866,7 +866,6 @@ export const hsk_list = [
   { slNo: 823, hanzi: "昏迷", pinyin: "hūnmí", meaning: "to lose consciousness/be in coma" },
   { slNo: 824, hanzi: "荤菜 (素菜) (非素菜)", pinyin: "hūn", meaning: "meat dish (vegeterian dish)(non-vegeterian)" },
   { slNo: 825, hanzi: "浑身", pinyin: "húnshēn", meaning: "all over/from head to foot" },
-
   { slNo: 826, hanzi: "混合 (夹杂)", pinyin: "hùnhé", meaning: "to mix together/blend (mixed together/intermingled)" },
   { slNo: 827, hanzi: "混乱", pinyin: "hùnluàn", meaning: "confusion/chaos/disorder" },
   { slNo: 828, hanzi: "混淆 (困惑)", pinyin: "hùnxiáo", meaning: "to confuse/confused (confusion)" },
@@ -892,10 +891,6 @@ export const hsk_list = [
   { slNo: 848, hanzi: "激情", pinyin: "jīqíng", meaning: "passion" },
   { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "hunger" },
   { slNo: 850, hanzi: "讥笑", pinyin: "jīxiào", meaning: "to sneer/ridicule" },
-
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
-
   { slNo: 851, hanzi: "极端 (非常/十分) (顶峰/高峰)", pinyin: "jíduān", meaning: "extreme (peak/top)" },
   { slNo: 852, hanzi: "极限", pinyin: "jíxiàn", meaning: "limit/extreme boundary" },
   { slNo: 853, hanzi: "即便 (哪怕/即使) (若是/如果/假如/假设)", pinyin: "jíbiàn", meaning: "even if (if...)" },
@@ -921,7 +916,6 @@ export const hsk_list = [
   { slNo: 873, hanzi: "季军 (亚军) (冠军)", pinyin: "jìjūn", meaning: "third place in a competition/bronze medalist" },
   { slNo: 874, hanzi: "计较", pinyin: "jìjiào", meaning: "to haggle/bother about/being overly concerned about small details" },
   { slNo: 875, hanzi: "忌讳 (禁忌) (被忌讳)", pinyin: "jìhuì", meaning: "taboo mainly cultural or traditional (taboo generic) (be avoided as taboo)" },
-
   { slNo: 876, hanzi: "寂静 (安静/冷静/宁静/沉静) (嘈杂)", pinyin: "jìjìng", meaning: "silent/quiet (noisy/clamorous)" },
   { slNo: 877, hanzi: "纪要", pinyin: "jìyào", meaning: "summary" },
   { slNo: 878, hanzi: "技巧 (技术/技能/招术)", pinyin: "jìqiǎo", meaning: "skill/technique" },
@@ -973,33 +967,31 @@ export const hsk_list = [
   { slNo: 923, hanzi: "将近 (接近)", pinyin: "jiāngjìn", meaning: "almost/nearly" },
   { slNo: 924, hanzi: "将军", pinyin: "jiāngjūn", meaning: "Shougun (雷电)" },
   { slNo: 925, hanzi: "将就 (凑合)", pinyin: "jiāng jiù", meaning: "to accept (a bit reluctantly)" },
-
-  { slNo: 926, hanzi: "僵硬", pinyin: "jiāngyìng", meaning: "stiff" },
-  { slNo: 927, hanzi: "桨", pinyin: "jiǎng", meaning: "propeller" },
-  { slNo: 928, hanzi: "奖励", pinyin: "jiǎnglì", meaning: "reward" },
-  { slNo: 929, hanzi: "奖赏", pinyin: "jiǎngshǎng", meaning: "reward" },
-  { slNo: 930, hanzi: "降临", pinyin: "jiànglín", meaning: "become of; befall; arrive" },
-  { slNo: 931, hanzi: "交叉", pinyin: "jiāochā", meaning: "intercross" },
-  { slNo: 932, hanzi: "交代", pinyin: "jiāodài", meaning: "hand over" },
-  { slNo: 933, hanzi: "交涉", pinyin: "jiāoshè", meaning: "Negotiate" },
+  { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "stiff/rigid" },
+  { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "paddle/propeller (to row/paddle) (propeller/spiral oar) (ラセン)" },
+  { slNo: 928, hanzi: "奖励 (奖赏)", pinyin: "jiǎnglì", meaning: "reward/prize" },
+  { slNo: 929, hanzi: "奖赏 (奖励)", pinyin: "jiǎngshǎng", meaning: "reward/prize" },
+  { slNo: 930, hanzi: "降临", pinyin: "jiànglín", meaning: "arrival/to descend/to arrive/to come (esp something significant/notable eg season person phenomenon)" },
+  { slNo: 931, hanzi: "交叉 (路口)", pinyin: "jiāochā", meaning: "intersection/to cross/to intersect (path destiny etc) (road intersection)" },
+  { slNo: 932, hanzi: "交代", pinyin: "jiāodài", meaning: "to explain/account for (if we can't take the sword back how do we explain to Demon Lord?)" },
+  { slNo: 933, hanzi: "交涉 (谈判/讨价还价)", pinyin: "jiāoshè", meaning: "to negotiate/negotiation" },
   { slNo: 934, hanzi: "交易", pinyin: "jiāoyì", meaning: "transaction" },
-  { slNo: 935, hanzi: "焦点", pinyin: "jiāodiǎn", meaning: "focus" },
-  { slNo: 936, hanzi: "焦急", pinyin: "jiāojí", meaning: "anxious" },
-  { slNo: 937, hanzi: "娇气", pinyin: "jiāoqì", meaning: "effeminate" },
-  { slNo: 938, hanzi: "角落", pinyin: "jiǎoluò", meaning: "corner" },
-  { slNo: 939, hanzi: "搅拌", pinyin: "jiǎobàn", meaning: "mix up" },
-  { slNo: 940, hanzi: "缴纳", pinyin: "jiǎonà", meaning: "Pay" },
-  { slNo: 941, hanzi: "侥幸", pinyin: "jiǎoxìng", meaning: "by luck" },
-  { slNo: 942, hanzi: "教养", pinyin: "jiàoyǎng", meaning: "train; upbringing; education" },
-  { slNo: 943, hanzi: "较量", pinyin: "jiàoliàng", meaning: "Contest" },
-  { slNo: 944, hanzi: "皆", pinyin: "jiē", meaning: "all" },
-  { slNo: 945, hanzi: "接连", pinyin: "jiēlián", meaning: "One after another" },
-  { slNo: 946, hanzi: "阶层", pinyin: "jiēcéng", meaning: "stratum" },
-  { slNo: 947, hanzi: "揭露", pinyin: "jiēlù", meaning: "Expose" },
-  { slNo: 948, hanzi: "节奏", pinyin: "jiézòu", meaning: "rhythm" },
-  { slNo: 949, hanzi: "节制", pinyin: "jiézhì", meaning: "dicipline" },
+  { slNo: 935, hanzi: "焦点 (重点) (注意力)", pinyin: "jiāodiǎn", meaning: "focus/focal point (focus/attention)" },
+  { slNo: 936, hanzi: "焦急 (着急/急忙)", pinyin: "jiāojí", meaning: "anxious/to worry" },
+  { slNo: 937, hanzi: "娇气", pinyin: "jiāoqì", meaning: "delicate/tender/overly sensitive (easily fatigued, ailed or emotionally sensitive or picky, prone to complaints)" },
+  { slNo: 938, hanzi: "角落", pinyin: "jiǎoluò", meaning: "nook/corner/secluded or hidden space" },
+  { slNo: 939, hanzi: "搅拌 (搅动)", pinyin: "jiǎobàn", meaning: "to stir/mix up (eg with spoon stir milk cream and sugar)" },
+  { slNo: 940, hanzi: "缴纳 (税款/学费/会费/罚款)", pinyin: "jiǎonà", meaning: "to pay (taxes/school or tution fees/membership dues/overdues/fine)" },
+  { slNo: 941, hanzi: "侥幸", pinyin: "jiǎoxìng", meaning: "fluke/by luck (まぐれ)" },
+  { slNo: 942, hanzi: "教养 (教育)", pinyin: "jiàoyǎng", meaning: "to train/educate/bring up/nurture" },
+  { slNo: 943, hanzi: "较量 (比赛/竞赛)", pinyin: "jiàoliàng", meaning: "contest/competition" },
+  { slNo: 944, hanzi: "...皆...(S + 皆 + V + O)", pinyin: "jiē", meaning: "...all..." },
+  { slNo: 945, hanzi: "接连 (连续)", pinyin: "jiēlián", meaning: "in a row/successively/consecutively/one after another (eg to rain/make mistake)" },
+  { slNo: 946, hanzi: "阶层 (基/上/下/中层)", pinyin: "jiēcéng", meaning: "hierarchy/stratum/social class (layer)" },
+  { slNo: 947, hanzi: "揭露 (揭开/揭秘) (暴露/暴光)", pinyin: "jiēlù", meaning: "to expose/disclose" },
+  { slNo: 948, hanzi: "节奏", pinyin: "jiézòu", meaning: "rhythm/tempo" },
+  { slNo: 949, hanzi: "节制 (饮食)", pinyin: "jiézhì", meaning: "self-control/to control/moderate (diet etc)" },
   { slNo: 950, hanzi: "杰出 (突出)", pinyin: "jiéchū", meaning: "outstanding/remarkable (to stand out)" },
-
   { slNo: 951, hanzi: "结晶 (水晶)(冰晶)", pinyin: "jiéjīng", meaning: "to crystallize (crystal)(ice crystal)" },
   { slNo: 952, hanzi: "结局 (结果)", pinyin: "jiéjú", meaning: "ending (鬼滅の刃)(result)" },
   { slNo: 953, hanzi: "结算 (预算)", pinyin: "jiésuàn", meaning: "to settle a bill/to close an account (budget)" },
@@ -1025,7 +1017,6 @@ export const hsk_list = [
   { slNo: 973, hanzi: "进化", pinyin: "jìnhuà", meaning: "evolution/to evolve" },
   { slNo: 974, hanzi: "进展", pinyin: "jìnzhǎn", meaning: "to make progress/to evolve" },
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìnlái", meaning: "recently" },
-
   { slNo: 976, hanzi: "浸泡", pinyin: "jìnpào", meaning: "soak" },
   { slNo: 977, hanzi: "晋升", pinyin: "jìnshēng", meaning: "Promotion" },
   { slNo: 978, hanzi: "茎", pinyin: "jīng", meaning: "stalk; stem" },
@@ -1052,8 +1043,8 @@ export const hsk_list = [
   { slNo: 999, hanzi: "敬业 (奉献)", pinyin: "jìngyè", meaning: "dedication (work)/be dedicated to work/respect one's work (normal dedication)" },
   { slNo: 1000, hanzi: "境界 (边界)", pinyin: "jìngjiè", meaning: "realm/level/fig boundary (it's like an invisible line that shows where one thing ends and another begins) (physical boundary)" },
 
-
-
+  /* -------------------------- completed up to here -------------------------- */
+  /* -------------------------------------------------------------------------- */
 
   { slNo: 1001, hanzi: "竞赛 (比赛)", pinyin: "jìngsài", meaning: "race/competition" },
   { slNo: 1002, hanzi: "竞选", pinyin: "jìngxuǎn", meaning: "to take part in an election" },
