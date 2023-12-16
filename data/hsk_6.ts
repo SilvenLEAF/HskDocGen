@@ -666,7 +666,7 @@ export const hsk_list = [
   { slNo: 637, hanzi: "歌颂 (称赞/赞美/夸赞) (谴责) (讽刺/讥讽/嘲讽)", pinyin: "gēsòng", meaning: "to sing the praise of (to denounce/condemn) (to mock/taunt)" },
   { slNo: 638, hanzi: "鸽子", pinyin: "gēzi", meaning: "dove/pigeon (any bird from the Columbidae family)" },
   { slNo: 639, hanzi: "隔阂", pinyin: "géhé", meaning: "estrangement (language etc barrier) (妖神记之紫云和叶宗)" },
-  { slNo: 640, hanzi: "隔离 (孤立) (格局)", pinyin: "gélí", meaning: "to seperate/isolate (isolated from the world)" },
+  { slNo: 640, hanzi: "隔离 (孤立) (隔绝)", pinyin: "gélí", meaning: "to seperate/isolate (isolated from the world)" },
   { slNo: 641, hanzi: "格局", pinyin: "géjú", meaning: "situation" },
   { slNo: 642, hanzi: "格式 (格式化) (文件格式)", pinyin: "géshi", meaning: "format (to format a disk/code) (file format)" },
   { slNo: 643, hanzi: "革命", pinyin: "gémìng", meaning: "revolution" },
