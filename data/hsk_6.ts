@@ -709,7 +709,7 @@ export const hsk_list = [
   { slNo: 679, hanzi: "钩子", pinyin: "gōuzi", meaning: "hook" },
   { slNo: 680, hanzi: "构思", pinyin: "gòusī", meaning: "to design/plan something creative (to create)" },
   { slNo: 681, hanzi: "孤独 (孤单) (热闹)", pinyin: "gūdú", meaning: "loneliness" },
-  { slNo: 682, hanzi: "孤立 (隔离) (格局)", pinyin: "gūlì", meaning: "isolated/to isolate" },
+  { slNo: 682, hanzi: "孤立 (隔离) (隔绝)", pinyin: "gūlì", meaning: "isolated/to isolate" },
   { slNo: 683, hanzi: "辜负", pinyin: "gūfù", meaning: "to fail to live up (to expectations)/to let down/disappoint" },
   { slNo: 684, hanzi: "姑且", pinyin: "gūqiě", meaning: "for the time being/tentatively" },
   { slNo: 685, hanzi: "古董 (董事长)", pinyin: "gǔdǒng", meaning: "antique (chairman of the board)" },
