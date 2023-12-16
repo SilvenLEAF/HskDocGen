@@ -646,7 +646,7 @@ export const hsk_list = [
   { slNo: 617, hanzi: "感慨", pinyin: "gǎnkǎi", meaning: "to have a mix of happy, sad, and thoughtful feeling (雾山五行)" },
   { slNo: 618, hanzi: "感染 (传染)", pinyin: "gǎnrǎn", meaning: "infected (to infect)" },
   { slNo: 619, hanzi: "干劲", pinyin: "gànjìn", meaning: "super enthusiasm to get things done (ヤルキ)" },
-  { slNo: 620, hanzi: "纲领", pinyin: "gānglǐng", meaning: "guiding principle" },
+  { slNo: 620, hanzi: "纲领 (规则)", pinyin: "gānglǐng", meaning: "guiding principle" },
   { slNo: 621, hanzi: "港口 (港湾)", pinyin: "gǎngkǒu", meaning: "port/harbor" },
   { slNo: 622, hanzi: "港湾 (港口)", pinyin: "gǎngwān", meaning: "port/harbor" },
   { slNo: 623, hanzi: "岗位", pinyin: "gǎngwèi", meaning: "a post/a job" },
