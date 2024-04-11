@@ -312,7 +312,6 @@ export const hsk_list = [
   { slNo: 308, hanzi: "处置 (处分/处罚/惩罚)", pinyin: "chǔzhì", meaning: "to punish/handle/take care of" },
   { slNo: 309, hanzi: "触犯(违犯/冒犯)", pinyin: "chùfàn", meaning: "to violate/offend" },
   { slNo: 310, hanzi: "穿越 (通过/穿过/越过)", pinyin: "chuānyuè", meaning: "to pass through/cross" },
-  { slNo: 311, hanzi: "川流不息", pinyin: "chuānliúbùxī", meaning: "flowing up in an endless stream/unending flow" },
   { slNo: 311, hanzi: "川流不息 (络绎不绝)", pinyin: "chuānliúbùxī", meaning: "flowing up in an endless stream/unending flow" },
   { slNo: 312, hanzi: "船舶(船)", pinyin: "chuánbó", meaning: "boat/ship" },
   { slNo: 313, hanzi: "传达 (转达/转告)", pinyin: "chuándá", meaning: "to convey/relay/pass on" },
