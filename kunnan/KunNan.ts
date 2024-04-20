@@ -1,4 +1,4 @@
-export const records = [
+export const hsk_list = [
   { slNo: 1, hanzi: "被动", pinyin: "bèi dòng", meaning: "not proactive/passive smoking/she played a passive role in the game" },
   { slNo: 2, hanzi: "报酬", pinyin: "bào chou", meaning: "remuneration/this job pays well/the scheme will overpay some and underpay some" },
   { slNo: 3, hanzi: "(原告) 被告 都已经 表示服罪 了 (表示服罪)", pinyin: "bèi gào (bǐaoshì fúzuì)", meaning: "defendant (to admit guilt)/the plaintiff accused the defendant" },
