@@ -1,32 +1,23 @@
-// import { hsk_list } from './data/hsk_6';
-import { hsk_list } from './data/KunHuoDouluo_II';
-// import { hsk_list } from './data/XiuLian';
+import { hsk_list } from './data/hsk_6';
 import { createCSV } from './utils/createCSV';
 
-const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 : -1);
 
 const main = async () => {
   try {
+    let xi = 0;
+    let koIndex = xi;
     const main_list = hsk_list;
-    const records = main_list.slice(0, 750);
+    const records = main_list.slice(50 * (xi - 1), 50 * xi);
+    
+    // -------------- generate csv file
     const totalItems = records.length;
+    console.log(">total records<", totalItems);
+    const csvList: any[] = records.map(elm => ({ yisi: elm.meaning, hanzi: elm.hanzi }));
 
-    const xlist1 = records;  // records.slice(200, 300);
-    console.log(">total records<", xlist1.length);
-    // randomizeList(xlist1);
-    const csvList: any[] = [];
-    for (let i = 0; i < xlist1.length; i++) {
-      const item = xlist1[i];
-      item.slNo = i + 1;
-
-      // csvList.push({ traditional: item.traditionalHanzi, simple: item.simplifiedHanzi });
-      csvList.push({ yisi: item.meaning, hanzi: item.hanzi });
-    }
-
-    const rootFol = `Di_LIU_Ji`;
-    // const fileName = `封号斗罗第三魂环`;
-    const fileName = `困惑斗罗第二步`;
-    // const fileName = `七百五十`;
+    // -------------- write in file
+    const rootFol = `docs/50`;
+    // const fileName = `封号斗罗第五魂环`;
+    const fileName = `Liu_Deng_JI_II_${addLeadingZero(koIndex)}`;
     const fileResp = await createCSV({ dataList: csvList, rootFol: rootFol, fileName: fileName });
 
     console.log(",fileResp", fileResp);
@@ -34,7 +25,13 @@ const main = async () => {
     console.error(error);
   }
   console.log(">completed");
-  // process.exit();
 }
+
+
+
+/* --------------------------- helper function(s) --------------------------- */
+const addLeadingZero = (number: number) => String(number).padStart(2, '0');
+const randomizeList = (list: any[]) => list.sort(() => (Math.random() > .5) ? 1 : -1);
+/* -------------------------------------------------------------------------- */
 
 main();
