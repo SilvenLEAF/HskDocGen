@@ -406,12 +406,7 @@ export const hsk_list = [
   { slNo: 398, hanzi: "盗窃 (偷盗/偷窃)(扒窃/扒手)", pinyin: "dào qiè", meaning: "She STOLE all my money | She is accused of THEFT | (Careful of PICKPOCKETs)" },
   { slNo: 399, hanzi: "得不偿失", pinyin: "dé bù cháng shī", meaning: "(妖神记) Don't change Hei An Gong Hui, else THE GAINS DO NOT COMPENSATE FOR THE LOSSES if we are ambushed" },
   { slNo: 400, hanzi: "得力 (有才干)", pinyin: "dé lì", meaning: "She is a CAPABLE/COMPETENT person/tool | She'll be a GOOD assistant to you | She suggested a CAPABLE/GOOD solution (ability/competence)" },
-  // -------------- backwards end
 
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
-
-  // -------------- backwards start
   { slNo: 401, hanzi: "在...得天独厚", pinyin: "dé tiān dú hòu", meaning: "She is BLESSED BY HEAVEN in cooking" },
   { slNo: 402, hanzi: "得罪 (违犯/冒犯/触犯)", pinyin: "dé zuì", meaning: "Zhao Wuji OFFENDed so many in his youth" },
   { slNo: 403, hanzi: "蹬", pinyin: "dēng", meaning: "While swimming use your legs to THRUST water | She PEDALLED her cycle went up the hill" },
@@ -437,7 +432,6 @@ export const hsk_list = [
   { slNo: 423, hanzi: "典型 (榜样)", pinyin: "diǎnxíng", meaning: "She was a TYPICAL housewife/programmer" },
   { slNo: 424, hanzi: "床垫 (地垫/门垫)", pinyin: "diàn", meaning: "I need to buy a MATTRESS | Did you buy carpet and door MAT" },
   { slNo: 425, hanzi: "电源 (电源线) (电源插座)", pinyin: "diànyuán", meaning: "Our ELECTRIC POWER SOURCE is destroyed | I need to buy power cables for my PC/house | Can you help me set up our power point/sockets" },
-  // -------------- backwards end
 
   { slNo: 426, hanzi: "奠定", pinyin: "diàn dìng", meaning: "Solo team ESTABLISHED/LAID a solid FOUNDATION in coding for future generations" },
   { slNo: 427, hanzi: "惦记 (纪念/想念/思念/怀念)", pinyin: "diàn jì", meaning: "I'll always MISS/THINK OF you when I return home" },
@@ -464,9 +458,6 @@ export const hsk_list = [
   { slNo: 448, hanzi: "动静", pinyin: "dòng jing", meaning: "There is no DETECTABLE MOVEMENT in her body, she might be dead" },
   { slNo: 449, hanzi: "动力", pinyin: "dòng lì", meaning: "(FORCE THAT MAKES THINGS MOVE|motivation) Wind is the POWER that makes windmill spin | You are the POWER that makes me try harder" },
   { slNo: 450, hanzi: "(血脉) 动脉 (静脉)", pinyin: "dòng mài", meaning: "Blood vessels have ARTERY and veins" },
-  /////////////////////////////// - backwards end
-
-
 
   { slNo: 451, hanzi: "动身 (出发/上路)", pinyin: "dòng shēn", meaning: "Fortunately the rain stopped before we STARTED/LEFT FOR THE JOURNEY" },
   { slNo: 452, hanzi: "动手 (搏斗/打架)", pinyin: "dòng shǒu", meaning: "Don't start to FIGHT/PUNCH among friends" },
