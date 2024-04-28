@@ -853,7 +853,7 @@ export const hsk_list = [
   { slNo: 829, hanzi: "混浊 (肮脏)", pinyin: "hùnzhuó", meaning: "muddy/turbid (dirty/filthy)" },
   { slNo: 830, hanzi: "活该", pinyin: "huógāi", meaning: "You/It deserve(s) it" },
   { slNo: 831, hanzi: "活力 (精力) (体力/脑力)", pinyin: "huólì", meaning: "energy/vitality (stamina/mental power)" },
-  { slNo: 832, hanzi: "火箭", pinyin: "huǒjiàn", meaning: "rocket" },
+  { slNo: 832, hanzi: "火箭 (箭/射箭)", pinyin: "huǒjiàn", meaning: "rocket (arrow/shoot an arrow)" },
   { slNo: 833, hanzi: "火焰", pinyin: "huǒyàn", meaning: "flame/blaze" },
   { slNo: 834, hanzi: "火药", pinyin: "huǒyào", meaning: "gunpowder" },
   { slNo: 835, hanzi: "货币", pinyin: "huòbì", meaning: "currency/money" },
