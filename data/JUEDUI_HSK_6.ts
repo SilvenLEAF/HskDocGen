@@ -277,9 +277,9 @@ export const hsk_list = [
   { slNo: 272, hanzi: "呈现", pinyin: "chéngxiàn", meaning: "to appear/emerge/present (a certain appearance)" },
   { slNo: 273, hanzi: "磅秤 (称重机/体重机)", pinyin: "chèng", meaning: "balance (weight machine)" },
   { slNo: 274, hanzi: "吃苦(受苦)", pinyin: "chīkǔ", meaning: "to bear hardships (suffer hardships)" },
+  { slNo: 275, hanzi: "吃力 (困难)", pinyin: "chī lì", meaning: "Carrying this box is really TOUGH/LABORIOUS/REQUIREs BIG EFFORT (difficult/challenging)" },
 
   // -------------- backwards start
-  { slNo: 275, hanzi: "吃力 (困难)", pinyin: "chī lì", meaning: "Carrying this box is really TOUGH/LABORIOUS/REQUIREs BIG EFFORT (difficult/challenging)" },
   { slNo: 276, hanzi: "迟钝 (迟缓) (灵活)", pinyin: "chí dùn", meaning: "She reacts very SLOW-ly/SLUGGISH-ly to this problem | (斗罗大陆 She has become SLOW/SLUGGISH due to the venom of 毒斗罗) | (斗罗大陆 She/Her thinking is very AGILE/FLEXIBLE) (mental | physical slowness)" },
   { slNo: 277, hanzi: "迟缓 (迟钝) (灵活)", pinyin: "chí huǎn", meaning: "(斗罗大陆) She has become SLOW/SLUGGISH due to the venom of 毒斗罗 | (She reacts very SLOW-ly/SLUGGISH-ly to this problem) | (斗罗大陆 She/Her thinking is very AGILE/FLEXIBLE) (mental | physical slowness)" },
   { slNo: 278, hanzi: "迟疑 (犹豫)", pinyin: "chí yí", meaning: "(GGS) She initially HESITATEd for a moment when Lao Han proposed | The reason for her HESITATION is unknown" },
