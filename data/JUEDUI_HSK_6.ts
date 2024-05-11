@@ -712,12 +712,17 @@ export const hsk_list = [
 
   { slNo: 676, hanzi: "共计 (一共/一起) (总共/总计)", pinyin: "gòngjì", meaning: "in total" },
   { slNo: 677, hanzi: "共鸣 (同感) (...引起了...的共鸣)", pinyin: "gòngmíng", meaning: "resonance (to resonate with)" },
-  { slNo: 678, hanzi: "勾结 (串通) (分裂)", pinyin: "gōujié", meaning: "to collude with/to collaborate with/to gang up with (to split up)" },
+
+  { slNo: 678, hanzi: "勾结", pinyin: "gōujié", meaning: "神圣家 COLLUDEd WITH the 黑暗公会 to rule 光辉之城" },
+
   { slNo: 679, hanzi: "钩子", pinyin: "gōuzi", meaning: "hook" },
   { slNo: 680, hanzi: "构思", pinyin: "gòusī", meaning: "to design/plan something creative (to create)" },
-  { slNo: 681, hanzi: "孤独 (孤单) (热闹)", pinyin: "gūdú", meaning: "loneliness" },
-  { slNo: 682, hanzi: "孤立 (隔离) (隔绝)", pinyin: "gūlì", meaning: "isolated/to isolate" },
-  { slNo: 683, hanzi: "辜负", pinyin: "gūfù", meaning: "to fail to live up (to expectations)/to let down/disappoint" },
+
+  { slNo: 681, hanzi: "孤独 (孤单)", pinyin: "gū dú (gū dān)", meaning: "(GGS) Solo, Do you know I had how much LONELINESS | In this LONELY world she found her true love" },
+  { slNo: 682, hanzi: "孤立", pinyin: "gū lì", meaning: "She loves to be LEFT ALONE/ISOLATED/CUT OFF FROM OTHERS | He caused trouble so he was ISOLATED/CUT OFF from others | The kitten felt ISOLATED being trapped in the house alone | In this new city I am feeling ISOLATED" },
+
+  { slNo: 683, hanzi: "辜负", pinyin: "gū fù", meaning: "She FAILED TO LIVE UP TO my expectations | If you don't deliver on time, you'll LET DOWN/FAIL TO LIVE UP TO their trust" },
+
   { slNo: 684, hanzi: "姑且", pinyin: "gūqiě", meaning: "for the time being/tentatively" },
   { slNo: 685, hanzi: "古董 (董事长)", pinyin: "gǔdǒng", meaning: "antique (chairman of the board)" },
   { slNo: 686, hanzi: "古怪 (奇怪/奇妙)(平常)", pinyin: "gǔguài", meaning: "oddly/queer (things that catch your attention because they're a bit quirky or out of the ordinary)" },
@@ -725,45 +730,56 @@ export const hsk_list = [
   { slNo: 688, hanzi: "股份 (股票)", pinyin: "gǔfèn", meaning: "shares (in a company) (stocks)" },
   { slNo: 689, hanzi: "鼓动 (压制) (动员)", pinyin: "gǔdòng", meaning: "to encite/agitate/arouse" },
   { slNo: 690, hanzi: "骨干 (脊梁骨)", pinyin: "gǔgàn", meaning: "main supporting part/fig. backbone (backbone)" },
-  { slNo: 691, hanzi: "固然 (当然)", pinyin: "gùrán", meaning: "indeed/of course" },
-  { slNo: 692, hanzi: "固体 (流体/液体) (气体)", pinyin: "gùtǐ", meaning: "solid (liquid) (gas)" },
+
+  { slNo: 691, hanzi: "固然 (当然)", pinyin: "gùrán", meaning: "ALTHOUGH he is young BUT he is stronger than anyone | ALTHOUGH this problem is difficult BUT we can definitely resolve it | (She is OF COURSE beautiful)" },
+  { slNo: 692, hanzi: "固体 (流体/液体) (气体) (固/液/气-态)", pinyin: "gùtǐ", meaning: "冰 is a SOLID, 水 is a LIQUID and 蒸汽 (zhēng qì) is a GAS" },
+
   { slNo: 693, hanzi: "固有 (继承)", pinyin: "gùyǒu", meaning: "native/inherent (quality) (to inherit/succeed to the throne etc/carry on a tradition etc)" },
   { slNo: 694, hanzi: "固执 (顽固/倔强) (专横)", pinyin: "gùzhi", meaning: "stubborn (arrogant and domineering)" },
   { slNo: 695, hanzi: "顾虑 (担心/操心)", pinyin: "gùlǜ", meaning: "concern/to be concerned about" },
   { slNo: 696, hanzi: "顾问 (参谋)(谋臣) (谋士)", pinyin: "gùwèn", meaning: "consultant/adviser (to give advice) (imperial strategic adviser) (tatician/strategist/skilled manipulator)" },
-  { slNo: 697, hanzi: "故乡 (家乡)", pinyin: "gùxiāng", meaning: "hometown/homeland" },
-  { slNo: 698, hanzi: "故障 (排查故障)", pinyin: "gùzhàng", meaning: "fault/defect/bug (in software) (to troubleshoot)" },
-  { slNo: 699, hanzi: "雇佣 (录取 )", pinyin: "gùyōng", meaning: "to hire/employ (to accept an applicant or an employee/to hire a job candidate)" },
-  { slNo: 700, hanzi: "拐杖 (手杖)", pinyin: "guǎizhàng", meaning: "crutch/walking stick (cane/stick)" },
+
+  { slNo: 697, hanzi: "故乡 (家乡)", pinyin: "gù xiāng", meaning: "Where is your HOMETOWN/HOMELAND | I miss my HOMETOWN/HOMELAND" },
+  { slNo: 698, hanzi: "故障 (排查故障) (调试)", pinyin: "gù zhàng", meaning: "There is a MALFUNCTION/DEFECT/BUG in this machine we need to resolve it | There is a BUG/DEFECT in this Software | Let's TROUBLESHOOT this bug/defect together | (I love DEBUGGING bugs)" },
+  { slNo: 699, hanzi: "雇佣 (录取)", pinyin: "gù yōng", meaning: "They HIRED/EMPLOYED a new employee for managing the Empauwer Bot | They HIRED me to do backend stuff | (The university ACCEPTED her | The company has ACCEPTED/HIRED her as an Intern | We HIRED/ACCEPTED a famous Cook)" },
+  { slNo: 700, hanzi: "拐杖 (手杖)", pinyin: "guǎi zhàng", meaning: "I broke my leg so I need a CRUTCH to walk | I lost one of my CRUTCHes | (GGS) Grandpa Han needs a WALKING STICK to help her walk | (GGS Grandpa Han beat Lao Han with his WALKING STICK)" },
+  /////////////////////////////// - backwards end
 
   /* -------------------------- completed up to here -------------------------- */
   /* -------------------------------------------------------------------------- */
 
-  { slNo: 701, hanzi: "关怀 (关心/关注)", pinyin: "guānhuái", meaning: "to show care for" },
-  { slNo: 702, hanzi: "关照 (照顾)", pinyin: "guānzhào", meaning: "to take care of/look after" },
-  { slNo: 703, hanzi: "官方 (非官方) (官方正品)", pinyin: "guānfāng", meaning: "official (unofficial)" },
-  { slNo: 704, hanzi: "观光 (旅游/游览/出游) (参观)", pinyin: "guānguāng", meaning: "to tour/go sightseeing" },
-  { slNo: 705, hanzi: "管辖 (统治)(主宰)", pinyin: "guǎnxiá", meaning: "jurisdiction/to administer (to rule a country/govern) (to dominate/rule/master)" },
-  { slNo: 706, hanzi: "罐子 (水壶)(瓦罐)", pinyin: "guàn", meaning: "jar/pitcher (water jug)(earthen jar eg curd)" },
-  { slNo: 707, hanzi: "贯彻 (实现)", pinyin: "guànchè", meaning: "to implement" },
-  { slNo: 708, hanzi: "灌溉 (浇水)", pinyin: "guàngài", meaning: "to irrigate (to water plants)" },
-  { slNo: 709, hanzi: "惯例", pinyin: "guànlì", meaning: "convention/usual practice" },
-  { slNo: 710, hanzi: "光彩 (光芒/光明)", pinyin: "guāngcǎi", meaning: "brilliance/radiance" },
-  { slNo: 711, hanzi: "光辉 (荣誉/光荣) (骄傲)", pinyin: "guānghuī", meaning: "glory (pride)" },
-  { slNo: 712, hanzi: "光芒 (光明/光彩)", pinyin: "guāngmáng", meaning: "rays of light (radiance)" },
-  { slNo: 713, hanzi: "光荣 (荣誉/光辉) (骄傲)", pinyin: "guāngróng", meaning: "glory (pride)" },
-  { slNo: 714, hanzi: "广阔 (广大/宽广/宽大)", pinyin: "guǎngkuò", meaning: "wide" },
-  { slNo: 715, hanzi: "规范 (常态)", pinyin: "guīfàn", meaning: "standards/norm (norm/normal state)" },
-  { slNo: 716, hanzi: "规格", pinyin: "guīgé", meaning: "specs/specifications" },
-  { slNo: 717, hanzi: "规划", pinyin: "guīhuà", meaning: "a plan or planning/to plan how to do sth" },
-  { slNo: 718, hanzi: "规章", pinyin: "guīzhāng", meaning: "rules/regulation" },
-  { slNo: 719, hanzi: "归根到底 (毕竟/终究/总算)", pinyin: "guīgēndàodǐ", meaning: "after all/in the end/ultimately" },
-  { slNo: 720, hanzi: "归还 (还给/送还)", pinyin: "guīhuán", meaning: "to return sth/revert (to return sth to sb)" },
-  { slNo: 721, hanzi: "轨道 (轨道交通)", pinyin: "guǐdào", meaning: "track/orbit (railway/tramline) (MRT)" },
-  { slNo: 722, hanzi: "跪 (跪下/下跪)(跪拜)", pinyin: "guì", meaning: "to kneel (to kneel down)(to kowtow)" },
-  { slNo: 723, hanzi: "贵族 (平民) (高尚/神圣/崇高)", pinyin: "guìzú", meaning: "noble/aristocrat" },
-  { slNo: 724, hanzi: "棍棒 (棒子) (棒球)", pinyin: "gùnbàng", meaning: "club/staff/stick (baseball)" },
-  { slNo: 725, hanzi: "国防 (城防)(民防)", pinyin: "guófáng", meaning: "national defense (city defense)(civil defense)" },
+  /////////////////////////////// - backwards start
+  { slNo: 701, hanzi: "关怀 (关心/关注)", pinyin: "guān huái", meaning: "I CARE ABOUT you alot | I'm really CONCERNED about her | 妖神记 She SHOWs CARE FOR Nieli | 妖神记 Even though ZiYun always pushes away Nieli, she actually CARES ABOUT/SHOWs CARE fo him a lot | 妖神记 ZiYun Are you CONCERNED ABOUT/CARING FOR me" },
+  { slNo: 702, hanzi: "关照 (照顾)", pinyin: "guān zhào", meaning: "I'll TAKE CARE OF/LOOK AFTER you | She TOOK CARE OF/LOOKED AFTER me when I was in the hospital" },
+  { slNo: 703, hanzi: "官方 (正式) (非-官方/正式) ", pinyin: "guān fāng", meaning: "The match is OFFICIAL now | This is an UN-OFFICIAL match between them | The OFFICIAL release date is not out yet | This is the OFFICIAL announcement from Tencent | This is Haikyuu's OFFICIAL channel/trailler/theme song of Haikyuu Gomisuteba no Kessen" },
+  { slNo: 704, hanzi: "观光 (参观)", pinyin: "guānguāng", meaning: "She spent the whole day SIGHT-SEEing Paris | If you want to SIGHT-SEE Singapore or India let me know, I'll be your guide | (We VISITed Museum and Zoo to SEE and LEARN new things | We are going to Zoo to SEE 熊猫 and 老虎 | We went to Museum to SEE Dinosaur Fossils and Extinct Mammals)" },
+  { slNo: 705, hanzi: "管辖 (统治)", pinyin: "guǎnxiá", meaning: "This falls under Sarangoon JURIDICTION | Our manager/Sarangoon HAS JURIDICTION OVER this project/this city | (Xue Feng Emperor RULEs this country/city/people of this city)" },
+  { slNo: 706, hanzi: "罐子 (水壶) (瓦罐)", pinyin: "guàn", meaning: "Let's use this JAR to store achaar | My mom has a very old JAR given by my 外公 and mom stores old tetul/tamarind in it | (Can you pass me the WATER JUG please) | (I miss those olden days when doi/curd was sold in an EARTHEN JAR it was so delicious | In uponoin/boishnobseba etc when we have makhaprosad we often use EARTHEN JAR to serve doi)" },
+  { slNo: 707, hanzi: "贯彻 (实现)", pinyin: "guàn chè", meaning: "I want to IMPLEMENT this logic in my code | Let's IMPLEMENT these rules in my country too | Who is going to IMPLEMENT this change Is it UI or API | (I'll MAKE our plan INTO a REALITY | I want to REALIZE/MAKE your suggestions/plans INTO a REALITY)" },
+  { slNo: 708, hanzi: "灌溉 (浇水)", pinyin: "guàn gài", meaning: "Farmers are IRRIGATE-ing the fields | The IRRIGATION system in this area is pretty advanced | (She loves to WATER the flowers/garden every afternoon)" },
+  { slNo: 709, hanzi: "惯例", pinyin: "guàn lì", meaning: "Brushing teeth every night is our COMMON/USUAL PRACTICE | Starting speech by thanking everyone is a COMMON PRACTICE/NORMAL CONVENTION | Is there any naming or programming CONVENTIONS/COMMON PRACTICEs we should follow in this company and if yes do we have any docs for it" },
+  { slNo: 710, hanzi: "光彩 (光芒/光明)", pinyin: "guāng cǎi", meaning: "The stars and sun in the sky emit the RAYS of LIGHT/RADIANCE | The painting shows the SPLENDOUR/RADIANCE of nature | 近战法师 I stopped to look back at your BRILLIANCE/RADIANCE/RAYS of LIGHT" },
+  { slNo: 711, hanzi: "光辉 (光荣/荣誉) (骄傲)", pinyin: "guāng huī", meaning: "Both in Go Go Squid and 全职高手 we fight for GLORY | (GGS Granpa is proud of you, you are my PRIDE)" },
+  { slNo: 712, hanzi: "光芒 (光明/光彩)", pinyin: "guāng máng", meaning: "The stars and sun in the sky emit the RAYS of LIGHT/RADIANCE | The painting shows the SPLENDOUR/RADIANCE of nature | 近战法师 I stopped to look back at your BRILLIANCE/RADIANCE/RAYS of LIGHT" },
+  { slNo: 713, hanzi: "光荣 (荣誉/光辉) (骄傲)", pinyin: "guāng róng", meaning: "Both in Go Go Squid and 全职高手 we fight for GLORY | (GGS Granpa is proud of you, you are my PRIDE)" },
+  { slNo: 714, hanzi: "广阔 (宽广/宽大/广大)", pinyin: "guǎng kuò", meaning: "The grassland here is to VAST/WIDE | What a VAST/WIDE ocean, wherever I see is blue and endless" },
+  { slNo: 715, hanzi: "规范 (标准)", pinyin: "guīfàn", meaning: "We should follow the STANDARDS/STANDARD RULES of our school | (This is the STANDARD/NORM/NORMAL STATE of the magical power that each 法师 has in our 冰蓝帝国)" },
+  { slNo: 716, hanzi: "规格", pinyin: "guī gé", meaning: "Apple computer has high SPECS/SPECIFICATIONS | What are the SPECS/SPECIFICATIONS of a good programming Laptop | What are the SPECS/SPECIFICATIONS of the ROG Strix 19" },
+  { slNo: 717, hanzi: "规划 (计划)", pinyin: "guī huà", meaning: "Mom made a PLAN/PLANNING for our vacation and arranged many fun activities | We need to MAKE A PLANNING for our future and decide what to do | The PLANNING of this city is pretty good, with convinient transportation and beautiful environment | (His PLAN was pretty good but still failed | She PLANned to kill me with her love)" },
+  { slNo: 718, hanzi: "规章 (规则) (规律/模式)", pinyin: "guīzhāng", meaning: "The RULES/REGULATIONS of schools/home etc | The RULES of school's say we can't eat in the classroom | (The RULES of a game or activity | We need to follow the RULES of soccer and play fair) | (妖神记 My 孙女婿 taught me how to understand the LAW of magic | You know Newton's LAW of motion) | (His attack must have a REGULAR PATTERN let's observe carefully)" },
+  { slNo: 719, hanzi: "归根到底 (毕竟/终究)", pinyin: "guī gēn dào dǐ", meaning: "She can overcome any battle AFTER ALL she is the Empress of the Dragon Emperor | AFTER ALL she is the best player in our team | Learn hard, AFTER ALL studying is the key to success" },
+  { slNo: 720, hanzi: "归还 (送还/还给)", pinyin: "guī huán", meaning: "RETURN my 冰神之石 | RETURN the Fire Sect Sword TO ITS RIGHTFUL OWNER" },
+  { slNo: 721, hanzi: "轨道 (轨道交通)", pinyin: "guǐ dào", meaning: "The train went off the TRACK/ORBIT | The railway TRACK is broken ahead | The moon revolves aroudn the earth in her ORBIT | (I often take MRT/SUBWAY to go to Harbour Front from One North)" },
+  { slNo: 722, hanzi: "跪 (跪下)", pinyin: "guì", meaning: "You are infront of the Emperor of 水蓝帝国 but you don't KNEEL/KOWTOW | KNEEL DOWN/KOTOW the ShuiLan Emperor" },
+  { slNo: 723, hanzi: "贵族 (平民)", pinyin: "guì zú", meaning: "Nieli also belongs from a NOBLE/ARISTOCRAT family but we stands up for the COMMON PEOPLE" },
+  { slNo: 724, hanzi: "棍棒 (棒子) (棒球)", pinyin: "gùn bàng", meaning: "胡桃 uses a spear, 凌人 uses a sword, 一斗 uses a CLUB WEAPON | (The Yakuzas came to beat them with CLUBs and BATs) | (One Outs, Major, Diamon no Ace are BASEBALL animes)" },
+  { slNo: 725, hanzi: "国防 (城防)(民防)", pinyin: "guó fáng", meaning: "The NATIONAL DEFENSE of China is pretty strong | (The CITY DEFENSE of 光辉之城 is not that weak) | (The CIVIL DEFENSE of India is really weak even though COUNTRY DEFENSE and CITY DEFENSE are strong)" },
+  /////////////////////////////// - backwards end
+
+
+
+
+
   { slNo: 726, hanzi: "国务院", pinyin: "guówùyuàn", meaning: "State Council of the People's Republic of China" },
   { slNo: 727, hanzi: "果断 (坚决/決心) (犹豫/迟疑)", pinyin: "guǒduàn", meaning: "firm/decisive (to hesitate)" },
   { slNo: 728, hanzi: "过度 (逾期)", pinyin: "guòdù", meaning: "excessive (overdue)" },
@@ -789,6 +805,10 @@ export const hsk_list = [
   { slNo: 748, hanzi: "豪迈 (雄伟)", pinyin: "háomài", meaning: "heroic/grand/majestic" },
   { slNo: 749, hanzi: "毫米 (厘米)(米)(公里)", pinyin: "háomǐ", meaning: "millimeter (centimeter)(meter)(kilometer)" },
   { slNo: 750, hanzi: "毫无...地 (毫无疑虑)", pinyin: "háowú", meaning: "without any.../not in the least/to have none at all" },
+  /////////////////////////////// - backwards end
+
+
+
   { slNo: 751, hanzi: "号召", pinyin: "hàozhào", meaning: "to call for everyone to join in the fun eg game treasure hunt etc" },
   { slNo: 752, hanzi: "耗费 (消耗)", pinyin: "hàofèi", meaning: "to use/consume (using/consuming something until there's not much left eg using a little bit of color or ink when drawing) (to use up/consume)" },
   { slNo: 753, hanzi: "呵", pinyin: "hē", meaning: "Oh" },
