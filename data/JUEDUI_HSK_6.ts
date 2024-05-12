@@ -280,6 +280,10 @@ export const hsk_list = [
   { slNo: 275, hanzi: "吃力 (困难)", pinyin: "chī lì", meaning: "Carrying this box is really TOUGH/LABORIOUS/REQUIREs BIG EFFORT (difficult/challenging)" },
 
   // -------------- backwards start
+  // -------------- backwards start
+  // -------------- backwards start
+  // -------------- backwards start
+  // -------------- backwards start
   { slNo: 276, hanzi: "迟钝 (迟缓) (灵活)", pinyin: "chí dùn", meaning: "She reacts very SLOW-ly/SLUGGISH-ly to this problem | (斗罗大陆 She has become SLOW/SLUGGISH due to the venom of 毒斗罗) | (斗罗大陆 She/Her thinking is very AGILE/FLEXIBLE) (mental | physical slowness)" },
   { slNo: 277, hanzi: "迟缓 (迟钝) (灵活)", pinyin: "chí huǎn", meaning: "(斗罗大陆) She has become SLOW/SLUGGISH due to the venom of 毒斗罗 | (She reacts very SLOW-ly/SLUGGISH-ly to this problem) | (斗罗大陆 She/Her thinking is very AGILE/FLEXIBLE) (mental | physical slowness)" },
   { slNo: 278, hanzi: "迟疑 (犹豫)", pinyin: "chí yí", meaning: "(GGS) She initially HESITATEd for a moment when Lao Han proposed | The reason for her HESITATION is unknown" },
@@ -383,10 +387,7 @@ export const hsk_list = [
   { slNo: 373, hanzi: "怠慢 (忽视)", pinyin: "dài màn", meaning: "Don't NEGLECT your DUTIES/RESPONSIBILITIES | (She NEGLECTED the doctor's advice of eating on time)" },
   { slNo: 374, hanzi: "担保 (保证) (保障) (保险)", pinyin: "dān bǎo", meaning: "(His friend GUARANTEEd his loan) | (I GUARANTEE you'll surely win) | (Govt/Emperor will GUARANTEE us education/healthy life) | (Do you have life INSURANCE)" },
   { slNo: 375, hanzi: "胆怯(地) (胆小鬼)", pinyin: "dǎnqiè", meaning: "She is a TIMID/COWARDLY child | She left the room TIMIDly | (She is not a COWARD)" },
-  //////////////////// wanting to end here 
 
-
-  // -------------- backwards start
   { slNo: 376, hanzi: "淡季 (旺季)", pinyin: "dàn jì (wàng jì)", meaning: "During LOW SEASON demand is low so all things are cheaper but in HIGH SEASON its the opposite" },
   { slNo: 377, hanzi: "淡水 (盐水) (清水)", pinyin: "dàn shuǐ", meaning: "River has FRESH WATER and sea has SALT WATER | This river has CLEAR/CLEAN WATER" },
   { slNo: 378, hanzi: "蛋白质 (维生素/维他命)", pinyin: "dàn bái zhì", meaning: "GGS You have to eat more PROTEIN and Vitamins (vitamin)" },
@@ -516,11 +517,7 @@ export const hsk_list = [
   { slNo: 498, hanzi: "发誓 (承诺)", pinyin: "fā shì", meaning: "I SWEAR/PROMISE I will love you forever | He PROMISEd to pay off all debt by next month" },
   { slNo: 499, hanzi: "发行 (发布)", pinyin: "fā xíng", meaning: "Our software will LAUNCH/RELEASE in April | They RELEASEd a new plan/news/announcement" },
   { slNo: 500, hanzi: "发炎 (嗓子/喉咙) (牙龈)", pinyin: "fā yán (yá yín)", meaning: "He can't speak due to throat infection | You have throat/skin INFLAMMATION" },
-  /////////////////////////////// - backwards end
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
 
-  /////////////////////////////// - backwards start
   { slNo: 501, hanzi: "发扬 (倡导/提倡) (倡议/建议)", pinyin: "fā yáng", meaning: "We should PROMOTE/CARRY FORWARD the spirit of teamwork (making the good stuff even better and well-appreciated) | The Govt and this society has been trying to PROMOTE/CARRY FORWARD traditional culture" },
   { slNo: 502, hanzi: "发育 (生长)", pinyin: "fā yù", meaning: "The baby's body will MATURE/DEVELPE well | The plant requires water and light to DEVELOP/GROW well (Physical or Biological or Orverall Growth)" },
   { slNo: 503, hanzi: "法人", pinyin: "fǎ rén", meaning: "Both my company and her school are a LEGAL ENTITY | Is this community a LEGAL ENTITY | I'll meet you with my LEGAL PERSON" },
@@ -546,9 +543,7 @@ export const hsk_list = [
   { slNo: 523, hanzi: "方位 (方向) (方面) (指南针)", pinyin: "fāng wèi", meaning: "(Our home is in the north DIRECTION of the city | Dr Stone. The LOCATION of the ship is closely guarded secret) | (Which DIRECTION did she went to) | (From this ASPECT/DIRECTION if we think/see she is beautiful)" },
   { slNo: 524, hanzi: "方言 (当地) (口音)", pinyin: "fāng yán", meaning: "In home they speak local DIALECT (local) | (GGS) She can speak the Kansai DIALECT | (Her ACCENT is so beautiful and cute/british)" },
   { slNo: 525, hanzi: "方圆 (...里) (...里之内)", pinyin: "fāng yuán", meaning: "There were no trees WITHIN 300 meters | This is a best store WITHIN 50 miles | You can't find a teacher like him WITHIN A RADIUS OF 100 km" },
-  /////////////////////////////// - backwards end
 
-  /////////////////////////////// - backwards start
   { slNo: 526, hanzi: "方针 (政策) (策略)", pinyin: "fāng zhēn", meaning: "School's GUIDELINE is to study hard and respect each other | (We should follow the school's POLICIES and not bully others | The Govt release new POLICIES to promote economic development) | (近战法师 I love your STRATEGY) (like a map|rules for all|strategy)" },
   { slNo: 527, hanzi: "防守 (防御/保卫) (进攻/攻击) (耐久) (-型)", pinyin: "fáng shǒu", meaning: "(炼气十万年 The Dragon DEFENDs my clan | The team has a very stron DEFENSE) | (ボウフリ Maple-chan is a flying fortress, We can't break  DEFENSE | She will DEFEND all her friends) | (We'll protect our Kingdom/Castle from the enemy's attack) (Offensive|Defensive|Enduransive)" },
   { slNo: 527, hanzi: "防御 (防守/保卫) (进攻/攻击) (耐久) (-型)", pinyin: "fáng yù", meaning: "(ボウフリ Maple-chan is a flying fortress, We can't break  DEFENSE | She will DEFEND all her friends) | (炼气十万年 The Dragon DEFENDs my clan | The team has a very stron DEFENSE) | (We'll protect our Kingdom/Castle from the enemy's attack) (Offensive|Defensive|Enduransive)" },
@@ -574,9 +569,7 @@ export const hsk_list = [
   { slNo: 548, hanzi: "分红 (奖金)", pinyin: "fēn hóng", meaning: "The company distributes its DIVIDENDs to all shareholders every year | (And we as employees get BONUSes)" },
   { slNo: 549, hanzi: "分解", pinyin: "fēn jiě", meaning: "Let's DECOMPOSE/BREAK DOWN H2O into Hydrogen and Oxygen | Can you DECOMPOSE/BREAK DOWN the his secret of power/legendary potion | Let's BREAK DOWN the problem and try solving step by step" },
   { slNo: 550, hanzi: "分裂 (动荡)", pinyin: "fēn liè", meaning: "This incident SPLIT/DIVIDEd/SEPERATEd the family | Political DIVISION led a social unrest/turmoil (SOCIAL UNREST) | The DIVISION between their team impacted me a lot" },
-  /////////////////////////////// - backwards end
 
-  /////////////////////////////// - backwards start
   { slNo: 551, hanzi: "分泌 (腐蚀/腐蚀性) (酸)", pinyin: "fēnmì", meaning: "Sweat glands SECRETE water | Stomach SECRETEs corrosive acid (Dr Stone. to corrode)" },
   { slNo: 552, hanzi: "分明 (明显) (显然)", pinyin: "fēnmíng", meaning: "You are CLEARly/VIVIDly wrong | These two colours are CLEARly/VIVIDly not same, one is black and noe is white | After listening her story the plot became CLEAR/VIVID" },
   { slNo: 553, hanzi: "分歧 (矛盾)", pinyin: "fēnqí", meaning: "We had our DIFFERENCES OF OPINION on this issue | There were some DISAGREEMENTS/DIFFERENCES OF OPINIONS in the meeting that need further discussion | The DIFFERENCES OF OPINIONS between them  have led tension in their relationship | (HunterXHunter Your words are full of CONTRADICTION | His words and actions often have CONTRADICTIONs | She both loves and hates him with CONTRADICTING/CONFLICTING emotions in her heart)" },
@@ -758,37 +751,32 @@ export const hsk_list = [
   { slNo: 723, hanzi: "贵族 (平民)", pinyin: "guì zú", meaning: "Nieli also belongs from a NOBLE/ARISTOCRAT family but we stands up for the COMMON PEOPLE" },
   { slNo: 724, hanzi: "棍棒 (棒子) (棒球)", pinyin: "gùn bàng", meaning: "胡桃 uses a spear, 凌人 uses a sword, 一斗 uses a CLUB WEAPON | (The Yakuzas came to beat them with CLUBs and BATs) | (One Outs, Major, Diamon no Ace are BASEBALL animes)" },
   { slNo: 725, hanzi: "国防 (城防)(民防)", pinyin: "guó fáng", meaning: "The NATIONAL DEFENSE of China is pretty strong | (The CITY DEFENSE of 光辉之城 is not that weak) | (The CIVIL DEFENSE of India is really weak even though COUNTRY DEFENSE and CITY DEFENSE are strong)" },
-  /////////////////////////////// - backwards end
 
-
-
-
-
-  { slNo: 726, hanzi: "国务院", pinyin: "guówùyuàn", meaning: "State Council of the People's Republic of China" },
-  { slNo: 727, hanzi: "果断 (坚决/決心) (犹豫/迟疑)", pinyin: "guǒduàn", meaning: "firm/decisive (to hesitate)" },
-  { slNo: 728, hanzi: "过度 (逾期)", pinyin: "guòdù", meaning: "excessive (overdue)" },
-  { slNo: 729, hanzi: "过渡 (期/阶段)", pinyin: "guòdù", meaning: "(to) transition/transitional" },
-  { slNo: 730, hanzi: "过奖 (你过奖了)", pinyin: "guòjiǎng", meaning: "to flatter/overpraise" },
-  { slNo: 731, hanzi: "过滤 (筛子/凝乳)", pinyin: "guòlǜ", meaning: "to filter (sieve/curd)" },
-  { slNo: 732, hanzi: "过失 (失误/错误)", pinyin: "guòshī", meaning: "fault/error/negligence (responsibility for unintended negative consequences) (mistake/to make a mistake)" },
-  { slNo: 733, hanzi: "过问", pinyin: "guòwèn", meaning: "to ask a lot of questions" },
-  { slNo: 734, hanzi: "过瘾 (对...上瘾)", pinyin: "guòyǐn", meaning: "immensely enjoyable/satisfying (addiction/to be addicted)" },
-  { slNo: 735, hanzi: "过于 (过分/过度)", pinyin: "guòyú", meaning: "too much/excessively" },
-  { slNo: 736, hanzi: "嗨", pinyin: "hāi", meaning: "hi" },
-  { slNo: 737, hanzi: "海拔 (高程)", pinyin: "hǎibá", meaning: "height above sea level (elevation)" },
-  { slNo: 738, hanzi: "海滨 (海边/海岸) (湖泊/湖滨/湖边)(河/河滨/河边)", pinyin: "hǎibīn", meaning: "shore/coast/seaside (lake/lakeside) (sea/seaside)" },
-  { slNo: 739, hanzi: "含糊 (模糊/渺茫) (草率/马虎)", pinyin: "hánhu", meaning: "ambiguous/vague (careless)" },
-  { slNo: 740, hanzi: "含义 (意义/意思)", pinyin: "hányì", meaning: "meaning/significance" },
-  { slNo: 741, hanzi: "寒暄", pinyin: "hánxuān", meaning: "to exchange conventional greetings (like asking about their day or sharing a friendly hello how are you. it's a way to be kind and show that you care about the other person)" },
-  { slNo: 742, hanzi: "罕见 (难得/稀有/少有)", pinyin: "hǎnjiàn", meaning: "rare" },
-  { slNo: 743, hanzi: "捍卫 (保卫/护卫) (袭击)", pinyin: "hànwèi", meaning: "to defend/to safeguard (surprise attack/raid)" },
-  { slNo: 744, hanzi: "航空 (宇航员)", pinyin: "hángkōng", meaning: "aviation (exciting world of airplanes and flying high up in the sky) (astronaut)" },
-  { slNo: 745, hanzi: "航天 (航天器/航天飞机)(航天员/宇航员)", pinyin: "hángtiān", meaning: "space flight (astronaut)" },
-  { slNo: 746, hanzi: "航行", pinyin: "hángxíng", meaning: "to sail/fly/navigate" },
-  { slNo: 747, hanzi: "行列 (队伍) (加入了失业行列)", pinyin: "hángliè", meaning: "ranks/procession (line up)" },
-  { slNo: 748, hanzi: "豪迈 (雄伟)", pinyin: "háomài", meaning: "heroic/grand/majestic" },
-  { slNo: 749, hanzi: "毫米 (厘米)(米)(公里)", pinyin: "háomǐ", meaning: "millimeter (centimeter)(meter)(kilometer)" },
-  { slNo: 750, hanzi: "毫无...地 (毫无疑虑)", pinyin: "háowú", meaning: "without any.../not in the least/to have none at all" },
+  { slNo: 726, hanzi: "国务院 (总理/总统)", pinyin: "guó wù yuàn", meaning: "In China we have STATE COUNCIL of China and in India we have Cabinet of Ministers and both are national level | The STATE COUNCIL is the highest administrative body in CHINA and responsibile for implementing national policies | Prime Minister is the head of the STATE COUNCIL/CABINET of MINISTERS and not the President" },
+  { slNo: 727, hanzi: "果断 (果断地...)", pinyin: "guǒ duàn", meaning: "His actions in the crisis was very DECISIVE |  A DECISIVE kid will DECIDE QUICKLY what to do and DO IT right away | Xiao Hong DECISIVE-ly chose which toy she liked | The cat DECISIVE-ly chased the mouse the moment she saw it" },
+  { slNo: 728, hanzi: "过度 (过于) (账单 | 逾期)", pinyin: "guò dù", meaning: "(ワンナウツ) His EXCESSIVE (negative) confidence made him underestimate his opponent and lose the match | (The rules here are TOO MUCH (neutral) strict) | (My credit card bill and wifi bill is OVERDUE)" },
+  { slNo: 729, hanzi: "过渡 (过渡-期/-阶段)", pinyin: "guò dù", meaning: "The TRANSITION from Software Engineer to AI Engineer is not easy | The TRANSITION Period between spring and summary is warm and rainy | It is the first step of the TRANSITION phase | We TRANSITIONed from Software Engineer to Principal Engineer" },
+  { slNo: 730, hanzi: "过奖 (你过奖了)", pinyin: "guò jiǎng", meaning: "(微微一笑很倾城) You are OVER-PRAISING I'm not that great | 老师/张哥 You are OVER-PRAISING, there are lots of places I need to improve | Word of EXCESSIVE-PRAISE | You are OVER-PRAISING her work" },
+  { slNo: 731, hanzi: "过滤 (滤网)", pinyin: "guò lǜ", meaning: "Let's use a filter/sieve to FILTER milk or tea" },
+  { slNo: 732, hanzi: "过失 (失误/错误)", pinyin: "guò shī", meaning: "This is a serious MISTAKE (legal) and someone needs to take a responsibility | (His MISTAKE (sports) led to the failure of the game) | (He made a MISTAKE (general) in the exam)" },
+  { slNo: 733, hanzi: "过问", pinyin: "guò wèn", meaning: "I don't want you to ASK ABOUT/SHOW CONCERN FOR my skills | I love when you ASK ABOUT/SHOW CONVERN FOR my journey but not about my works | 老师 often ASKS ABOUT/SHOWS CONVERNS FOR our progress | 妈妈 don't want us to ASK ABOUT/SHOW CONCERN FOR family matters" },
+  { slNo: 734, hanzi: "过瘾 (对...上瘾)", pinyin: "guò yǐn", meaning: "This show is so IMMENSELY ENJOYABLE/SATISFYING | (I do not have any ADDICTION of alcohol | I am not ADDICTED to alcohol)" },
+  { slNo: 735, hanzi: "过于 (过度) (过分)", pinyin: "guò yú", meaning: "The rules of this place is TOO MUCH/EXCESSIVE-LY (neutral/positive or negative) strict | (EXCESSIVE (negative) drinking is bad for health | Your back pain is the result of EXCESSIVE hardword) (You are TOO MUCH | You said really TOO MUCH)" },
+  { slNo: 736, hanzi: "嗨", pinyin: "hāi", meaning: "Hi, how are you | Hi I am ShuiXin" },
+  { slNo: 737, hanzi: "海拔 (高度)", pinyin: "hǎi bá", meaning: "The HEIGHT ABOVE SEA LEVEL of this mountain is 9700 公里  | (The HEIGHT of this towar is 50 meter)" },
+  { slNo: 738, hanzi: "海滨 (海边/海岸) (湖泊 | 湖滨/湖边)(河 | 河滨/河边)", pinyin: "hǎi bīn", meaning: "I'd love to go to SEA-SHORE/SEASIDE | (Let's go to the LAKE-SHORE/SIDE of the Silver LAKE) | (Let's go to the RIVER-SHORE/SIDE of the Yangtze RIVER)" },
+  { slNo: 739, hanzi: "含糊 (模糊) (渺茫)", pinyin: "hán hu (mó hú) (miǎo máng)", meaning: "His answer/voice/instructions was very VAGUE/LACKS CLARITY | (The photo is BLURRY/VAGUE I can't see the people in it clearly | In rainly days the scenery outside becomes BLURRY/VAUGE) | (Our futures are UNCERTAIN/BLURRY/UNKOWN | We have to prepare for our UNCERTAIN/BLURRY/UNKNOWN future)" },
+  { slNo: 740, hanzi: "含义 (意义) (意思)", pinyin: "hán yì", meaning: "You don't know the MEANING/SIGNIFICANCE/IMPORTANCE of life | The MEANING/SIGNIFICANCE of this holiday is to remember and worship our ancestors | (The MEANING of this word is difficult to understand)" },
+  { slNo: 741, hanzi: "寒暄", pinyin: "hán xuān", meaning: "I'm trying to get the courage to EXCHANGE CONVENTIONAL GREETINGS with Singaporeans in Chinese (like asking about their day or sharing a friendly hello how are you. it's a way to be kind and show that you care about the other person)" },
+  { slNo: 742, hanzi: "罕见 (难得/稀有)", pinyin: "hǎn jiàn", meaning: "It's RARE | (妖神记) 梦魇系的妖兽 are RARE I only have 50" },
+  { slNo: 743, hanzi: "捍卫 (保护/守护) (防御/防守)", pinyin: "hàn wèi", meaning: "I'll PROTECT you from everyone who wants to harm you | Maple-chan will PROTECT her friends with her unbreakable DEFENSE and DEFEND any attacks" },
+  { slNo: 744, hanzi: "航空 (航空 旅行)", pinyin: "háng kōng", meaning: "Indigo is a famous AVIATION/AIR-TRAVEL company in India | AIR-TRAVEL industry is developing rapidly | (AIR TRAVEL is faster than faster than Water Travel and Land Travel)" },
+  { slNo: 745, hanzi: "航天 (航天员/宇航员)", pinyin: "háng tiān", meaning: "We are interested in AEROSPACE technology | (Dr Stone) Senku's father is an AEROSPACE Engineer and also an Astronaut (astronaut)" },
+  { slNo: 746, hanzi: "航行", pinyin: "háng xíng", meaning: "The ship is SAILing across the blue ocean | The plane is FLYING over the clouds | (ワンピース) We'll SAIL towards north to fine One Piece | I love to SAIL in cloudy sea/sky" },
+  { slNo: 747, hanzi: "行列 (-行-) (加入了...行列) (排队)", pinyin: "háng liè", meaning: "The LINE of the students today are neat | Today I officially joined the LINEs of the unemployed | (Xiao Han is in the 3rd line) | (You have to LINE UP to buy this)" },
+  { slNo: 748, hanzi: "豪迈 (宏伟/雄伟) (大教堂)", pinyin: "háo mài (hóng wěi/xióng wěi)", meaning: "The MAJESTIC/GRAND senery of the mountain attracts many 仙 | (原神) Monstard has a MAJESTIC/GRAND Cathedral" },
+  { slNo: 749, hanzi: "毫米 (厘米)(米)(公里)", pinyin: "háo mǐ", meaning: "10 MILLIMETER is 1 CENTIMETER | 10 CENTIMETER is 1 METER | 1000 METER is 1 KILOMETER" },
+  { slNo: 750, hanzi: "毫无 (毫无...地)", pinyin: "háo wú", meaning: "WITHOUT ANY doubt she is the best player in our team | WITHOUT ANY patience she waited for several hours" },
   /////////////////////////////// - backwards end
 
 
@@ -818,6 +806,7 @@ export const hsk_list = [
   { slNo: 773, hanzi: "宏伟 (伟大)", pinyin: "hóngwěi", meaning: "grand/magnificent (great)" },
   { slNo: 774, hanzi: "洪水 (泛滥)", pinyin: "hóngshuǐ", meaning: "flood (to submerge/drown/flood)" },
   { slNo: 775, hanzi: "喉咙 (嗓子)", pinyin: "hóulóng", meaning: "throat" },
+
   { slNo: 776, hanzi: "吼 (吼叫/吼声/狮吼) (嚎叫/狼嚎)", pinyin: "hǒu", meaning: "to roar (to howl)" },
   { slNo: 777, hanzi: "后代 (后人/传人继承人)", pinyin: "hòudài", meaning: "descendant (heir/successor)" },
   { slNo: 778, hanzi: "后顾之忧 (担忧)", pinyin: "hòugùzhīyōu", meaning: "worries behind (family worries) (to worry)" },
