@@ -810,7 +810,7 @@ export const hsk_list = [
   { slNo: 779, hanzi: "后勤", pinyin: "hòu qín", meaning: "LOGISTICS involves planning, supplying, and maintaining the distribution of goods and service and MILITARY LOGISTICS is a part of it and it focuses mainly on military resources | MILITARY LOGISTICS support is one of the key elements of victory in the battlefield | I want you to guarantee MILITARY LOGISTICS for this battle" },
   { slNo: 780, hanzi: "候选 (-人/-者)", pinyin: "hòu xuǎn", meaning: "He is one of the CANDIDATEs (to be elected/selected) for this year's ELECTION | There were 7 CANDIDATEs for our 班长 selection/election" },
   { slNo: 781, hanzi: "忽略 (忽视) (怠慢)", pinyin: "hū lüè (hū shì)", meaning: "We should not IGNORE this problem | He IGNORED the doctor's warningto ignore | (冰火魔厨 I NEGLECTed you when you were in my family 劈柴 | We should not NEGLECT our duties/work)" },
-  { slNo: 782, hanzi: "呼唤 (呼唤) (驯服)", pinyin: "hū huàn", meaning: "(GGS) Lao Han CALLed OUT Buff's NAME while looking for him in the 火车站 | Call of the Wild was a beautiful movie | (I SUMMONed the Demon Lord | Naruto SUMMONed Gamabunta Kaeru no Oyakata | I SUMMONed the Demon Lord and TAMEd it | I'll teach you how to TAME the Ghost Wolves)" },
+  { slNo: 782, hanzi: "呼唤 (召唤) (驯服)", pinyin: "hū huàn", meaning: "(GGS) Lao Han CALLed OUT Buff's NAME while looking for him in the 火车站 | Call of the Wild was a beautiful movie | (I SUMMONed the Demon Lord | Naruto SUMMONed Gamabunta Kaeru no Oyakata | I SUMMONed the Demon Lord and TAMEd it | I'll teach you how to TAME the Ghost Wolves)" },
   { slNo: 783, hanzi: "呼啸 (吹口哨)", pinyin: "hū xiào", meaning: "The strong wind HOWLed/WHIZZed through the valley | The train/tornado HOWLed/WHIZZed while it passed by Liyue Harbour | The HOWLing/WHIZZing of the wolf pack echoed in the night | (妖神记 Lu Pei was WHISTLE-ing and pretended he doesn't know when I asked him about Nieli)" },
   { slNo: 784, hanzi: "呼吁 (措施)", pinyin: "hūyù (cuò shī)", meaning: "(アピールする) We APPEALed to the Govt to to take measures to protect the environment | We APPEALed to the Emperor to save our village | We APPEALed to the court to give us justice" },
   { slNo: 785, hanzi: "胡乱 (随便)", pinyin: "hú luàn", meaning: "He CASUALLY/ABSENT-MINDEDLY/RANDOMLY completed her tasks and pushed to prod resulting many bugs | When I asked him to draw me a picture he drew one RANDOMLY | Let's find a place to sit CASUALLY/RANDOMLY | Don't CASUALLY/RANDOMLY touch those equipments" },
@@ -858,30 +858,40 @@ export const hsk_list = [
   /////////////////////////////// - backwards end
 
   { slNo: 826, hanzi: "混合 (夹杂)", pinyin: "hùnhé", meaning: "to mix together/blend (mixed together/intermingled)" },
-  { slNo: 827, hanzi: "混乱", pinyin: "hùnluàn", meaning: "confusion/chaos/disorder" },
+  { slNo: 827, hanzi: "混乱 (胡乱)", pinyin: "hùnluàn", meaning: "My life is full of CHAOS | What do we do in this CHAOTIC situation | (When I asked him to draw me a picture he drew one RANDOMLY/CASUALLY)" },
+
+
   { slNo: 828, hanzi: "混淆 (困惑)", pinyin: "hùnxiáo", meaning: "to confuse/confused (confusion)" },
   { slNo: 829, hanzi: "混浊 (肮脏)", pinyin: "hùnzhuó", meaning: "muddy/turbid (dirty/filthy)" },
   { slNo: 830, hanzi: "活该", pinyin: "huógāi", meaning: "You/It deserve(s) it" },
   { slNo: 831, hanzi: "活力 (精力) (体力/脑力)", pinyin: "huólì", meaning: "energy/vitality (stamina/mental power)" },
-  { slNo: 832, hanzi: "火箭", pinyin: "huǒjiàn", meaning: "rocket" },
-  { slNo: 833, hanzi: "火焰", pinyin: "huǒyàn", meaning: "flame/blaze" },
-  { slNo: 834, hanzi: "火药", pinyin: "huǒyào", meaning: "gunpowder" },
-  { slNo: 835, hanzi: "货币", pinyin: "huòbì", meaning: "currency/money" },
-  { slNo: 836, hanzi: "基地 (本部)", pinyin: "jīdì", meaning: "base (eg military base) (headquarters/head office)" },
+
+  { slNo: 832, hanzi: "火箭 (射箭) (召唤)", pinyin: "huǒ jiàn", meaning: "People who saw ROCKET launching from an aeroplane is so lucky | (温迪 shot an ARROW of wind to summon Dvalin)" },
+  { slNo: 833, hanzi: "火焰 (冰晶)", pinyin: "huǒ yàn", meaning: "(Hinomaruzumou) Moesakaru dake ga HONOU/FLAME janai, yurameki konase | (冰火魔厨) FLAME of ice and ICE CRYSTAL of fire" },
+  { slNo: 834, hanzi: "火药 (垄断)", pinyin: "huǒ yào", meaning: "(Dr Stone) Senku-tachi went to Mount Fuji-san to make GUNPOWDER to fight against Tsukasa-kun | Both Sekika-Hodoku Kiseki no Mizu and GUNPOWDER is made from the same thing which is MONOPOLIZE-d by Tsukasa" },
+  { slNo: 835, hanzi: "货币", pinyin: "huò bì", meaning: "SGD is the CURRENCY of Singapore | The value of Indian CURRENCY dropped compared to Singapore CURRENCY" },
+
+  { slNo: 836, hanzi: "基地 (本部)", pinyin: "jīdì", meaning: "(你哥哦我的喜欢) Xin Qi 说 这是我的 secret (military) BASE | The superhero BASE for Avengers is Tony Stark's Avenger Tower | All 7 legendary (military) BASEs including Russian BASE were attacked and destroyed by the Legendary 叛逆者 | (Our HEAD-QUARTER/HEAD-OFFICE is in Singapore)" },
   { slNo: 837, hanzi: "基金 (资本/资金/成本)", pinyin: "jījīn", meaning: "fund/capital" },
-  { slNo: 838, hanzi: "基因", pinyin: "jīyīn", meaning: "gene (DNA)" },
+  { slNo: 838, hanzi: "基因", pinyin: "jīyīn", meaning: "Mom says our family has strong GENEs/DNAs for height | My hair color is same as my Dad, it's because of GENEs" },
   { slNo: 839, hanzi: "机动 (机动性)", pinyin: "jīdòng", meaning: "motorized/locomotive (flexibility)" },
-  { slNo: 840, hanzi: "机构 (组织) (机制)", pinyin: "jīgòu", meaning: "organization/agency (mechanism)" },
+  
+  { slNo: 840, hanzi: "机构 (组织) (垄断)", pinyin: "jīgòu", meaning: "It's a Chatiry ORGANIZATION | The Welkin ORGANIZATION monopolized the whole market of Singapore | (WE ORGANIZE-d a big celebration party last night | Sakamoto-kun will ORGANIZE a big farewell ceremony for Fukase Senpai)" },
+  
   { slNo: 841, hanzi: "机灵", pinyin: "jīling", meaning: "wise/clever/quick-witted" },
-  { slNo: 842, hanzi: "机密 (奥秘/秘密/隐秘)", pinyin: "jīmì", meaning: "secret" },
+  { slNo: 842, hanzi: "机密 (奥秘/秘密/隐秘)", pinyin: "jīmì", meaning: "I know your SECRET | Everyone has their SECRET | (Miraculous Lady Bug) Her SECRET is She is Lady Bug" },
   { slNo: 843, hanzi: "机械 (机器)", pinyin: "jīxiè", meaning: "machine (machine/robot)" },
-  { slNo: 844, hanzi: "机遇 (机会)", pinyin: "jīyù", meaning: "opportunity" },
-  { slNo: 845, hanzi: "机智", pinyin: "jīzhì", meaning: "tactful/resourceful" },
-  { slNo: 846, hanzi: "激发 (爱国心)", pinyin: "jīfā", meaning: "to arouse/excite (patriotism)" },
-  { slNo: 847, hanzi: "激励 (鼓励/勉励)", pinyin: "jīlì", meaning: "to encourage" },
-  { slNo: 848, hanzi: "激情", pinyin: "jīqíng", meaning: "passion" },
-  { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "hunger" },
-  { slNo: 850, hanzi: "讥笑", pinyin: "jīxiào", meaning: "to sneer/ridicule" },
+
+  { slNo: 844, hanzi: "机遇 (机会)", pinyin: "jīyù", meaning: "This event is a great OPPORTUNITY to make new friends | This SG living is a big OPPORTUNITY to be fluent in Chinese being surrounded by it everyday" },
+  { slNo: 845, hanzi: "机智 (智商) (机灵)", pinyin: "jī zhì (zhì shāng)", meaning: "(聪明+灵活)  | (GGS Tong Nian's IQ is really high probably more than 100)" },
+
+  { slNo: 846, hanzi: "激发 (爱国心)", pinyin: "jīfā", meaning: "Her words AROUSE-d courage within me | The painting AROUSE-d my creativity | This long distance living AROUSE-d the patriotism in me" },
+  { slNo: 847, hanzi: "激励 (鼓励/勉励)", pinyin: "jīlì", meaning: "(月姐 ENCOURAGE-d me, woa you are doing great, keep practing and you can be like the Legendary Xiao Nai/you can become an amazing blader/you can speak Chinese fluently soon) | (When I was about to finish the race, thank you all for ENCOURAGE-ing me) | (When I was about to give up, thank you Torajiro for ENCOURAGE-ing me, keeping saying me 加油! 别放弃!)" },
+  { slNo: 848, hanzi: "激情 (热情)", pinyin: "jī qíng", meaning: "She has a PASSION for drawing | Her PASSION for cooking is limitless | (She is a PASSIONATE cook | She is PASSIONATE about cooking)" },
+  { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "The HUNGER-y frogs age up all of them | HUNGER is a big problem in our village" },
+  { slNo: 850, hanzi: "讥笑 (嘲笑) (震惊)", pinyin: "jī xiào (cháo xiào)", meaning: "(妖神记) Shen Yue often MOCKs Nieli and others | In most of the 世界 the OP MC is often MOCK-ed/RIDICULE-d by everyone but they don't know OP power lives hidden within him/her and when they do know they are SUPER SHOCKED" },
+
+
 
   { slNo: 851, hanzi: "极端 (非常/十分) (顶峰/高峰)", pinyin: "jíduān", meaning: "extreme (peak/top)" },
   { slNo: 852, hanzi: "极限", pinyin: "jíxiàn", meaning: "limit/extreme boundary" },
@@ -934,6 +944,14 @@ export const hsk_list = [
   { slNo: 898, hanzi: "尖锐 (锋利) (利刃)", pinyin: "jiānruì", meaning: "sharp (sharp blade sword etc) (sharp blade" },
   { slNo: 899, hanzi: "艰难 (困难)", pinyin: "jiānnán", meaning: "difficult/hard/challenging" },
   { slNo: 900, hanzi: "拣 (拣选) (分拣)", pinyin: "jiǎn", meaning: "to choose/pick up (to select) (to sort out)" },
+  /////////////////////////////// - wishing to END here my backwards end
+
+
+
+
+
+
+
 
   { slNo: 901, hanzi: "剪彩 (开幕式)", pinyin: "jiǎncǎi", meaning: "to cut the ribbon (at a launching or opening ceremony)" },
   { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎntǎo", meaning: "a review/self-criticism (written self-criticism) (review meeting)" },
