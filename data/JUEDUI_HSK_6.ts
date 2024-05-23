@@ -949,31 +949,42 @@ export const hsk_list = [
 
   
   { slNo: 901, hanzi: "剪彩 (开幕式)", pinyin: "jiǎn cǎi", meaning: "(微微一笑很倾城) Xiao Nai let Wei Wei to CUT the RIBBON for their new office | Feng Teng CUT the RIBBON of the new store and the OPENING CEREMONY officially began" },
-  { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎntǎo", meaning: "a review/self-criticism (written self-criticism) (review meeting)" },
-  { slNo: 903, hanzi: "检验 (检查)", pinyin: "jiǎnyàn", meaning: "to inspect/examine/to test" },
-  { slNo: 904, hanzi: "简化", pinyin: "jiǎnhuà", meaning: "to simplify" },
+  { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎn tǎo", meaning: "a review/self-criticism (written self-criticism) (review meeting)" },
+  { slNo: 903, hanzi: "检验 (检查)", pinyin: "jiǎn yàn", meaning: "to inspect/examine/to test" },
+  { slNo: 904, hanzi: "简化 (复杂化)", pinyin: "jiǎn huà", meaning: "Let me SIMPLIFY this for you | I asked him to SIMPLIFY it for me but he COMPLEXIFY-ed it for me" },
+  
   { slNo: 905, hanzi: "简陋", pinyin: "jiǎnlòu", meaning: "simple and crude" },
-  { slNo: 906, hanzi: "简体字 (繁体字)", pinyin: "jiǎntǐzì", meaning: "simplified Chinese character" },
+  { slNo: 906, hanzi: "简体字 (繁体字)", pinyin: "jiǎntǐzì", meaning: "I can read SIMPLIFIED CHINESE CHARACTER but learning to also read TRADITIONAL CHINESE CHARACTERs" },
   { slNo: 907, hanzi: "简要 (详细) (简略/简短)", pinyin: "jiǎnyào", meaning: "in brief (in detail/detailed) (simple/brief)" },
   { slNo: 908, hanzi: "溅 (泼) (飞溅/四溅)", pinyin: "jiàn", meaning: "splash (to splash/spill)" },
   { slNo: 909, hanzi: "鉴别 (分辨/辨认/识别)", pinyin: "jiànbié", meaning: "to differentiate/to distinguish" },
-  { slNo: 910, hanzi: "鉴定", pinyin: "jiàndìng", meaning: "to appraise/identify/evaluate" },
+  { slNo: 910, hanzi: "鉴定", pinyin: "jiàn dìng", meaning: "(放浪メシ) Guildmaster could not APPRAISE/IDENTIFY my element with his APPRAISAL Skill" },
   { slNo: 911, hanzi: "鉴于 (因为/由于)", pinyin: "jiànyú", meaning: "since.../as..." },
-  { slNo: 912, hanzi: "间谍 (过家家)", pinyin: "jiàndié", meaning: "spy (to play family)" },
-  { slNo: 913, hanzi: "间隔", pinyin: "jiàngé", meaning: "interval" },
-  { slNo: 914, hanzi: "间接 (直接)", pinyin: "jiànjiē", meaning: "indirect (direct)" },
-  { slNo: 915, hanzi: "...见多识广 (博士)", pinyin: "jiànduōshíguǎng", meaning: "...have great experience/...have seen a lot and know a lot (PhD)" },
-  { slNo: 916, hanzi: "见解 (意见/看法/观点)", pinyin: "jiànjiě", meaning: "opinion/view" },
+  { slNo: 912, hanzi: "间谍 (过家家)", pinyin: "jiàndié", meaning: "(SpyXFamily) Tasogare is one of the legendary SPY of our country | Anya is the daughter of the legendary SPY in the SpyXFamily" },
+  
+  { slNo: 913, hanzi: "间隔", pinyin: "jiàngé", meaning: "The INTERVAL between these trees are not very big | Let's go and bring some lunch in this INTERVAL | The time INTERVAL of these two train is 3 mins in One North MRT" },
+  { slNo: 914, hanzi: "间接 (直接)", pinyin: "jiànjiē", meaning: "This is an INDIRECT Kiss | She INDIRECT-ly kissed me | She said her feeling DIRECT-ly and not INDIRECT-ly" },
+  
+  { slNo: 915, hanzi: "...见多识广 (博士)", pinyin: "jiàn duō shí guǎng", meaning: "She has SEEN a lot and KNOWs a lot/has GREAT EXPERIENCE | (He is a PhD)" },
+  { slNo: 916, hanzi: "见解 (意见/看法/观点)", pinyin: "jiàn jiě", meaning: "What is your OPINION/VIEW on this" },
+  
   { slNo: 917, hanzi: "见闻", pinyin: "jiànwén", meaning: "knowledge/one's experience/what one has seen and heard" },
-  { slNo: 918, hanzi: "见义勇为", pinyin: "jiànyìyǒngwéi", meaning: "to stand up bravely for the truth" },
+  { slNo: 918, hanzi: "见义勇为", pinyin: "jiànyìyǒngwéi", meaning: "(以家人之名) You know her, no, why did you save me, we STOOD UP BRAVELY FOR THE TRUTH | Bus driver STOOD UP BRAVELY FOR THE TRUTH but was sent to prison because he used voilence" },
   { slNo: 919, hanzi: "健全 (健康)", pinyin: "jiànquán", meaning: "sound and healthy" },
-  { slNo: 920, hanzi: "践踏 (爱护)", pinyin: "jiàntà", meaning: "to trample (to cherish/take care of)" },
-  { slNo: 921, hanzi: "舰艇 (军舰)", pinyin: "jiàntǐng", meaning: "warship/Naval vessels" },
-  { slNo: 922, hanzi: "剑 (短剑)", pinyin: "jiàn", meaning: "sword (dagger)" },
-  { slNo: 923, hanzi: "将近 (接近)", pinyin: "jiāngjìn", meaning: "almost/nearly" },
-  { slNo: 924, hanzi: "将军", pinyin: "jiāngjūn", meaning: "Shougun (雷电)" },
-  { slNo: 925, hanzi: "将就 (凑合)", pinyin: "jiāng jiù", meaning: "to accept (a bit reluctantly)" },
+  
+  { slNo: 920, hanzi: "践踏 (爱护)", pinyin: "jiàn tà", meaning: "Don't TRAMPLE on the flower | Dont TRAMPLE on my emotions | (Let's CHERISH/TAKE CARE OF our friends and family)" },
+  { slNo: 921, hanzi: "(军舰) 舰艇", pinyin: "jiàn tǐng", meaning: "China has various WARSHIPs/SHIPs of WAR | Emperor sent 1000 WARSHIPs to support the friendly country to protect them from the enemy invasion" },
+  { slNo: 922, hanzi: "剑 (短剑)", pinyin: "jiàn", meaning: "(斗罗大陆) I have the SWORD of the SWORD Douluo of 七宝 琉璃宗 sword | (妖神记 Nieli has a DAGGER 手下)" },
+  { slNo: 923, hanzi: "将近 (接近)", pinyin: "jiāng jìn", meaning: "We arrived home at NEARLY/ALMOST 9 o'clock | We APPROCHED CLOSER to our enemies" },
+  { slNo: 924, hanzi: "将军", pinyin: "jiāng jūn", meaning: "Shougun (雷电) | Legendary Shougun is his 手下" },
+  { slNo: 925, hanzi: "将就 (凑合)", pinyin: "jiāng jiù", meaning: "(妖神记) What can I do, due to 岳父大人 pressure I have to ACCEPT A BIT RELUCTANTLY | (Are you saying I am not good enough for you? Well, You are FINE, you are OKAY, EVEN THOUGH you ARE NOT WHAT I ACTUALLY WANTED)" },
 
+
+  
+
+
+
+  
   { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "stiff/rigid" },
   { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "paddle/propeller (to row/paddle) (propeller/spiral oar) (ラセン)" },
   { slNo: 928, hanzi: "奖励 (奖赏)", pinyin: "jiǎnglì", meaning: "reward/prize" },
