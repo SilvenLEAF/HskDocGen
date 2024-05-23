@@ -857,67 +857,62 @@ export const hsk_list = [
   { slNo: 825, hanzi: "浑身", pinyin: "hún shēn", meaning: "(银狼少年) His WHOLE BODY/FROM HEAD TO TOE is covered in mud and injuries" },
   /////////////////////////////// - backwards end
 
-  { slNo: 826, hanzi: "混合 (夹杂)", pinyin: "hùnhé", meaning: "to mix together/blend (mixed together/intermingled)" },
-  { slNo: 827, hanzi: "混乱 (胡乱)", pinyin: "hùnluàn", meaning: "My life is full of CHAOS | What do we do in this CHAOTIC situation | (When I asked him to draw me a picture he drew one RANDOMLY/CASUALLY)" },
-
-
-  { slNo: 828, hanzi: "混淆 (困惑)", pinyin: "hùnxiáo", meaning: "to confuse/confused (confusion)" },
-  { slNo: 829, hanzi: "混浊 (肮脏)", pinyin: "hùnzhuó", meaning: "muddy/turbid (dirty/filthy)" },
-  { slNo: 830, hanzi: "活该", pinyin: "huógāi", meaning: "You/It deserve(s) it" },
-  { slNo: 831, hanzi: "活力 (精力) (体力/脑力)", pinyin: "huólì", meaning: "energy/vitality (stamina/mental power)" },
-
+  /////////////////////////////// - backwards start
+  { slNo: 826, hanzi: "混合 (夹杂) (融合)", pinyin: "hùn hé", meaning: "She MIXed milk IN/WITH water | She MIXed oil IN/WITH water | (She MIXed sands IN/WITH sugar) | (妖神记 Yue Fu Da Ren FUSIONed WITH the Dragon Soul | She FUSIONed 冰 element and 火 element)" },
+  { slNo: 827, hanzi: "混乱 (胡乱)", pinyin: "hùn luàn", meaning: "My life is full of CHAOS | What do we do in this CHAOTIC situation | (When I asked him to draw me a picture he drew one RANDOMLY/CASUALLY)" },
+  { slNo: 828, hanzi: "混淆 (困惑)", pinyin: "hùn xiáo", meaning: "She CONFUSEd dogs with cats | She CONFUSEd JavaScript and Java | I often CONFUSE/MIX UP Chinese tones | (She is always CONFUSED | She felt a CONFUSION on what to do | When you asked me what I am working on I was really CONFUSED)" },
+  { slNo: 829, hanzi: "混浊 (泥泞) (肮脏)", pinyin: "hùn zhuó (ní nìng) (āng zāng)", meaning: "The water of this pond/river is MUDDY/TURBID/MURKY | (This place is really MUDDY/FULL OF MUDS/WET-STICKY-GROUND) | (Your room is very DIRTY/FITHLY)" },
+  { slNo: 830, hanzi: "活该", pinyin: "huó gāi", meaning: "妖神记 You/It deserve(s) it!" },
+  { slNo: 831, hanzi: "活力 (精力) (体力)", pinyin: "huó lì", meaning: "I don't have the ENERGY/VITALITY to do anything in the morning | The city is filled with the ENERGY/VITALITY of young people | (原神 After running and climbing for so long my STAMINA is exhausted | Xiao's STAMINA is really high in climbing)" },
   { slNo: 832, hanzi: "火箭 (射箭) (召唤)", pinyin: "huǒ jiàn", meaning: "People who saw ROCKET launching from an aeroplane is so lucky | (温迪 shot an ARROW of wind to summon Dvalin)" },
-  { slNo: 833, hanzi: "火焰 (冰晶)", pinyin: "huǒ yàn", meaning: "(Hinomaruzumou) Moesakaru dake ga HONOU/FLAME janai, yurameki konase | (冰火魔厨) FLAME of ice and ICE CRYSTAL of fire" },
+  { slNo: 833, hanzi: "火焰 (冰晶)", pinyin: "huǒ yàn", meaning: "(Hinomaruzumou) Moesakaru dake ga HONOU/FLAME janai, yurameki konase | (冰火魔厨) FLAME of Fire element and ICE CRYSTAL of Ice element She has both" },
   { slNo: 834, hanzi: "火药 (垄断)", pinyin: "huǒ yào", meaning: "(Dr Stone) Senku-tachi went to Mount Fuji-san to make GUNPOWDER to fight against Tsukasa-kun | Both Sekika-Hodoku Kiseki no Mizu and GUNPOWDER is made from the same thing which is MONOPOLIZE-d by Tsukasa" },
   { slNo: 835, hanzi: "货币", pinyin: "huò bì", meaning: "SGD is the CURRENCY of Singapore | The value of Indian CURRENCY dropped compared to Singapore CURRENCY" },
-
-  { slNo: 836, hanzi: "基地 (本部)", pinyin: "jīdì", meaning: "(你哥哦我的喜欢) Xin Qi 说 这是我的 secret (military) BASE | The superhero BASE for Avengers is Tony Stark's Avenger Tower | All 7 legendary (military) BASEs including Russian BASE were attacked and destroyed by the Legendary 叛逆者 | (Our HEAD-QUARTER/HEAD-OFFICE is in Singapore)" },
-  { slNo: 837, hanzi: "基金 (资本/资金/成本)", pinyin: "jījīn", meaning: "fund/capital" },
-  { slNo: 838, hanzi: "基因", pinyin: "jīyīn", meaning: "Mom says our family has strong GENEs/DNAs for height | My hair color is same as my Dad, it's because of GENEs" },
-  { slNo: 839, hanzi: "机动 (机动性)", pinyin: "jīdòng", meaning: "motorized/locomotive (flexibility)" },
-  
-  { slNo: 840, hanzi: "机构 (组织) (垄断)", pinyin: "jīgòu", meaning: "It's a Chatiry ORGANIZATION | The Welkin ORGANIZATION monopolized the whole market of Singapore | (WE ORGANIZE-d a big celebration party last night | Sakamoto-kun will ORGANIZE a big farewell ceremony for Fukase Senpai)" },
-  
-  { slNo: 841, hanzi: "机灵", pinyin: "jīling", meaning: "wise/clever/quick-witted" },
+  { slNo: 836, hanzi: "基地 (本部)", pinyin: "jī dì", meaning: "(你哥哦我的喜欢) Xin Qi 说 这是我的 secret (military) BASE | The superhero BASE for Avengers is Tony Stark's Avenger Tower | All 7 legendary (military) BASEs including Russian BASE were attacked and destroyed by the Legendary 叛逆者 | (Our HEAD-QUARTER/HEAD-OFFICE is in Singapore)" },
+  { slNo: 837, hanzi: "(救灾-/慈善-/教育-) 基金 (资金/资本) (成本)", pinyin: "jī jīn", meaning: "How much the disaster-relief/charity/education etc FUNDS did they collect/allocate this year | (FUNDS mostly charitable) | (Our project requires large amount of FUNDS/CAPITALS | 万亿游戏 She'll provide the FUNDS for our company) | (The PRODUCTION COST of this toy is really high | The PRODUCTION COST of this project is not low)" },
+  { slNo: 838, hanzi: "基因", pinyin: "jī yīn", meaning: "Mom says our family has strong GENEs/DNAs for height | My hair color is same as my Dad, it's because of GENEs" },
+  { slNo: 839, hanzi: "机动 (机动性)", pinyin: "jī dòng", meaning: "Did you ride any MOTORIZED boat before | I rode a MOTORIZED horse/car before | (The MANEUVERABILITY of this car/troops is really great)" },
+  { slNo: 840, hanzi: "机构 (组织) (垄断)", pinyin: "jī gòu", meaning: "It's a Chatiry ORGANIZATION | The Welkin ORGANIZATION monopolized the whole market of Singapore | (WE ORGANIZE-d a big celebration party last night | Sakamoto-kun will ORGANIZE a big farewell ceremony for Fukase Senpai)" },
+  { slNo: 841, hanzi: "机灵 (机智) (捉迷藏)", pinyin: "jīling", meaning: "(原神 Hide-and-Seek) QUICK-WITTED girl, she finds a good spot quickly and hides quickly but QUICK-CLEVER-WITTED girl not only finds and hides but also quickly finds a way to throw off the seeker" },
   { slNo: 842, hanzi: "机密 (奥秘/秘密/隐秘)", pinyin: "jīmì", meaning: "I know your SECRET | Everyone has their SECRET | (Miraculous Lady Bug) Her SECRET is She is Lady Bug" },
-  { slNo: 843, hanzi: "机械 (机器)", pinyin: "jīxiè", meaning: "machine (machine/robot)" },
-
+  { slNo: 843, hanzi: "机械 (机器)", pinyin: "jīxiè", meaning: "This is the MACHINE that helps us cut crops | Competing against a MACHINE to complete this task sounds pretty interesting | (This ROBOT helps us clean our home | My boyfriend is a ROBOT man | I have a ROBOT cat)" },
   { slNo: 844, hanzi: "机遇 (机会)", pinyin: "jīyù", meaning: "This event is a great OPPORTUNITY to make new friends | This SG living is a big OPPORTUNITY to be fluent in Chinese being surrounded by it everyday" },
-  { slNo: 845, hanzi: "机智 (智商) (机灵)", pinyin: "jī zhì (zhì shāng)", meaning: "(聪明+灵活)  | (GGS Tong Nian's IQ is really high probably more than 100)" },
-
+  { slNo: 845, hanzi: "机智 (机灵) (捉迷藏) (智商)", pinyin: "jī zhì (zhì shāng)", meaning: "(原神 Hide-and-Seek) QUICK-WITTED girl, she finds a good spot quickly and hides quickly but QUICK-CLEVER-WITTED girl not only finds and hides but also quickly finds a way to throw off the seeker | (GGS Tong Nian's IQ is really high probably more than 100)" },
   { slNo: 846, hanzi: "激发 (爱国心)", pinyin: "jīfā", meaning: "Her words AROUSE-d courage within me | The painting AROUSE-d my creativity | This long distance living AROUSE-d the patriotism in me" },
   { slNo: 847, hanzi: "激励 (鼓励/勉励)", pinyin: "jīlì", meaning: "(月姐 ENCOURAGE-d me, woa you are doing great, keep practing and you can be like the Legendary Xiao Nai/you can become an amazing blader/you can speak Chinese fluently soon) | (When I was about to finish the race, thank you all for ENCOURAGE-ing me) | (When I was about to give up, thank you Torajiro for ENCOURAGE-ing me, keeping saying me 加油! 别放弃!)" },
   { slNo: 848, hanzi: "激情 (热情)", pinyin: "jī qíng", meaning: "She has a PASSION for drawing | Her PASSION for cooking is limitless | (She is a PASSIONATE cook | She is PASSIONATE about cooking)" },
   { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "The HUNGER-y frogs age up all of them | HUNGER is a big problem in our village" },
   { slNo: 850, hanzi: "讥笑 (嘲笑) (震惊)", pinyin: "jī xiào (cháo xiào)", meaning: "(妖神记) Shen Yue often MOCKs Nieli and others | In most of the 世界 the OP MC is often MOCK-ed/RIDICULE-d by everyone but they don't know OP power lives hidden within him/her and when they do know they are SUPER SHOCKED" },
-
-
-
-  { slNo: 851, hanzi: "极端 (非常/十分) (顶峰/高峰)", pinyin: "jíduān", meaning: "extreme (peak/top)" },
-  { slNo: 852, hanzi: "极限", pinyin: "jíxiàn", meaning: "limit/extreme boundary" },
-  { slNo: 853, hanzi: "即便 (哪怕/即使) (若是/如果/假如/假设)", pinyin: "jíbiàn", meaning: "even if (if...)" },
-  { slNo: 854, hanzi: "即将 (快要)", pinyin: "jíjiāng", meaning: "....soon/about to..." },
-  { slNo: 855, hanzi: "级别", pinyin: "jíbié", meaning: "level/(military) rank/grade" },
-  { slNo: 856, hanzi: "疾病 (病症) (毛病)", pinyin: "jíbìng", meaning: "disease/ailment (fault/defect)" },
-  { slNo: 857, hanzi: "嫉妒 (吃醋)", pinyin: "jídù", meaning: "to be jealous/envy" },
-  { slNo: 858, hanzi: "及早 (尽快) (赶快/赶紧/急忙/连忙)", pinyin: "jízǎo", meaning: "as soon as possible" },
-  { slNo: 859, hanzi: "急功近利", pinyin: "jígōngjìnlì", meaning: "be anxious to achieve quick success and get instant benefits" },
-  { slNo: 860, hanzi: "急剧", pinyin: "jíjù", meaning: "rapidly/sharply" },
-  { slNo: 861, hanzi: "急切 (紧急/迫切)", pinyin: "jíqiè", meaning: "impatient/eager" },
-  { slNo: 862, hanzi: "急于求成", pinyin: "jíyúqiúchéng", meaning: "be anxious for success" },
-  { slNo: 863, hanzi: "急躁 (不耐烦)", pinyin: "jízào", meaning: "impatient restless and easily agitated" },
-  { slNo: 864, hanzi: "籍贯", pinyin: "jíguàn", meaning: "place of origin/registered birthplace/place of ancestry" },
-  { slNo: 865, hanzi: "集团", pinyin: "jítuán", meaning: "group" },
-  { slNo: 866, hanzi: "吉祥 (不吉)", pinyin: "jíxiáng", meaning: "lucky/auspicious/propitious (unlucky/inauspicious/ominous)" },
-  { slNo: 867, hanzi: "给予 (授予) (权限)", pinyin: "jǐyǔ", meaning: "to give/grant/offer (access/rights)" },
-  { slNo: 868, hanzi: "寄托 (把...寄托在...上)", pinyin: "jìtuō", meaning: "to entrust/place hope etc)" },
-  { slNo: 869, hanzi: "继承", pinyin: "jìchéng", meaning: "to inherit/succeed to the throne etc" },
-  { slNo: 870, hanzi: "记性 (忘性)", pinyin: "jìxing", meaning: "memory/ability to remember things" },
-  { slNo: 871, hanzi: "记载", pinyin: "jìzǎi", meaning: "to record/write down/records (n)" },
-  { slNo: 872, hanzi: "季度 (第一季度）", pinyin: "jìdù", meaning: "quarter (of a year)/season" },
-  { slNo: 873, hanzi: "季军 (亚军) (冠军)", pinyin: "jìjūn", meaning: "third place in a competition/bronze medalist" },
+  
+  { slNo: 851, hanzi: "(极端/顶尖) (高峰/顶峰) (修士)", pinyin: "jí duān", meaning: "You can become an EXTREME/PEAK cultivator of fire element | (妖神记 No wonder Yue Fu Daren is a PEAK 黑金级 的 妖灵师 | Ying Sha pretended to be the PEAK 传奇级 的 妖灵师) | (cultivator)" },
+  { slNo: 852, hanzi: "极限", pinyin: "jí xiàn", meaning: "I'll break my LIMIT/EXTREME BOUNDARY | Let's see what is our LIMIT | For those who want to fly sky is the LIMIT" },
+  { slNo: 853, hanzi: "(哪怕/即便/即使) (若是/如果/假如/假设)", pinyin: "nǎ pà", meaning: "(斗罗大陆) EVEN IF Xiu Douluo comes, My 女婿 won't back down and protect her | (IF he had the 魔魂 he would be the most powerful Douluo | 哟神记 IF I got one more year, I'll defeat you 岳父大人)" },
+  { slNo: 854, hanzi: "即将 (快要)", pinyin: "jí jiāng", meaning: "It's ABOUT TO rain | It's going to rain SOON" },
+  { slNo: 855, hanzi: "级别 (等级)", pinyin: "jíbié", meaning: "妖神记 His RANK/GRADE/POSITION is way over my dad, how come he came in person to request Ni Lie | (My dad's 妖灵 LEVEL is 60 which is higher than him)" },
+  { slNo: 856, hanzi: "疾病 (病症/症状) (毛病)", pinyin: "jí bìng", meaning: "My papa has lots of DISEASEs/AILMENTs | (What are the SYMPTOMs of Diabetes) | (She has a drinking DEFECT she always loves to drink a lot | 你有——吗)" },
+  { slNo: 857, hanzi: "嫉妒 (吃醋)", pinyin: "jí dù (chī cù)", meaning: "(微微一笑很倾城) Lao San got a girl-friend but you didn't so you are JEALOUS/feeling JEALOUS | (万界仙踪 When Yanran saw Xingyun is flirting with other girls/Yu Yin she was JEALOUS (in romantic way) and stepped in his feet)" },
+  { slNo: 858, hanzi: "及早 (尽快)", pinyin: "jí zǎo", meaning: "We should try to finish our tasks AS SOON AS POSSIBLE | Let's return home AS SOON AS POSSIBLE" },
+  { slNo: 859, hanzi: "急功近利", pinyin: "jí gōng jìn lì", meaning: "(Negative: ANXIOUS TO ACHIEVE QUICK SUCCESS) Everyone is ANXIOUS TO ACHIEVE QUICK SUCCESS but not willing to work hard" },
+  { slNo: 860, hanzi: "急剧 (慢慢)", pinyin: "jí jù", meaning: "The temperature of Singapore dropped SUDDENLY-SHARPLY/RAPIDLY | The SUDDEN-SHARP/RAPID drop of the temparature was terrifying" },
+  { slNo: 861, hanzi: "急切 (紧急) (迫切)", pinyin: "jí qiè", meaning: "I EAGERLY want to know the answer | She's EAGERLY waiting for my arrival | She EAGERLY wants help from Teacher| (This is an EMERGENCY situation) | (This issue is URGENT for us)" },
+  { slNo: 862, hanzi: "急于求成", pinyin: "jí yú qiú chéng", meaning: "(Generic: ANXIOUS TO ACHIEVE QUICK SUCCESS) He is always ANXIOUS TO ACHIEVE QUICK SUCCESS so he works really hard, 1000x more than anyone" },
+  { slNo: 863, hanzi: "急躁 (不耐烦)", pinyin: "jí zào", meaning: "She can't wait to find her old toy and play with it, she is IMPATIENT, eager to play as soon as she finds it | The puppy is waiting for her owner, she is IMPATIENT | (He is normally IMPATIENT and can't wait 30 mins for you, for him 30 mins is like 30 days)" },
+  { slNo: 864, hanzi: "籍贯 (故乡/家乡)", pinyin: "jíguàn", meaning: "Kameswar is my ANCESTRAL HOME/REGISTERED BIRTHPLACE/HOMETOWN | Shanghai is the ANCESTRAL HOME of my Chinese Friend" },
+  { slNo: 865, hanzi: "集团 (团队)", pinyin: "jítuán", meaning: "Tencent GROUP is one of the largest organizations in China | Huawei/Lenevo/Alibaba/Tencent GROUP are big corporations of China | (Their GROUP was ambused by 盗贼 but they didn't know in their GROUP they had a really powerful S-rank adventurer" },
+  { slNo: 866, hanzi: "吉祥 (不吉)", pinyin: "jí xiáng (bù jí)", meaning: "Seeing a blue bird in the beginning of the year is really AUSPICIOUS/LUCKY | (Having a black cat crossing the path is considered UNLUCKY/INAUSPICIOUS/OMINOUS)" },
+  { slNo: 867, hanzi: "给予 (给) (赋予) (权限)", pinyin: "jǐ yǔ (quán xiàn)", meaning: "Can you GIVE/GRANT me access/permission to the Azure Portal | (She BESTOWed me the power/task of water) | (access/rights)" },
+  { slNo: 868, hanzi: "寄托 (把...寄托在...上) (托付...给...)", pinyin: "jì tuō", meaning: "You can ENTRUST your hope/dream/feelings ON me | (GGS) Buff ENTRUSTed his hope/dream/feelings of winning the world ON Lao Han | (You can ENTRUST your sword WITH me)" },
+  { slNo: 869, hanzi: "继承", pinyin: "jì chéng", meaning: "(斗罗大陆) After Bi Bi Dong, Hu Liena will INERIT her throne and not her daughter Qian Renxue | (斗破苍穹) I will be waiting for you to INHERIT the stone" },
+  { slNo: 870, hanzi: "记性 (忘性)", pinyin: "jìxing", meaning: "(GGS) 老了, My MEMORY/ABILITY to REMEMBER THINGS is not that great | (My ABILITY to FORGET THINGS is really great)" },
+  { slNo: 871, hanzi: "记载", pinyin: "jìzǎi", meaning: "This book RECORDs/WRITEs DOWN the history of Tang Dynasty | I found the RECORDS of Tang Dynasty" },
+  { slNo: 872, hanzi: "季度 (第一季度）", pinyin: "jì dù", meaning: "(Quater of a Year/Season) In X0PA 1st QUARTER was satisfying 2nd and 3rd QUARTER was hectic and last QUARTER was fun as we are eagerly waiting for increment" },
+  { slNo: 873, hanzi: "季军 (亚军) (冠军)", pinyin: "jì jūn", meaning: "(GGS) K&K was the CHAMPION/won FIRST PLACE but SP won the SECOND PLACE and Buff won the THIRD PALCE" },
   { slNo: 874, hanzi: "计较", pinyin: "jìjiào", meaning: "(万界仙踪) She has a child temper but still a member of our family, as a Clan Leader I don't BOTHER ABOUT this (being overly concerned about small details)" },
-  { slNo: 875, hanzi: "忌讳 (禁忌) (被忌讳)", pinyin: "jìhuì", meaning: "taboo mainly cultural or traditional (taboo generic) (be avoided as taboo)" },
+  { slNo: 875, hanzi: "忌讳 (禁忌)", pinyin: "jìhuì", meaning: "Eating food is a CULTURAL/TRADITIONAL TABOO in our home | (Killing or eating 牛 is a big TABOO in India) | (Cultural TABOO|Generi TABOO)" },
+  /////////////////////////////// - backwards end
+
+
+
 
   { slNo: 876, hanzi: "寂静 (安静/冷静/宁静/沉静) (嘈杂)", pinyin: "jìjìng", meaning: "silent/quiet (noisy/clamorous)" },
   { slNo: 877, hanzi: "纪要", pinyin: "jìyào", meaning: "summary" },
@@ -944,14 +939,6 @@ export const hsk_list = [
   { slNo: 898, hanzi: "尖锐 (锋利) (利刃)", pinyin: "jiānruì", meaning: "sharp (sharp blade sword etc) (sharp blade" },
   { slNo: 899, hanzi: "艰难 (困难)", pinyin: "jiānnán", meaning: "difficult/hard/challenging" },
   { slNo: 900, hanzi: "拣 (拣选) (分拣)", pinyin: "jiǎn", meaning: "to choose/pick up (to select) (to sort out)" },
-  /////////////////////////////// - wishing to END here my backwards end
-
-
-
-
-
-
-
 
   { slNo: 901, hanzi: "剪彩 (开幕式)", pinyin: "jiǎncǎi", meaning: "to cut the ribbon (at a launching or opening ceremony)" },
   { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎntǎo", meaning: "a review/self-criticism (written self-criticism) (review meeting)" },
@@ -1004,6 +991,7 @@ export const hsk_list = [
   { slNo: 948, hanzi: "节奏", pinyin: "jiézòu", meaning: "rhythm/tempo" },
   { slNo: 949, hanzi: "节制 (饮食)", pinyin: "jiézhì", meaning: "self-control/to control/moderate (diet etc)" },
   { slNo: 950, hanzi: "杰出 (突出)", pinyin: "jiéchū", meaning: "outstanding/remarkable (to stand out)" },
+
   { slNo: 951, hanzi: "结晶 (水晶)(冰晶)", pinyin: "jiéjīng", meaning: "to crystallize (crystal)(ice crystal)" },
   { slNo: 952, hanzi: "结局 (结果)", pinyin: "jiéjú", meaning: "ending (鬼滅の刃)(result)" },
   { slNo: 953, hanzi: "结算 (预算)", pinyin: "jiésuàn", meaning: "to settle a bill/to close an account (budget)" },
@@ -1029,6 +1017,7 @@ export const hsk_list = [
   { slNo: 973, hanzi: "进化", pinyin: "jìnhuà", meaning: "evolution/to evolve" },
   { slNo: 974, hanzi: "进展", pinyin: "jìnzhǎn", meaning: "to make progress/to evolve" },
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìnlái", meaning: "recently" },
+
   { slNo: 976, hanzi: "浸泡", pinyin: "jìnpào", meaning: "soak" },
   { slNo: 977, hanzi: "晋升", pinyin: "jìnshēng", meaning: "promotion" },
   { slNo: 978, hanzi: "茎 (茎秆)", pinyin: "jīng", meaning: "stalk/stem" },
@@ -1054,6 +1043,7 @@ export const hsk_list = [
   { slNo: 998, hanzi: "敬礼 (鞠躬)", pinyin: "jìnglǐ (jū gōng)", meaning: "salute/to salute (to bow/bend down)" },
   { slNo: 999, hanzi: "敬业 (奉献)", pinyin: "jìngyè", meaning: "dedication (work)/be dedicated to work/respect one's work (normal dedication)" },
   { slNo: 1000, hanzi: "境界 (边界)", pinyin: "jìngjiè", meaning: "realm/level/fig boundary (it's like an invisible line that shows where one thing ends and another begins) (physical boundary)" },
+  /////////////////////////////// - wishing to END here my backwards end
 
   /* -------------------------- completed up to here -------------------------- */
   /* -------------------------------------------------------------------------- */
