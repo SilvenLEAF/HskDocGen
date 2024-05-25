@@ -914,31 +914,30 @@ export const hsk_list = [
 
 
 
-  { slNo: 876, hanzi: "寂静 (安静/冷静/宁静/沉静) (嘈杂)", pinyin: "jìjìng", meaning: "silent/quiet (noisy/clamorous)" },
-  { slNo: 877, hanzi: "纪要", pinyin: "jìyào", meaning: "summary" },
-  { slNo: 878, hanzi: "技巧 (技术/技能/招术)", pinyin: "jìqiǎo", meaning: "skill/technique" },
-  { slNo: 879, hanzi: "迹象", pinyin: "jìxiàng", meaning: "sign/mark" },
-  { slNo: 880, hanzi: "家常", pinyin: "jiācháng", meaning: "the daily life of a family" },
-  
+  { slNo: 876, hanzi: "寂静 (安静/宁静) (嘈杂)", pinyin: "jì jìng", meaning: "This room is SILENT/QUIET/TRANQUIL | I like the SILENT/QUIENT/TRANQUIL environment of our office | (Their office is really NOISY/CLAMOROUS | (入間くん) Kalego Sensei never liked NOSY/CLAMOROUS place and people from his school life)" },
+  { slNo: 877, hanzi: "纪要", pinyin: "jìyào", meaning: "After our DSTA client call Emeth Sir wrote a (meeting) SUMMARY of our meeting and forwarded to all of us | After the NTUC weekly call with the SAP Team, Lee Hong Sir wrote a (meeting) SUMMARY of all the items that we discussed including the To-Do items of both X0PA and SAP and then he forwarded it to Harsha Sir" },
+  { slNo: 878, hanzi: "技巧 (技术/技能)", pinyin: "jì qiǎo", meaning: "Best way to improve the speaking SKILL is to speak your heart out | His Engineering SKILL and Rust SKILL is unrivaled" },
+  { slNo: 879, hanzi: "迹象 (占据) (症状)", pinyin: "jì xiàng", meaning: "I saw the SIGNS/INDICATIONS of a Strongest Douluo protecting her | I can see the SIGNS/INDICATIONS of a Dragon living here | She has the SIGNS/INDICATIONS of being occupied by 灵魂 | (Do you know what are the SYMPTOMS of your soul being OCCUPY-ed by a Ghost 鬼)" },
+  { slNo: 880, hanzi: "家常", pinyin: "jiā cháng", meaning: "(The daily life of a family) | It's a HOME-STYLE cake/Ratatouille | I made a HOME-STYLE/HOMELY chicken curry which gives me my mom's flavour | I miss my HOMELY chores | Daal, Bhat, Alu bhaja, Shim etc is our HOMELY dishes | I want to know more about your DAILY HOME LIFE" },
   { slNo: 881, hanzi: "家伙", pinyin: "jiā huo", meaning: "This FELLOW/GUY is really insane he went to fight the Gods without any 魔魂" },
   { slNo: 882, hanzi: "家属 (家人)", pinyin: "jiā shǔ", meaning: "GGS Ai Qing asked Tong Nian, Why not write FAMILY MEMBER | Your Lao Da brought his FAMILY MEMBER in our trainning session" },
   
   { slNo: 883, hanzi: "家喻户晓", pinyin: "jiāyùhùxiǎo", meaning: "widely known" },
   { slNo: 884, hanzi: "加工", pinyin: "jiāgōng", meaning: "to process/processing" },
   { slNo: 885, hanzi: "加剧 (复发)", pinyin: "jiājù", meaning: "to intensify/accelrate (to relapse into a former bad state/to reappear)" },
-  { slNo: 886, hanzi: "佳肴 (美味/美食)", pinyin: "jiāyáo", meaning: "delicacy/delicious food" },
   
+  { slNo: 886, hanzi: "佳肴 (美味/美食) (品尝)", pinyin: "jiāyáo", meaning: "We tried many EXQUISITE DISHES/DELICIOUS FOOD at the restaurant | Last time Lee Sir treated me to an EXQUISITE DISHES/DELICIOUS FOOD at a famous restaurant | (When I returned home, I ate a lot of DELICIOUS FOOD/DELICACY-es, my Mom cooked Chicken, Fish, and many more)" },
   { slNo: 887, hanzi: "夹杂 (混合) (融合)", pinyin: "jiā zá", meaning: "She MIXed sands IN/WITH sugar | (She MIXed milk IN/WITH water | She MIXed oil IN/WITH water) | (妖神记 Yue Fu Da Ren FUSIONed WITH the Dragon Soul | She FUSIONed 冰 element and 火 element)" },
   { slNo: 888, hanzi: "煎 (熬/煮) (煎熬) (折磨)", pinyin: "jiān", meaning: "LET'S PAN-FRY the fish and egg | (Let's BOIL the eggs) | (I endured a long period of SUFFERING and finally achieved success) | (HunterXHunter Feitan loves to TORTURE)" },
 
   { slNo: 889, hanzi: "坚定 (坚决) (决心)", pinyin: "jiāndìng", meaning: "firm/resolute (resolution)" },
   { slNo: 890, hanzi: "坚固 (坚实/结实) (牢固) (脆弱)", pinyin: "jiāngù", meaning: "firm/sturdy/hard/strong/durable (weak)" },
-  { slNo: 891, hanzi: "坚韧", pinyin: "jiānrèn", meaning: "tough and durable/tenacious/persistent and resilient (human+material)" },
+  { slNo: 891, hanzi: "坚韧", pinyin: "jiān rèn", meaning: "tough and durable/tenacious/persistent and resilient (human+material)" },
   { slNo: 892, hanzi: "坚实 (坚固/结实) (牢固)", pinyin: "jiānshí", meaning: "firm/solid" },
-  { slNo: 893, hanzi: "坚硬", pinyin: "jiānyìng", meaning: "hard/solid (eg diamond/shell)" },
-  { slNo: 894, hanzi: "监督", pinyin: "jiāndū", meaning: "to monitor/oversee/supervise/inspect the actions" },
-
-  { slNo: 895, hanzi: "监视 (摄像头)", pinyin: "jiānshì", meaning: "Let's MONITOR/KEEP A CLOSE WATCH OVER/SURVEILANCE our Prod VM logs while they are browsing | He hired a security guard and she bought a CCTV Camera to MONITOR their company entrance (CCTV Camera)" },
+  
+  { slNo: 893, hanzi: "坚硬 (硬) (结实)", pinyin: "jiān yìng", meaning: "Diamond is really HARD/SOLID | (The chair is STURDY/STRONGLY BUILT it won't wobble if you sit on it | He has a STURDY 身材 | The bridge is STURDY, cars can pass through it safely)" },
+  { slNo: 894, hanzi: "监督 (监视)", pinyin: "jiān dū", meaning: "We have to MONITOR/SUPERVISE the download of this Game (making sure it downloads smoothly like being a captain monitoring the ship that all are working as expected) | Let's MONITOR/SUPERVISE the food safety of this village | (HunterXHunter Pitou and all were MONITOR-ing/WATCH-ing OVER/SURVEILANCE-ing the surrounding of 宫殿 to not let any enemy in)" },
+  { slNo: 895, hanzi: "监视 (摄像头) (监督)", pinyin: "jiān shì", meaning: "Let's MONITOR/KEEP A CLOSE WATCH OVER/SURVEILANCE our Prod VM logs while they are browsing | He hired a security guard and she bought a CCTV Camera to MONITOR their company entrance (CCTV Camera) | (Let's MONITOR/SUPERVISE the progress of this project)" },
   { slNo: 896, hanzi: "监狱 (大牢) (牢狱/牢房)", pinyin: "jiān yù", meaning: "She was sent to PRISON | Our Boss is coming out of PRISON this weekend | (We can't melt the iron bars to break this PRISON CELL and then we hide ourselfs in the below hole, and when no one is looking out, let's try to escape the PRISON eventually)" },
   { slNo: 897, hanzi: "尖端 (短剑)", pinyin: "jiān duān", meaning: "(トリリオンゲーム) We are using CUTTING-EDGE/MOST ADVANCED AI technology in our Online Shop you must try out | (妖神记 The descendant of Dragon Tribe is the DAGGER of Nieli | 久岐忍 uses a DAGGER)" },
   
