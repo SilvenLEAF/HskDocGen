@@ -883,7 +883,7 @@ export const hsk_list = [
   { slNo: 848, hanzi: "激情 (热情)", pinyin: "jī qíng", meaning: "She has a PASSION for drawing | Her PASSION for cooking is limitless | (She is a PASSIONATE cook | She is PASSIONATE about cooking)" },
   { slNo: 849, hanzi: "饥饿", pinyin: "jī è", meaning: "The HUNGER-y frogs age up all of them | HUNGER is a big problem in our village" },
   { slNo: 850, hanzi: "讥笑 (嘲笑) (震惊)", pinyin: "jī xiào (cháo xiào)", meaning: "(妖神记) Shen Yue often MOCKs Nieli and others | In most of the 世界 the OP MC is often MOCK-ed/RIDICULE-d by everyone but they don't know OP power lives hidden within him/her and when they do know they are SUPER SHOCKED" },
-  
+
   { slNo: 851, hanzi: "(极端/顶尖) (高峰/顶峰) (修士)", pinyin: "jí duān", meaning: "You can become an EXTREME/PEAK cultivator of fire element | (妖神记 No wonder Yue Fu Daren is a PEAK 黑金级 的 妖灵师 | Ying Sha pretended to be the PEAK 传奇级 的 妖灵师) | (cultivator)" },
   { slNo: 852, hanzi: "极限", pinyin: "jí xiàn", meaning: "I'll break my LIMIT/EXTREME BOUNDARY | Let's see what is our LIMIT | For those who want to fly sky is the LIMIT" },
   { slNo: 853, hanzi: "(哪怕/即便/即使) (若是/如果/假如/假设)", pinyin: "nǎ pà", meaning: "(斗罗大陆) EVEN IF Xiu Douluo comes, My 女婿 won't back down and protect her | (IF he had the 魔魂 he would be the most powerful Douluo | 哟神记 IF I got one more year, I'll defeat you 岳父大人)" },
@@ -909,7 +909,7 @@ export const hsk_list = [
   { slNo: 873, hanzi: "季军 (亚军) (冠军)", pinyin: "jì jūn", meaning: "(GGS) K&K was the CHAMPION/won FIRST PLACE but SP won the SECOND PLACE and Buff won the THIRD PALCE" },
   { slNo: 874, hanzi: "计较", pinyin: "jìjiào", meaning: "(万界仙踪) She has a child temper but still a member of our family, as a Clan Leader I don't BOTHER ABOUT this (being overly concerned about small details)" },
   { slNo: 875, hanzi: "忌讳 (禁忌)", pinyin: "jìhuì", meaning: "Eating food is a CULTURAL/TRADITIONAL TABOO in our home | (Killing or eating 牛 is a big TABOO in India) | (Cultural TABOO|Generi TABOO)" },
-  
+
   { slNo: 876, hanzi: "寂静 (安静/宁静) (嘈杂)", pinyin: "jì jìng", meaning: "This room is SILENT/QUIET/TRANQUIL | I like the SILENT/QUIENT/TRANQUIL environment of our office | (Their office is really NOISY/CLAMOROUS | (入間くん) Kalego Sensei never liked NOSY/CLAMOROUS place and people from his school life)" },
   { slNo: 877, hanzi: "纪要", pinyin: "jì yào", meaning: "After our DSTA client call Emeth Sir wrote a (meeting) SUMMARY of our meeting and forwarded to all of us | After the NTUC weekly call with the SAP Team, Lee Hong Sir wrote a (meeting) SUMMARY of all the items that we discussed including the To-Do items of both X0PA and SAP and then he forwarded it to Harsha Sir" },
   { slNo: 878, hanzi: "技巧 (技术/技能)", pinyin: "jì qiǎo", meaning: "Best way to improve the speaking SKILL is to speak your heart out | His Engineering SKILL and Rust SKILL is unrivaled" },
@@ -917,7 +917,7 @@ export const hsk_list = [
   { slNo: 880, hanzi: "家常", pinyin: "jiā cháng", meaning: "(The daily life of a family) | It's a HOME-STYLE cake/Ratatouille | I made a HOME-STYLE/HOMELY chicken curry which gives me my mom's flavour | I miss my HOMELY chores | Daal, Bhat, Alu bhaja, Shim etc is our HOMELY dishes | I want to know more about your DAILY HOME LIFE" },
   { slNo: 881, hanzi: "家伙", pinyin: "jiā huo", meaning: "This FELLOW/GUY is really insane he went to fight the Gods without any 魔魂" },
   { slNo: 882, hanzi: "家属 (家人)", pinyin: "jiā shǔ", meaning: "GGS Ai Qing asked Tong Nian, Why not write FAMILY MEMBER | Your Lao Da brought his FAMILY MEMBER in our trainning session" },
-  { slNo: 883, hanzi: "家喻户晓", pinyin: "jiā yù hù xiǎo", meaning: "This story is already KNOWN TO EVERY HOUSEHOLD/WIDELY-KNOWN | She is a WIDELY-KNOWN 法师" },  
+  { slNo: 883, hanzi: "家喻户晓", pinyin: "jiā yù hù xiǎo", meaning: "This story is already KNOWN TO EVERY HOUSEHOLD/WIDELY-KNOWN | She is a WIDELY-KNOWN 法师" },
   { slNo: 884, hanzi: "加工 (加工 成) (处理)", pinyin: "jiā gōng", meaning: "(to PROCESS/PROCESSING of machinery) Turning wood into puppets reuquire a lot of PROCESSING/WORK | My grandma used her sewing machine to PROCESS the fabric INTO a beautiful dress | (The software can PROCESS 7 files together | The data that you gave, my program is still PROCESSING it and only 70% done)" },
   { slNo: 885, hanzi: "加剧 (加强) (复发)", pinyin: "jiā jù", meaning: "Drinking alcohol can INTENSIFY your sleepiness | Last night's heavy rain INSENSIFY-ed the flood in our village | Your kissing me INSENSIFY-ed my love for you | (She STRENGTHENed the spiciness of the food by adding more chilli) | (爱上哥们 Did Nana 的病 RELAPSEd (into a former bad state) again)" },
   { slNo: 886, hanzi: "佳肴 (美味/美食) (品尝)", pinyin: "jiā yáo", meaning: "We tried many EXQUISITE DISHES/DELICIOUS FOOD at the restaurant | Last time Lee Sir treated me to an EXQUISITE DISHES/DELICIOUS FOOD at a famous restaurant | (When I returned home, I ate a lot of DELICIOUS FOOD/DELICACY-es, my Mom cooked Chicken, Fish, and many more)" },
@@ -935,46 +935,40 @@ export const hsk_list = [
   { slNo: 898, hanzi: "尖锐 (锋利) (利刃)", pinyin: "jiān ruì", meaning: "I felt a SHARP pain after bumping into the wall | Kalego Sensei's criticism was SHARP | The knife is very SHARP careful | (I bought a SHARP blade | 冰火魔厨 I sword is really SHARP let's go to hospital) | (鬼滅の刃 SHARP SWORD/BLADE of 黑暗 element)" },
   { slNo: 899, hanzi: "艰难 (困难)", pinyin: "jiān nán", meaning: "妖神记 This time's 炼丹师 考试 really DIFFICULT/CHALLENGING | (万界仙踪) We overcame all the DIFFICULTIES together and ended up being really good friends" },
   { slNo: 900, hanzi: "拣", pinyin: "jiǎn", meaning: "I PICKed UP/SELECTed a book from the bookself | I PICKed UP/SELECTed a fruit from the fruit basket" },
-  /////////////////////////////// - backwards end
 
-  
   { slNo: 901, hanzi: "剪彩 (开幕式)", pinyin: "jiǎn cǎi", meaning: "(微微一笑很倾城) Xiao Nai let Wei Wei to CUT the RIBBON for their new office | Feng Teng CUT the RIBBON of the new store and the OPENING CEREMONY officially began" },
-  { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎn tǎo", meaning: "a review/self-criticism (written self-criticism) (review meeting)" },
-  { slNo: 903, hanzi: "检验 (检查)", pinyin: "jiǎn yàn", meaning: "to inspect/examine/to test" },
+  { slNo: 902, hanzi: "检讨 (检讨书) (检讨会)", pinyin: "jiǎn tǎo", meaning: "(入間くん) After Clara accidentally bumped into Kalego Sensei while trying to kiss Iruma-kun, Kalego Sensei asked her to REFLECT ON/SELF-CRITICIZE her action and write a WRITTEN SELF-CRITICISM 1000 times | I was really scared when Harsha Sir asked for a REVIEW MEETING/SELF-CRITICISM MEETING after the DSTA Prod Deploy issues for what we did wrong and how can we improve it" },
+  { slNo: 903, hanzi: "检验 (检查)", pinyin: "jiǎn yàn", meaning: "Company INSPECTs the quality of its products every day | Every year we have to let the profession INSPECT our cars for safety | (Let's INSPECT the elements | They want to INSPECT our luggage before boarding the flight)" },
   { slNo: 904, hanzi: "简化 (复杂化)", pinyin: "jiǎn huà", meaning: "Let me SIMPLIFY this for you | I asked him to SIMPLIFY it for me but he COMPLEXIFY-ed it for me" },
-  
-  { slNo: 905, hanzi: "简陋", pinyin: "jiǎnlòu", meaning: "simple and crude" },
-  { slNo: 906, hanzi: "简体字 (繁体字)", pinyin: "jiǎntǐzì", meaning: "I can read SIMPLIFIED CHINESE CHARACTER but learning to also read TRADITIONAL CHINESE CHARACTERs" },
-  { slNo: 907, hanzi: "简要 (详细) (简略/简短)", pinyin: "jiǎnyào", meaning: "in brief (in detail/detailed) (simple/brief)" },
-  { slNo: 908, hanzi: "溅 (泼) (飞溅/四溅)", pinyin: "jiàn", meaning: "splash (to splash/spill)" },
-  { slNo: 909, hanzi: "鉴别 (分辨/辨认/识别)", pinyin: "jiànbié", meaning: "to differentiate/to distinguish" },
+  { slNo: 905, hanzi: "简陋 (朴素)", pinyin: "jiǎn lòu", meaning: "He lives a SIMPLE AND CRUDE life (lacking wealth and basic living conditions) | We once had a SIMPLE AND CRUDE time, even though we were poor but those days were golden | She lives in a SIMPLE AND CRUDE cottage | (She lives a PLAIN AND SIMPLE/MODEST life even though she is wealthy | She wore a PLAIN AND SIMPLE shirt)" },
+  { slNo: 906, hanzi: "简体字 (繁体字)", pinyin: "jiǎn tǐ zì", meaning: "I can read SIMPLIFIED CHINESE CHARACTER but learning to also read TRADITIONAL CHINESE CHARACTERs" },
+  { slNo: 907, hanzi: "简要 (简略/简短) (详细) (详情)", pinyin: "jiǎnyào", meaning: "(ワンパンマン) Tell me the details IN BRIEF within 20 words or less | Give me a BRIEF description about yourself | (Give me a DETAILED/IN DETAIL description about yourself) | (Give me the DETAILS of your adventure there)" },
+  { slNo: 908, hanzi: "溅 (溅到) (泼水)", pinyin: "jiàn", meaning: "I SPLASHed/SPILLed milk in my Mac resulting it to break down | (爱上哥们 Duze Feng and Pi Ano were playing by SPLASHing water on each other)" },
+  { slNo: 909, hanzi: "鉴别 (分辨/辨认/识别)", pinyin: "jiàn bié", meaning: "Prash Sir, Can you DIFFERENTIATE/DISTINGUISH your car among all others" },
   { slNo: 910, hanzi: "鉴定", pinyin: "jiàn dìng", meaning: "(放浪メシ) Guildmaster could not APPRAISE/IDENTIFY my element with his APPRAISAL Skill" },
-  { slNo: 911, hanzi: "鉴于 (因为/由于)", pinyin: "jiànyú", meaning: "since.../as..." },
-  { slNo: 912, hanzi: "间谍 (过家家)", pinyin: "jiàndié", meaning: "(SpyXFamily) Tasogare is one of the legendary SPY of our country | Anya is the daughter of the legendary SPY in the SpyXFamily" },
-  
-  { slNo: 913, hanzi: "间隔", pinyin: "jiàngé", meaning: "The INTERVAL between these trees are not very big | Let's go and bring some lunch in this INTERVAL | The time INTERVAL of these two train is 3 mins in One North MRT" },
-  { slNo: 914, hanzi: "间接 (直接)", pinyin: "jiànjiē", meaning: "This is an INDIRECT Kiss | She INDIRECT-ly kissed me | She said her feeling DIRECT-ly and not INDIRECT-ly" },
-  
+  { slNo: 911, hanzi: "鉴于 (因为/由于)", pinyin: "jiàn yú", meaning: "CONSIDERING/IN VIEW OF his hard work, we decided to reward him | (BECAUSE he works hard we decided to reward him)" },
+  { slNo: 912, hanzi: "间谍 (过家家)", pinyin: "jiàn dié", meaning: "(SpyXFamily) Tasogare is one of the legendary SPY of our country | Anya is the daughter of the legendary SPY in the SpyXFamily" },
+  { slNo: 913, hanzi: "间隔", pinyin: "jiàn gé", meaning: "The INTERVAL between these trees are not very big | Let's go and bring some lunch in this INTERVAL | The time INTERVAL of these two train is 3 mins in One North MRT" },
+  { slNo: 914, hanzi: "间接 (直接)", pinyin: "jiàn jiē", meaning: "This is an INDIRECT Kiss | She INDIRECT-ly kissed me | She said her feeling DIRECT-ly and not INDIRECT-ly" },
   { slNo: 915, hanzi: "...见多识广 (博士)", pinyin: "jiàn duō shí guǎng", meaning: "She has SEEN a lot and KNOWs a lot/has GREAT EXPERIENCE | (He is a PhD)" },
   { slNo: 916, hanzi: "见解 (意见/看法/观点)", pinyin: "jiàn jiě", meaning: "What is your OPINION/VIEW on this" },
-  
-  { slNo: 917, hanzi: "见闻", pinyin: "jiànwén", meaning: "knowledge/one's experience/what one has seen and heard" },
-  { slNo: 918, hanzi: "见义勇为", pinyin: "jiànyìyǒngwéi", meaning: "(以家人之名) You know her, no, why did you save me, we STOOD UP BRAVELY FOR THE TRUTH | Bus driver STOOD UP BRAVELY FOR THE TRUTH but was sent to prison because he used voilence" },
-  { slNo: 919, hanzi: "健全 (健康)", pinyin: "jiànquán", meaning: "sound and healthy" },
-  
+  { slNo: 917, hanzi: "见闻 (经历)", pinyin: "jiàn wén", meaning: "(Knowledge from one's experience) He has lots of EXPERIENCES/KNOWLEDGE (from experiences) about Singapore | His EXPERIENCES/KNOWLEDGE of Poison is really high" },
+  { slNo: 918, hanzi: "见义勇为", pinyin: "jiàn yì yǒng wéi", meaning: "(以家人之名) You know her, no, why did you save me, we STOOD UP BRAVELY FOR THE TRUTH | Bus driver STOOD UP BRAVELY FOR THE TRUTH but was sent to prison because he used voilence" },
+  { slNo: 919, hanzi: "健全 (健康)", pinyin: "jiàn quán", meaning: "The machine is still SOUND/HEALTHY/SOLID/IN-GOOD-CONDITION even after 3 years | He has a SOLID/WELL-STRUCTURED plan | (She is HEALTHY now)" },
   { slNo: 920, hanzi: "践踏 (爱护)", pinyin: "jiàn tà", meaning: "Don't TRAMPLE on the flower | Dont TRAMPLE on my emotions | (Let's CHERISH/TAKE CARE OF our friends and family)" },
   { slNo: 921, hanzi: "(军舰) 舰艇", pinyin: "jiàn tǐng", meaning: "China has various WARSHIPs/SHIPs of WAR | Emperor sent 1000 WARSHIPs to support the friendly country to protect them from the enemy invasion" },
   { slNo: 922, hanzi: "剑 (短剑)", pinyin: "jiàn", meaning: "(斗罗大陆) I have the SWORD of the SWORD Douluo of 七宝 琉璃宗 sword | (妖神记 Nieli has a DAGGER 手下)" },
   { slNo: 923, hanzi: "将近 (接近)", pinyin: "jiāng jìn", meaning: "We arrived home at NEARLY/ALMOST 9 o'clock | We APPROCHED CLOSER to our enemies" },
   { slNo: 924, hanzi: "将军", pinyin: "jiāng jūn", meaning: "Shougun (雷电) | Legendary Shougun is his 手下" },
   { slNo: 925, hanzi: "将就 (凑合)", pinyin: "jiāng jiù", meaning: "(妖神记) What can I do, due to 岳父大人 pressure I have to ACCEPT A BIT RELUCTANTLY | (Are you saying I am not good enough for you? Well, You are FINE, you are OKAY, EVEN THOUGH you ARE NOT WHAT I ACTUALLY WANTED)" },
+  /////////////////////////////// - backwards end
 
 
-  
 
 
 
-  
+
+
   { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "stiff/rigid" },
   { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "paddle/propeller (to row/paddle) (propeller/spiral oar) (ラセン)" },
   { slNo: 928, hanzi: "奖励 (奖赏)", pinyin: "jiǎnglì", meaning: "reward/prize" },
