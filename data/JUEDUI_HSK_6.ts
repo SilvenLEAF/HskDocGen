@@ -297,7 +297,7 @@ export const hsk_list = [
   { slNo: 286, hanzi: "充沛 (精力 充沛)", pinyin: "chōng pèi", meaning: "She is FILLED WITH ENERGY/ENERGITIC every morning | I love her OVERFLOWING ENERGY" },
   { slNo: 287, hanzi: "充实 (空虚)", pinyin: "chōng shí", meaning: "I feel today's study/work/experience is FULL-FILLING | He is SATISFIED/FULL-FILLED with our hospitability | (I'm feeling an EMPTINESS in my heart | I feel EMPTY) | (The room/treasure box is EMPTY)" },
   { slNo: 288, hanzi: "充足 (丰富)", pinyin: "chōng zú", meaning: "We have ABUNDANT (HAVING LOTS OF) cookies in the jar | There is ABUNDANT (HAVING LOTS OF) fishes in this pond | (I have a RICH/ENRICHED collection of books | China is RICH/ENRICHED in minerals)" },
-  { slNo: 289, hanzi: "崇拜 (佩服) (钦佩)", pinyin: "chóng bài", meaning: "(GGS+QGS) I ADMIRE/LOOK UP TO Lao Han and Ye Qiu in GGS and QGS | (万界仙踪+妖神记)Lao Fu/I ADMIRE your courage/your master" },
+  { slNo: 289, hanzi: "崇拜 (佩服) (钦佩)", pinyin: "chóng bài", meaning: "(GGS+QGS) I ADMIRE/LOOK UP TO Lao Han and Ye Qiu in GGS and QGS | (万界仙踪+妖神记) Lao Fu/I ADMIRE your courage/your master" },
   { slNo: 290, hanzi: "崇高(神圣)", pinyin: "chóng gāo", meaning: "(万界仙踪) White sheeps said, you are MAJESTIC and DEVINE/SUBLIME worthy to rule the world, we want to follow you | (妖神记 This is a HOLY/SACRED place/well | The HOLY/SACRED family was destroyed by Nieli and Father-in-law" },
   { slNo: 291, hanzi: "崇敬 (尊敬/尊重/敬重)", pinyin: "chóng jìng", meaning: "We RESPECT our elders | I RESPECT my master | I RESPECT her" },
   { slNo: 292, hanzi: "重叠 (相交)", pinyin: "chóng dié", meaning: "She lives in this region where these two circles OVERLAP | Their personality OVERLAPs here | In Bouna Vista Circle Line and Green Line OVERLAPs (to intersect/meet esp lines)" },
@@ -909,42 +909,33 @@ export const hsk_list = [
   { slNo: 873, hanzi: "季军 (亚军) (冠军)", pinyin: "jì jūn", meaning: "(GGS) K&K was the CHAMPION/won FIRST PLACE but SP won the SECOND PLACE and Buff won the THIRD PALCE" },
   { slNo: 874, hanzi: "计较", pinyin: "jìjiào", meaning: "(万界仙踪) She has a child temper but still a member of our family, as a Clan Leader I don't BOTHER ABOUT this (being overly concerned about small details)" },
   { slNo: 875, hanzi: "忌讳 (禁忌)", pinyin: "jìhuì", meaning: "Eating food is a CULTURAL/TRADITIONAL TABOO in our home | (Killing or eating 牛 is a big TABOO in India) | (Cultural TABOO|Generi TABOO)" },
-  /////////////////////////////// - backwards end
-
-
-
-
+  
   { slNo: 876, hanzi: "寂静 (安静/宁静) (嘈杂)", pinyin: "jì jìng", meaning: "This room is SILENT/QUIET/TRANQUIL | I like the SILENT/QUIENT/TRANQUIL environment of our office | (Their office is really NOISY/CLAMOROUS | (入間くん) Kalego Sensei never liked NOSY/CLAMOROUS place and people from his school life)" },
-  { slNo: 877, hanzi: "纪要", pinyin: "jìyào", meaning: "After our DSTA client call Emeth Sir wrote a (meeting) SUMMARY of our meeting and forwarded to all of us | After the NTUC weekly call with the SAP Team, Lee Hong Sir wrote a (meeting) SUMMARY of all the items that we discussed including the To-Do items of both X0PA and SAP and then he forwarded it to Harsha Sir" },
+  { slNo: 877, hanzi: "纪要", pinyin: "jì yào", meaning: "After our DSTA client call Emeth Sir wrote a (meeting) SUMMARY of our meeting and forwarded to all of us | After the NTUC weekly call with the SAP Team, Lee Hong Sir wrote a (meeting) SUMMARY of all the items that we discussed including the To-Do items of both X0PA and SAP and then he forwarded it to Harsha Sir" },
   { slNo: 878, hanzi: "技巧 (技术/技能)", pinyin: "jì qiǎo", meaning: "Best way to improve the speaking SKILL is to speak your heart out | His Engineering SKILL and Rust SKILL is unrivaled" },
   { slNo: 879, hanzi: "迹象 (占据) (症状)", pinyin: "jì xiàng", meaning: "I saw the SIGNS/INDICATIONS of a Strongest Douluo protecting her | I can see the SIGNS/INDICATIONS of a Dragon living here | She has the SIGNS/INDICATIONS of being occupied by 灵魂 | (Do you know what are the SYMPTOMS of your soul being OCCUPY-ed by a Ghost 鬼)" },
   { slNo: 880, hanzi: "家常", pinyin: "jiā cháng", meaning: "(The daily life of a family) | It's a HOME-STYLE cake/Ratatouille | I made a HOME-STYLE/HOMELY chicken curry which gives me my mom's flavour | I miss my HOMELY chores | Daal, Bhat, Alu bhaja, Shim etc is our HOMELY dishes | I want to know more about your DAILY HOME LIFE" },
   { slNo: 881, hanzi: "家伙", pinyin: "jiā huo", meaning: "This FELLOW/GUY is really insane he went to fight the Gods without any 魔魂" },
   { slNo: 882, hanzi: "家属 (家人)", pinyin: "jiā shǔ", meaning: "GGS Ai Qing asked Tong Nian, Why not write FAMILY MEMBER | Your Lao Da brought his FAMILY MEMBER in our trainning session" },
-  
-  { slNo: 883, hanzi: "家喻户晓", pinyin: "jiāyùhùxiǎo", meaning: "widely known" },
-  { slNo: 884, hanzi: "加工", pinyin: "jiāgōng", meaning: "to process/processing" },
-  { slNo: 885, hanzi: "加剧 (复发)", pinyin: "jiājù", meaning: "to intensify/accelrate (to relapse into a former bad state/to reappear)" },
-  
-  { slNo: 886, hanzi: "佳肴 (美味/美食) (品尝)", pinyin: "jiāyáo", meaning: "We tried many EXQUISITE DISHES/DELICIOUS FOOD at the restaurant | Last time Lee Sir treated me to an EXQUISITE DISHES/DELICIOUS FOOD at a famous restaurant | (When I returned home, I ate a lot of DELICIOUS FOOD/DELICACY-es, my Mom cooked Chicken, Fish, and many more)" },
+  { slNo: 883, hanzi: "家喻户晓", pinyin: "jiā yù hù xiǎo", meaning: "This story is already KNOWN TO EVERY HOUSEHOLD/WIDELY-KNOWN | She is a WIDELY-KNOWN 法师" },  
+  { slNo: 884, hanzi: "加工 (加工 成) (处理)", pinyin: "jiā gōng", meaning: "(to PROCESS/PROCESSING of machinery) Turning wood into puppets reuquire a lot of PROCESSING/WORK | My grandma used her sewing machine to PROCESS the fabric INTO a beautiful dress | (The software can PROCESS 7 files together | The data that you gave, my program is still PROCESSING it and only 70% done)" },
+  { slNo: 885, hanzi: "加剧 (加强) (复发)", pinyin: "jiā jù", meaning: "Drinking alcohol can INTENSIFY your sleepiness | Last night's heavy rain INSENSIFY-ed the flood in our village | Your kissing me INSENSIFY-ed my love for you | (She STRENGTHENed the spiciness of the food by adding more chilli) | (爱上哥们 Did Nana 的病 RELAPSEd (into a former bad state) again)" },
+  { slNo: 886, hanzi: "佳肴 (美味/美食) (品尝)", pinyin: "jiā yáo", meaning: "We tried many EXQUISITE DISHES/DELICIOUS FOOD at the restaurant | Last time Lee Sir treated me to an EXQUISITE DISHES/DELICIOUS FOOD at a famous restaurant | (When I returned home, I ate a lot of DELICIOUS FOOD/DELICACY-es, my Mom cooked Chicken, Fish, and many more)" },
   { slNo: 887, hanzi: "夹杂 (混合) (融合)", pinyin: "jiā zá", meaning: "She MIXed sands IN/WITH sugar | (She MIXed milk IN/WITH water | She MIXed oil IN/WITH water) | (妖神记 Yue Fu Da Ren FUSIONed WITH the Dragon Soul | She FUSIONed 冰 element and 火 element)" },
   { slNo: 888, hanzi: "煎 (熬/煮) (煎熬) (折磨)", pinyin: "jiān", meaning: "LET'S PAN-FRY the fish and egg | (Let's BOIL the eggs) | (I endured a long period of SUFFERING and finally achieved success) | (HunterXHunter Feitan loves to TORTURE)" },
-
-  { slNo: 889, hanzi: "坚定 (坚决) (决心)", pinyin: "jiāndìng", meaning: "firm/resolute (resolution)" },
-  { slNo: 890, hanzi: "坚固 (坚实/结实) (牢固) (脆弱)", pinyin: "jiāngù", meaning: "firm/sturdy/hard/strong/durable (weak)" },
-  { slNo: 891, hanzi: "坚韧", pinyin: "jiān rèn", meaning: "tough and durable/tenacious/persistent and resilient (human+material)" },
-  { slNo: 892, hanzi: "坚实 (坚固/结实) (牢固)", pinyin: "jiānshí", meaning: "firm/solid" },
-  
+  { slNo: 889, hanzi: "坚定 (坚决/决心)", pinyin: "jiān dìng", meaning: "(FIRM/STRON beliefs or feelings that do not change easily) I have a FIRM/RESOLUTE belief in my dream | The kitten has a FIRM/RESOLUTE love for her owner | firm/resolute (resolution) | (Facing 困难 she is DETERMINED not to give up | She is DETERMINED to learn to swim)" },
+  { slNo: 890, hanzi: "坚固 (坚实/结实) (牢固) (脆弱)", pinyin: "jiān gù", meaning: "The city was is STURDY/STRONGLY-BUILT/STRONG/FIRM/DURABLE and didn't collapse for centuries | Their friendship is build on FIRM/STRONG/DURABLE trust | The chair is STURDY/DURABLE/FIRM and won't wobble if we sit on it | (The city wall was WEAK/NOT-DURABLE but Nieli made it FIRM/STRONG/STRUDY/STRONGLY-BUILT/DURALBE)" },
+  { slNo: 891, hanzi: "坚韧", pinyin: "jiān rèn", meaning: "This material is very TOUGH AND DURABLE/PERSISTENT AND RESILIENT ideal for making our ropes | She is a TOUGH AND DURABLE/PERSISTENT AND RESILIENT girl who can persevere through any difficulty | My 女婿 is really TOUGH AND DURABLE/PERSISTENT AND RESILIENT when it comes to protecting her 无论如何 来谁" },
+  { slNo: 892, hanzi: "坚实 (坚固/结实) (牢固) (脆弱)", pinyin: "jiān shí", meaning: "The city was is STURDY/STRONGLY-BUILT/STRONG/FIRM/DURABLE and didn't collapse for centuries | Their friendship is build on FIRM/STRONG/DURABLE trust | The chair is STURDY/DURABLE/FIRM and won't wobble if we sit on it | (The city wall was WEAK/NOT-DURABLE but Nieli made it FIRM/STRONG/STRUDY/STRONGLY-BUILT/DURALBE)" },
   { slNo: 893, hanzi: "坚硬 (硬) (结实)", pinyin: "jiān yìng", meaning: "Diamond is really HARD/SOLID | (The chair is STURDY/STRONGLY BUILT it won't wobble if you sit on it | He has a STURDY 身材 | The bridge is STURDY, cars can pass through it safely)" },
   { slNo: 894, hanzi: "监督 (监视)", pinyin: "jiān dū", meaning: "We have to MONITOR/SUPERVISE the download of this Game (making sure it downloads smoothly like being a captain monitoring the ship that all are working as expected) | Let's MONITOR/SUPERVISE the food safety of this village | (HunterXHunter Pitou and all were MONITOR-ing/WATCH-ing OVER/SURVEILANCE-ing the surrounding of 宫殿 to not let any enemy in)" },
   { slNo: 895, hanzi: "监视 (摄像头) (监督)", pinyin: "jiān shì", meaning: "Let's MONITOR/KEEP A CLOSE WATCH OVER/SURVEILANCE our Prod VM logs while they are browsing | He hired a security guard and she bought a CCTV Camera to MONITOR their company entrance (CCTV Camera) | (Let's MONITOR/SUPERVISE the progress of this project)" },
   { slNo: 896, hanzi: "监狱 (大牢) (牢狱/牢房)", pinyin: "jiān yù", meaning: "She was sent to PRISON | Our Boss is coming out of PRISON this weekend | (We can't melt the iron bars to break this PRISON CELL and then we hide ourselfs in the below hole, and when no one is looking out, let's try to escape the PRISON eventually)" },
   { slNo: 897, hanzi: "尖端 (短剑)", pinyin: "jiān duān", meaning: "(トリリオンゲーム) We are using CUTTING-EDGE/MOST ADVANCED AI technology in our Online Shop you must try out | (妖神记 The descendant of Dragon Tribe is the DAGGER of Nieli | 久岐忍 uses a DAGGER)" },
-  
-  { slNo: 898, hanzi: "尖锐 (锋利) (利刃)", pinyin: "jiānruì", meaning: "sharp (sharp blade sword etc) (sharp blade" },
-  { slNo: 899, hanzi: "艰难 (困难)", pinyin: "jiānnán", meaning: "difficult/hard/challenging" },
-  { slNo: 900, hanzi: "拣 (拣选) (分拣)", pinyin: "jiǎn", meaning: "to choose/pick up (to select) (to sort out)" },
-
+  { slNo: 898, hanzi: "尖锐 (锋利) (利刃)", pinyin: "jiān ruì", meaning: "I felt a SHARP pain after bumping into the wall | Kalego Sensei's criticism was SHARP | The knife is very SHARP careful | (I bought a SHARP blade | 冰火魔厨 I sword is really SHARP let's go to hospital) | (鬼滅の刃 SHARP SWORD/BLADE of 黑暗 element)" },
+  { slNo: 899, hanzi: "艰难 (困难)", pinyin: "jiān nán", meaning: "妖神记 This time's 炼丹师 考试 really DIFFICULT/CHALLENGING | (万界仙踪) We overcame all the DIFFICULTIES together and ended up being really good friends" },
+  { slNo: 900, hanzi: "拣", pinyin: "jiǎn", meaning: "I PICKed UP/SELECTed a book from the bookself | I PICKed UP/SELECTed a fruit from the fruit basket" },
+  /////////////////////////////// - backwards end
 
   
   { slNo: 901, hanzi: "剪彩 (开幕式)", pinyin: "jiǎn cǎi", meaning: "(微微一笑很倾城) Xiao Nai let Wei Wei to CUT the RIBBON for their new office | Feng Teng CUT the RIBBON of the new store and the OPENING CEREMONY officially began" },
