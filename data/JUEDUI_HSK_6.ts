@@ -966,35 +966,39 @@ export const hsk_list = [
 
 
 
+  { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "My legs are very STIFF/RIGID/INFLEXIBLE after not running for a long time | After siting for long hours my back has become STIFF/RIGID/INFLEXIBLE | He became STIFF/RIGID/INFLEXIBLE due to nervousness | The robot's movements are STIFF/RIGID/INFLEXIBLE | (Diamond is really HARD/SOLID)" },
+  { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "(はめふら) Katarina took two legendary (boat) PADDLEs/OARs and ROWed/PADDLEd really fast easily wining against Alan-sama who couldn't win even after using a PROPELLER/SPIRAL OAR | (HunterXHunter Spiral|ラセン のような | Naruto ラセン がん)" },
+  { slNo: 928, hanzi: "奖励 (奖赏)", pinyin: "jiǎng lì", meaning: "Mom REWARDed me because I scored high on the exam | Mom gave me a REWARD because I scored high on the exam" },
+  { slNo: 929, hanzi: "奖赏 (奖励)", pinyin: "jiǎng shǎng", meaning: "Mom REWARDed me because I scored high on the exam | Mom gave me a REWARD because I scored high on the exam" },
+  { slNo: 930, hanzi: "降临", pinyin: "jiànglín", meaning: "(ARRIVAL/to ARRIVE esp sth significant) | The winter has finally ARRIVEd | Uzumaki Naruto ARRIVEd | Dr Stone Science Future will finally ARRIVE this winter" },
+  { slNo: 931, hanzi: "交叉 (路口)", pinyin: "jiāochā", meaning: "This book is an INTERSECTION of two different viewpoints | These two roads INTERSECT/CROSS OVER at the foot of Mount Fuji-san | Hope our journey/path/fate INTERSECTs and we get to meet each other again | (In the 3rd ROAD JUNCTION/ROAD CROSSING let's meet her | The first ROAD JUNCTION/CROSSING takes most of the time as it is one of the biggest on my way to home in SG)" },
+  { slNo: 932, hanzi: "交代", pinyin: "jiāodài", meaning: "If we can't take you back Princess, how can we EXPLAIN OURSELVES TO your father, the Demon Lord | 妖神记 Yang Jie shuo le, If Nieli dies how can we EXPLAIN OURSELVES TO Li family, we have to save him" },
 
-
-
-  { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "stiff/rigid" },
-  { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "paddle/propeller (to row/paddle) (propeller/spiral oar) (ラセン)" },
-  { slNo: 928, hanzi: "奖励 (奖赏)", pinyin: "jiǎnglì", meaning: "reward/prize" },
-  { slNo: 929, hanzi: "奖赏 (奖励)", pinyin: "jiǎngshǎng", meaning: "reward/prize" },
-  { slNo: 930, hanzi: "降临", pinyin: "jiànglín", meaning: "arrival/to descend/to arrive/to come (esp something significant/notable eg season person phenomenon)" },
-  { slNo: 931, hanzi: "交叉 (路口)", pinyin: "jiāochā", meaning: "intersection/to cross/to intersect (path destiny etc) (road intersection)" },
-  { slNo: 932, hanzi: "交代", pinyin: "jiāodài", meaning: "to explain/account for (if we can't take the sword back how do we explain to Demon Lord?)" },
   { slNo: 933, hanzi: "交涉 (谈判/讨价还价)", pinyin: "jiāoshè", meaning: "to negotiate/negotiation" },
-  { slNo: 934, hanzi: "交易", pinyin: "jiāoyì", meaning: "transaction" },
+  { slNo: 934, hanzi: "交易", pinyin: "jiāoyì", meaning: "I can see 7 TRANSACTIONs in your account | This TRANSACTION is not done by me | Today I made 3 shopping TRANSACTIONs at the supermarket | I can see a new TRANSACTION in my bank account, oh its my salary credited today" },
+ 
   { slNo: 935, hanzi: "焦点 (重点) (注意力)", pinyin: "jiāodiǎn", meaning: "focus/focal point (focus/attention)" },
   { slNo: 936, hanzi: "焦急 (着急/急忙)", pinyin: "jiāojí", meaning: "anxious/to worry" },
   { slNo: 937, hanzi: "娇气", pinyin: "jiāoqì", meaning: "delicate/tender/overly sensitive (easily fatigued, ailed or emotionally sensitive or picky, prone to complaints)" },
   { slNo: 938, hanzi: "角落", pinyin: "jiǎoluò", meaning: "nook/corner/secluded or hidden space" },
   { slNo: 939, hanzi: "搅拌 (搅动)", pinyin: "jiǎobàn", meaning: "to stir/mix up (eg with spoon stir milk cream and sugar)" },
   { slNo: 940, hanzi: "缴纳 (税款/学费/会费/罚款)", pinyin: "jiǎonà", meaning: "to pay (taxes/school or tution fees/membership dues/overdues/fine)" },
-  { slNo: 941, hanzi: "侥幸", pinyin: "jiǎoxìng", meaning: "fluke/by luck (まぐれ)" },
-  { slNo: 942, hanzi: "教养 (教育)", pinyin: "jiàoyǎng", meaning: "to train/educate/bring up/nurture" },
+  
+  { slNo: 941, hanzi: "侥幸", pinyin: "jiǎo xìng", meaning: "(妖神记) In front of 绝对的实力 FLUKE/LUCK/(まぐれ) doesn't work | (ハイキュー) It must be a FLUKE/BY LUCK (まぐれ) | まぐれ じゃなかった かよ" },
+  { slNo: 942, hanzi: "教养 (教育) (有教养)", pinyin: "jiàoyǎng", meaning: "Grandma BROUGHT me UP by TAUGHT me having politeness | He is WELL-MANNERED and always helps others | (School EDUCATEs the children | Mom and dad values my EDUCATION alot)" },
+  
   { slNo: 943, hanzi: "较量 (比赛/竞赛)", pinyin: "jiàoliàng", meaning: "contest/competition" },
   { slNo: 944, hanzi: "...皆...(S + 皆 + V + O)", pinyin: "jiē", meaning: "...all..." },
   { slNo: 945, hanzi: "接连 (连续)", pinyin: "jiēlián", meaning: "in a row/successively/consecutively/one after another (eg to rain/make mistake)" },
   { slNo: 946, hanzi: "阶层 (基/上/下/中层)", pinyin: "jiēcéng", meaning: "hierarchy/stratum/social class (layer)" },
   { slNo: 947, hanzi: "揭露 (揭开/揭秘) (暴露/暴光)", pinyin: "jiēlù", meaning: "to expose/disclose" },
-  { slNo: 948, hanzi: "节奏", pinyin: "jiézòu", meaning: "rhythm/tempo" },
+  
+  { slNo: 948, hanzi: "节奏 (打节拍)", pinyin: "jiézòu", meaning: "In dancing match with my RHYTHM/TEMPO | (ハイキュー) Here it comes Nishinoya's death kill hissatsu TEMPO/RHYTHM | (入間くん Clap your hand bakamono, do you want me to create a music BEAT)" },
   { slNo: 949, hanzi: "节制 (饮食)", pinyin: "jiézhì", meaning: "self-control/to control/moderate (diet etc)" },
   { slNo: 950, hanzi: "杰出 (突出)", pinyin: "jiéchū", meaning: "outstanding/remarkable (to stand out)" },
 
+
+  
   { slNo: 951, hanzi: "结晶 (水晶)(冰晶)", pinyin: "jiéjīng", meaning: "to crystallize (crystal)(ice crystal)" },
   { slNo: 952, hanzi: "结局 (结果)", pinyin: "jiéjú", meaning: "ending (鬼滅の刃)(result)" },
   { slNo: 953, hanzi: "结算 (预算)", pinyin: "jiésuàn", meaning: "to settle a bill/to close an account (budget)" },
