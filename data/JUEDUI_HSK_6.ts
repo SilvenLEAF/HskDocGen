@@ -961,10 +961,6 @@ export const hsk_list = [
   { slNo: 923, hanzi: "将近 (接近)", pinyin: "jiāng jìn", meaning: "We arrived home at NEARLY/ALMOST 9 o'clock | We APPROCHED CLOSER to our enemies" },
   { slNo: 924, hanzi: "将军", pinyin: "jiāng jūn", meaning: "Shougun (雷电) | Legendary Shougun is his 手下" },
   { slNo: 925, hanzi: "将就 (凑合)", pinyin: "jiāng jiù", meaning: "(妖神记) What can I do, due to 岳父大人 pressure I have to ACCEPT A BIT RELUCTANTLY | (Are you saying I am not good enough for you? Well, You are FINE, you are OKAY, EVEN THOUGH you ARE NOT WHAT I ACTUALLY WANTED)" },
-  /////////////////////////////// - backwards end
-
-
-
 
   { slNo: 926, hanzi: "僵硬 (坚硬)", pinyin: "jiāngyìng", meaning: "My legs are very STIFF/RIGID/INFLEXIBLE after not running for a long time | After siting for long hours my back has become STIFF/RIGID/INFLEXIBLE | He became STIFF/RIGID/INFLEXIBLE due to nervousness | The robot's movements are STIFF/RIGID/INFLEXIBLE | (Diamond is really HARD/SOLID)" },
   { slNo: 927, hanzi: "桨 (船桨) (划桨) (螺旋桨)", pinyin: "jiǎng (luó xuán jiǎng)", meaning: "(はめふら) Katarina took two legendary (boat) PADDLEs/OARs and ROWed/PADDLEd really fast easily wining against Alan-sama who couldn't win even after using a PROPELLER/SPIRAL OAR | (HunterXHunter Spiral|ラセン のような | Naruto ラセン がん)" },
@@ -973,32 +969,29 @@ export const hsk_list = [
   { slNo: 930, hanzi: "降临", pinyin: "jiànglín", meaning: "(ARRIVAL/to ARRIVE esp sth significant) | The winter has finally ARRIVEd | Uzumaki Naruto ARRIVEd | Dr Stone Science Future will finally ARRIVE this winter" },
   { slNo: 931, hanzi: "交叉 (路口)", pinyin: "jiāochā", meaning: "This book is an INTERSECTION of two different viewpoints | These two roads INTERSECT/CROSS OVER at the foot of Mount Fuji-san | Hope our journey/path/fate INTERSECTs and we get to meet each other again | (In the 3rd ROAD JUNCTION/ROAD CROSSING let's meet her | The first ROAD JUNCTION/CROSSING takes most of the time as it is one of the biggest on my way to home in SG)" },
   { slNo: 932, hanzi: "交代", pinyin: "jiāodài", meaning: "If we can't take you back Princess, how can we EXPLAIN OURSELVES TO your father, the Demon Lord | 妖神记 Yang Jie shuo le, If Nieli dies how can we EXPLAIN OURSELVES TO Li family, we have to save him" },
-
-  { slNo: 933, hanzi: "交涉 (谈判/讨价还价)", pinyin: "jiāoshè", meaning: "to negotiate/negotiation" },
+  { slNo: 933, hanzi: "交涉 (谈判/讨价还价)", pinyin: "jiāo shè", meaning: "Let's NEGOTIATE with them to RESOLVE THIS PROBLEM | (Let's NEGOTIATE of this contract together in detail, Lao Han said to Buff and Du Ze Feng said to ZHe Rui Ge)" },
   { slNo: 934, hanzi: "交易", pinyin: "jiāoyì", meaning: "I can see 7 TRANSACTIONs in your account | This TRANSACTION is not done by me | Today I made 3 shopping TRANSACTIONs at the supermarket | I can see a new TRANSACTION in my bank account, oh its my salary credited today" },
- 
-  { slNo: 935, hanzi: "焦点 (重点) (注意力)", pinyin: "jiāodiǎn", meaning: "focus/focal point (focus/attention)" },
-  { slNo: 936, hanzi: "焦急 (着急/急忙)", pinyin: "jiāojí", meaning: "anxious/to worry" },
-  { slNo: 937, hanzi: "娇气", pinyin: "jiāoqì", meaning: "delicate/tender/overly sensitive (easily fatigued, ailed or emotionally sensitive or picky, prone to complaints)" },
-  { slNo: 938, hanzi: "角落", pinyin: "jiǎoluò", meaning: "nook/corner/secluded or hidden space" },
-  { slNo: 939, hanzi: "搅拌 (搅动)", pinyin: "jiǎobàn", meaning: "to stir/mix up (eg with spoon stir milk cream and sugar)" },
-  { slNo: 940, hanzi: "缴纳 (税款/学费/会费/罚款)", pinyin: "jiǎonà", meaning: "to pay (taxes/school or tution fees/membership dues/overdues/fine)" },
-  
+  { slNo: 935, hanzi: "焦点", pinyin: "jiāo diǎn", meaning: "The FOCUS/FOCAL POINT for this meeting is to improve efficiency | Media's FOCUS/FOCAL POINT shifted from Ronove Romiere to Iruma-kun" },
+  { slNo: 936, hanzi: "焦急 (着急)", pinyin: "jiāo jí (zháo jí)", meaning: "I am really ANXIOUS/WORRIED about my result | (I am really IN A HURRY so please let me go early) | (WORRIED vs IN A HURRY)" },
+  { slNo: 937, hanzi: "娇气", pinyin: "jiāo qì", meaning: "(PAMPERED/SPOILED + TEMPERAMENT/CHARACTER) | His little sister is really SENSITIVE/DELICATE, she is really PAMPERED by her brother and is EASILY FATIGUED, AILED, EMOTIONALLY SENSITIVE, PICKY, PRONE TO COMPLAINTS | This type of glass cup is really DELICATE, you have to be careful or it'll break easily when dropped" },
+  { slNo: 938, hanzi: "角落", pinyin: "jiǎoluò", meaning: "(NOOK/CORNER) | (Dungeon Hunter III) There were 3 Treasure Chests in the NOOK/CORNER/SECLUDED or HIDDEN SPACE of the forest | She loves to sit in the NOOK/CORNER/SECLUDED or HIDDEN SPACE of the classroom | The book I found is from the NOOK/CORNER of the bookshelf" },
+  { slNo: 939, hanzi: "搅拌", pinyin: "jiǎobàn", meaning: "Break an egg and STIR/MIX it well | STIR/MIX milk cream (shor) and sugar well then we can eat deliciously with roti" },
+  { slNo: 940, hanzi: "缴纳 (税款) (学费) (会费) (欠款) (罚款)", pinyin: "jiǎonà", meaning: "We have to PAY our (taxes) before December | She will PAY my (school/tuition fee) | We have to PAY our (membership fees) | We have to PAY our (overdues) and (fine) by this month end" },
   { slNo: 941, hanzi: "侥幸", pinyin: "jiǎo xìng", meaning: "(妖神记) In front of 绝对的实力 FLUKE/LUCK/(まぐれ) doesn't work | (ハイキュー) It must be a FLUKE/BY LUCK (まぐれ) | まぐれ じゃなかった かよ" },
   { slNo: 942, hanzi: "教养 (教育) (有教养)", pinyin: "jiàoyǎng", meaning: "Grandma BROUGHT me UP by TAUGHT me having politeness | He is WELL-MANNERED and always helps others | (School EDUCATEs the children | Mom and dad values my EDUCATION alot)" },
-  
-  { slNo: 943, hanzi: "较量 (比赛/竞赛)", pinyin: "jiàoliàng", meaning: "contest/competition" },
-  { slNo: 944, hanzi: "...皆...(S + 皆 + V + O)", pinyin: "jiē", meaning: "...all..." },
-  { slNo: 945, hanzi: "接连 (连续)", pinyin: "jiēlián", meaning: "in a row/successively/consecutively/one after another (eg to rain/make mistake)" },
-  { slNo: 946, hanzi: "阶层 (基/上/下/中层)", pinyin: "jiēcéng", meaning: "hierarchy/stratum/social class (layer)" },
-  { slNo: 947, hanzi: "揭露 (揭开/揭秘) (暴露/暴光)", pinyin: "jiēlù", meaning: "to expose/disclose" },
-  
+  { slNo: 943, hanzi: "较量 (比赛/竞赛)", pinyin: "jiàoliàng", meaning: "(Dr Stone) Magma wants to COMPETE stregth with Steam Engine | (はめふら) Alan-sama and Geordo-sama both COMPETE-ing for Katarina | (イニシャル D) This CONTEST/COMPETETION will determine who is the real King of Mount Akina | (K&K won the championship in this CTF COMPETITION/CONTEST | COMPETETION/CONTEST already started and K&K is leading)" },
+  { slNo: 944, hanzi: "皆 (都) (S + 皆/都 + V + O)", pinyin: "jiē", meaning: "(formal/literary -...ALL) They ALL came here together | They ALL will not give up | Your family ALL will come to cheer you in the finals" },
+  { slNo: 945, hanzi: "接连 (连续)", pinyin: "jiē lián (lián xù)", meaning: "She worked overtime for 3 days IN A ROW/CONSECUTIVELY | I made mistakes while deploying 7 times IN A ROW/CONSECUTIVELY | I went to office for 5 days IN A ROW/CONSECUTIVELY" },
+  { slNo: 946, hanzi: "阶层 (基/下/中/上 -层)", pinyin: "jiē céng", meaning: "Makai no Jouge Kankei | The HIERARCHY/SOCIAL CLASS of 魔界 is really strict so Kalego Sensei couldn't say no for Katei Houmon | Education can change  a person's SOCIAL CLASS | BASIC-LEVEL employees server under LOWER-LEVEL employees who server MID-LEVEL leaders who serve UPPER-LEVEL managers" },
+  { slNo: 947, hanzi: "揭露 (暴露/暴光)", pinyin: "jiē lù", meaning: "Let's EXPOSE/REVEAL/DISCLOSE the secret of the Shui Lin Emperor | She EXPOSEd/REVEALed/DISCLOSEd all my secrets" },
   { slNo: 948, hanzi: "节奏 (打节拍)", pinyin: "jiézòu", meaning: "In dancing match with my RHYTHM/TEMPO | (ハイキュー) Here it comes Nishinoya's death kill hissatsu TEMPO/RHYTHM | (入間くん Clap your hand bakamono, do you want me to create a music BEAT)" },
-  { slNo: 949, hanzi: "节制 (饮食)", pinyin: "jiézhì", meaning: "self-control/to control/moderate (diet etc)" },
-  { slNo: 950, hanzi: "杰出 (突出)", pinyin: "jiéchū", meaning: "outstanding/remarkable (to stand out)" },
+  { slNo: 949, hanzi: "节制 (饮食)", pinyin: "jiézhì", meaning: "Have SELF-CONTROL/MODERATION when eating fast-food, do not eat too much | He needs to learn to SELF-CONTROL/MODERATE his diet/greed" },
+  { slNo: 950, hanzi: "杰出 (出色) (突出)", pinyin: "jiéchū", meaning: "He is an OUTSTANDING/EXCELLENT student | (Iruma-kun doesn't like to STAND OUT but still she is the most STANDING-OUT student of Babyls, he STANDs OUT most)" },
+  /////////////////////////////// - backwards end
 
 
-  
+
+
   { slNo: 951, hanzi: "结晶 (水晶)(冰晶)", pinyin: "jiéjīng", meaning: "to crystallize (crystal)(ice crystal)" },
   { slNo: 952, hanzi: "结局 (结果)", pinyin: "jiéjú", meaning: "ending (鬼滅の刃)(result)" },
   { slNo: 953, hanzi: "结算 (预算)", pinyin: "jiésuàn", meaning: "to settle a bill/to close an account (budget)" },
