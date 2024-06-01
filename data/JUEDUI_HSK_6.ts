@@ -614,7 +614,7 @@ export const hsk_list = [
   { slNo: 591, hanzi: "腐烂 (腐朽) (腐败/败坏)", pinyin: "fǔ làn", meaning: "The curry is ROTTEN badly and smelling really badly | (The curry is ROTTEN | The DECAYING/ROTTEN flowers | I saw thousand years of DECAY/ROTTING of his body) | (CORRUPTION is common in India | The school is CORRUPTED)" },
   { slNo: 592, hanzi: "腐蚀 (铁锈)", pinyin: "fǔ shí", meaning: "The iron CORRODEd due to RUST | Stomach secretes CORROSIVE acid | Dr Stone. Chrome CORRODEd the bambo ropes with Nytric Acid created from 尿 and Electolysis" },
   { slNo: 593, hanzi: "腐朽 (腐烂) (腐败/败坏)", pinyin: "fǔ xiǔ", meaning: "The DECAYING/ROTTEN flowers | I saw thousand years of DECAY/ROTTING of his body | The curry is ROTTEN | (The curry is ROTTEN badly and smelling really badly) | (CORRUPTION is common in India | The school is CORRUPTED)" },
-  { slNo: 594, hanzi: "辅助 (帮助)", pinyin: "fǔ zhù", meaning: "(愿神) I have the best ASSITING/SUPPORTING/SUPPLEMENTARY character in my team in Genshin, she is 久岐忍 | I'll HELP/ASSIST you in completing your tasks (to help like a support character, buffs and all)" },
+  { slNo: 594, hanzi: "辅助 (帮助)", pinyin: "fǔ zhù", meaning: "(愿神) I have the best ASSITING/SUPPORTING/SUPPLEMENTARY character in my team in Genshin, she is  i | I'll HELP/ASSIST you in completing your tasks (to help like a support character, buffs and all)" },
   { slNo: 595, hanzi: "抚养 (养育) (收养)", pinyin: "fǔ yǎng", meaning: "Mom and Dad FOSTERed/RAISEd me together | We'll RAISE/FOSTER our child/you together | (Mom wholeheartedly NURTUREs me and my little brother | I'll NURTURE the garden flowers) | (I want to ADOPT you three girls | My daughter is ADOPTED but I treat her as my own blood)" },
   { slNo: 596, hanzi: "抚摸", pinyin: "fǔ mō", meaning: "(致我們暖暖的小時光) Si Tu Mo loves to CARESS/PET/FONDLE/STROKE Gu Wei Yi's head" },
   { slNo: 597, hanzi: "俯视 (小看) (俯视 = 小看 < 看不起 < 藐视 < 鄙视)", pinyin: "fǔ shì", meaning: "From the Top of the mountain we LOOKed DOWN the beautiful scenery of the city | She LOOKS DOWN UPON me because I didn't attend college (to look down upon/disdain)" },
@@ -1046,31 +1046,42 @@ export const hsk_list = [
   /* -------------------------- completed up to here -------------------------- */
   /* -------------------------------------------------------------------------- */
 
-  { slNo: 1001, hanzi: "竞赛 (比赛)", pinyin: "jìngsài", meaning: "race/competition" },
-  { slNo: 1002, hanzi: "竞选", pinyin: "jìngxuǎn", meaning: "to take part in an election" },
-  { slNo: 1003, hanzi: "镜头 (慢镜头)", pinyin: "jìngtóu", meaning: "camera lens (slow motion)" },
+  { slNo: 1001, hanzi: "(比赛) 竞赛 (较量)", pinyin: "jìng sài", meaning: "(GGS) K&K won the championship in this CTF COMPETITION/CONTEST | COMPETETION/CONTEST already started and K&K is leading | (Dr Stone Magma wants to COMPETE stregth with Steam Engine | はめふら Alan-sama and Geordo-sama both COMPETE-ing for Katarina)" },
+  { slNo: 1002, hanzi: "竞选 (当选 为...) (选举)", pinyin: "jìng xuǎn", meaning: "(入間くん) Ronove Romiere and Ameri Kaichou were CAMPAIGN-ing for Seito Kai no Kaichou position appealing why they are good fit for it | After the Seito Kaichou no CAMPAIGN Iruma-kun VOTE-d Ameri Kaichou but most of his friends VOTE-d Romeire | After the ELECTION she will BE ELECTED as our next Kaichou | She WAS ELECTED in last ELECTION as well" },
+  { slNo: 1003, hanzi: "镜头 (慢镜头)", pinyin: "jìngtóu", meaning: "(ドラえもん) Suneo forgot his new CAMERA LENS in the Mountain but he brought his camera home though | (Come let's take a video using SLOW MOTION)" },
+
+
   { slNo: 1004, hanzi: "纠纷", pinyin: "jiūfēn", meaning: "dipute/conflict" },
   { slNo: 1005, hanzi: "纠正 (改正)", pinyin: "jiūzhèng", meaning: "to correct/make right" },
-  { slNo: 1006, hanzi: "酒精", pinyin: "jiǔjīng", meaning: "alcohol/ethyl alcohol" },
+  
+  { slNo: 1006, hanzi: "酒精 (硫酸) (酒)", pinyin: "jiǔjīng", meaning: "(Dr Stone) Dekabutsu, we need ALCOHOL (as a chemical substance/ethyl alcohol) and Sulfuric acid to cure Ruri-nee | (Then wait for tomorrow's Gozenjiai, if you win, will get lots of SAKE/ALCOHOL)" },
+  
   { slNo: 1007, hanzi: "救济", pinyin: "jiùjì", meaning: "emergency relief/to help the needy with cash or food or goods" },
   { slNo: 1008, hanzi: "就近 (附近/左右)", pinyin: "jiùjìn", meaning: "nearby" },
   { slNo: 1009, hanzi: "就业 (失业)", pinyin: "jiùyè", meaning: "to get a job (to lose one's job)" },
   { slNo: 1010, hanzi: "就职 (担任)", pinyin: "jiùzhí", meaning: "to take on a new role/assume a post" },
   { slNo: 1011, hanzi: "鞠躬 (敬礼)", pinyin: "jūgōng", meaning: "to bow/bend down (to salute)" },
-  { slNo: 1012, hanzi: "拘留", pinyin: "jūliú", meaning: "to detain (a prisoner)/to keep sb in custody" },
-  { slNo: 1013, hanzi: "拘束", pinyin: "jūshù", meaning: "constrained/to restrict" },
-  { slNo: 1014, hanzi: "居民 (居住者)", pinyin: "jūmín", meaning: "residents/inhabitant" },
-  { slNo: 1015, hanzi: "居住 (居住地)", pinyin: "jūzhù", meaning: "to live/dwell/resident in (current address/place of residence)" },
+  
+  { slNo: 1012, hanzi: "拘留 (当作...人质)", pinyin: "jū liú", meaning: "(爱上哥们) Du Ze Feng was DETAIN-ed by the police for enquiry on his beating the 记者 | (杉杉来了) Shan Shan was DETAIN-ed in police station until her identity was verified by her Boss | We will KEEP her IN our CUSTODY until you return | (Foolish Prince wanted to take Carne Mura as HOSTAGE but instead good slaughtered)" },
+  { slNo: 1013, hanzi: "拘束 (约束)", pinyin: "jū shù (yuē shù)", meaning: "(GGS) I don't like feeling CONSTRAINED/RESTRICTED or others deciding my future, Lao Han 说 | The new laws have CONSTRAINED us" },
+  { slNo: 1014, hanzi: "居民", pinyin: "jūmín", meaning: "(転スラ) Lizardmen are the RESIDENTS/INHABITANTS of シス湖 | (オーバーロード) Ains-sama ordered Lupusregina to protect the RESIDENTS/INHABITANTS of Carne Mura" },
+  { slNo: 1015, hanzi: "居住 (居住地)", pinyin: "jūzhù", meaning: "(転スラ) Lizardmen RESIDE/LIVE/DWELL IN シス湖 | (オーバーロード) Enri RESIDEs/LIVEs/DWELLs IN Carne Mura" },
+
   { slNo: 1016, hanzi: "局部 (部分)", pinyin: "júbù", meaning: "part/section" },
   { slNo: 1017, hanzi: "局面 (局势)", pinyin: "júmiàn", meaning: "situation/condition" },
   { slNo: 1018, hanzi: "局势 (局面)", pinyin: "júshì", meaning: "overall situation" },
   { slNo: 1019, hanzi: "局限", pinyin: "júxiàn", meaning: "limit/to limit or to confine or to restrict sth within set boundaries" },
   { slNo: 1020, hanzi: "举动 (行动)", pinyin: "jǔdòng", meaning: "movement/to move/to act/action" },
   { slNo: 1021, hanzi: "举世瞩目 (著名/有名)", pinyin: "jǔshìzhǔmù", meaning: "to attract worldwide attention (famous)" },
-  { slNo: 1022, hanzi: "举足轻重", pinyin: "jǔzúqīngzhòng", meaning: "to play a decisive/critical role" },
-  { slNo: 1023, hanzi: "咀嚼 (咬牙)", pinyin: "jǔjué", meaning: "to chew (to bite)" },
-  { slNo: 1024, hanzi: "沮丧 (灰心)", pinyin: "jǔsàng", meaning: "depressed/dismayed" },
-  { slNo: 1025, hanzi: "剧本", pinyin: "jùběn", meaning: "script of the play movie etc" },
+
+  { slNo: 1022, hanzi: "举足轻重", pinyin: "jǔ zú qīng zhòng", meaning: "(原审) 为了 杀死 any formidable 妖兽 久岐忍 healing PLAYS a DECISIVE/CRITICAL ROLE | Her elemental eye/detection magic PLAYS a DECISIVE/CRITICAL ROLE in finding any lost treasures" },
+  { slNo: 1023, hanzi: "咀嚼 (咬牙)", pinyin: "jǔjué", meaning: "(イナズマイレブン) While eating, have to CHEW 30 times and you won't feel hungry even with this little food | (HunterXHunter Ugovin will BITE the heads off of the 陰獣 and then CHEW and eat them)" },
+  { slNo: 1024, hanzi: "沮丧 (感到...挫败)", pinyin: "jǔ sàng", meaning: "I am trying to build a tall tower with these blocks but it still keeps on falling, I'm really FRUSTRATED/DISHEARTENED | (I felt FRUSTRATION when it kept on falling down)" },
+  { slNo: 1025, hanzi: "剧本", pinyin: "jùběn", meaning: "(我的奇妙男友) Tian Jie did you read the SCRIPTS of this PLAY/MOVIE | (推しの子) I already read the SCRIPTS of this play, ore wo sodate nai kana | The SCRIPTS of this LoveO2O Drama is beautiful, it's written by 顾漫" },
+
+
+
+
   { slNo: 1026, hanzi: "剧烈 (激烈/强烈/严重) (平稳)", pinyin: "jùliè", meaning: "intense/severe/violent (smooth/steady" },
   { slNo: 1027, hanzi: "聚精会神 地...", pinyin: "jùjīnghuìshén", meaning: "concentrate one's attention on" },
   { slNo: 1028, hanzi: "据悉...", pinyin: "jùxī", meaning: "according to reports.../it is reported that..." },
