@@ -1015,10 +1015,10 @@ export const hsk_list = [
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìn lái", meaning: "RECENTLY/LATELY I found out she is the only one | RECENTLY it's raining in Singapore | RECEENTLY there's been a big progress in the project" },
   /////////////////////////////// - backwards end
 
+  { slNo: 976, hanzi: "浸泡", pinyin: "jìnpào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night" },
+  { slNo: 977, hanzi: "晋升 (提升)", pinyin: "jìnshēng", meaning: "I got a PROMOTION last year | I was PROMOTED to Senior Software Engineer | Harsha Sir PROMOTED me to Senior Software Engineer | My PROMOTION is an encouragement from my company" },
+  { slNo: 978, hanzi: "茎", pinyin: "jīng", meaning: "Let's remove the STALKs/STEMs from the spinachs and cook only the leaves | The STALK/STEM of this flower has thorns" },
 
-  { slNo: 976, hanzi: "浸泡", pinyin: "jìnpào", meaning: "soak" },
-  { slNo: 977, hanzi: "晋升", pinyin: "jìnshēng", meaning: "promotion" },
-  { slNo: 978, hanzi: "茎 (茎秆)", pinyin: "jīng", meaning: "stalk/stem" },
   { slNo: 979, hanzi: "精打细算", pinyin: "jīngdǎxìsuàn", meaning: "pinch pennies" },
   { slNo: 980, hanzi: "精华", pinyin: "jīnghuá", meaning: "best or finest part" },
   { slNo: 981, hanzi: "精简", pinyin: "jīngjiǎn", meaning: "simplify; condense" },
@@ -1034,8 +1034,11 @@ export const hsk_list = [
   { slNo: 991, hanzi: "惊奇 (惊讶) (吃惊)", pinyin: "jīngqí", meaning: "(marvel/be pleasantly surprised) (surprised) (surprised/shocked)" },
   { slNo: 992, hanzi: "惊讶 (吃惊/诧异)", pinyin: "jīngyà", meaning: "surprised/astonished" },
   { slNo: 993, hanzi: "兢兢业业", pinyin: "jīngjīngyèyè", meaning: "adv. cautious and conscientious (to work diligently, with great care and attention to detail focusing on doing a good job)" },
-  { slNo: 994, hanzi: "井", pinyin: "jǐng", meaning: "a well (of water)" },
-  { slNo: 995, hanzi: "警告 (警戒/告诫/警示)", pinyin: "jǐnggào", meaning: "warning/to warn" },
+  
+  { slNo: 994, hanzi: "井 (水井)", pinyin: "jǐng", meaning: "She jumped into the WELL (of water) and came back alive | (ラストダンジョン) Marie, Majo, threw the magical summoning orb of Alka into the WATER WELL" },
+  { slNo: 995, hanzi: "警告 (告诫)", pinyin: "jǐng gào", meaning: "(妖神记) I'm WARNing you, stay away from my daughter | She WARNed me not to follow her | She WARNed me not to fight the Dragon Emperor | I did not listen to her WARNING" },
+
+
   { slNo: 996, hanzi: "警惕 (小心/当心) (保持警惕)", pinyin: "jǐngtì", meaning: "be vigilant/be on the alert" },
   { slNo: 997, hanzi: "颈椎 (胸椎) (肋骨)", pinyin: "jǐngzhuī", meaning: "(neck backbone) (ribcage backbone) (rib)" },
   { slNo: 998, hanzi: "敬礼 (鞠躬)", pinyin: "jìnglǐ (jū gōng)", meaning: "salute/to salute (to bow/bend down)" },
