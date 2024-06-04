@@ -1075,14 +1075,9 @@ export const hsk_list = [
   { slNo: 1024, hanzi: "沮丧 (感到...挫败)", pinyin: "jǔ sàng", meaning: "I am trying to build a tall tower with these blocks but it still keeps on falling, I'm really FRUSTRATED/DISHEARTENED | (I felt FRUSTRATION when it kept on falling down)" },
   { slNo: 1025, hanzi: "剧本", pinyin: "jùběn", meaning: "(我的奇妙男友) Tian Jie did you read the SCRIPTS of this PLAY/MOVIE | (推しの子) I already read the SCRIPTS of this play, ore wo sodate nai kana | The SCRIPTS of this LoveO2O Drama is beautiful, it's written by 顾漫" },
 
-
-
-
-  { slNo: 1026, hanzi: "剧烈 (激烈/强烈/严重) (平稳)", pinyin: "jùliè", meaning: "intense/severe/violent (smooth/steady" },
-  { slNo: 1027, hanzi: "聚精会神 地...", pinyin: "jùjīnghuìshén", meaning: "concentrate one's attention on" },
-  { slNo: 1028, hanzi: "据悉...", pinyin: "jùxī", meaning: "according to reports.../it is reported that..." },
-  
-  
+  { slNo: 1026, hanzi: "剧烈 (激烈)", pinyin: "jùliè (jī liè)", meaning: "An INTENSE/SEVERE/VIOLENT earthquake hit Japan recently | (Haikyuu Gomisuteba no Kessen was really INTENSE | Eishield 21 all matches were really INTENSE feeling the thrill and closeness of losing so impressively undoubtedly this is the best sports anime" },
+  { slNo: 1027, hanzi: "聚精会神 (地)...", pinyin: "jù jīng huì shén", meaning: "While driving you have to be FULLY FOCUSED/UNWAVERING CONCENTRATED | He completed all the tasks FULLY FOCUSED-ly/UNWAVERING CONCENTRATED-ly" },
+  { slNo: 1028, hanzi: "据悉...", pinyin: "jùxī", meaning: "ACCORDING TO REPORTS/IT IS REPORTED THAT, Dr Stone III will come this winter | ACCORDING TO REPORTS Spring Festival Holiday will be extended by 9 days this year | ACCORDING TO REPORTS a new fossil has been discovered in this region" },
   { slNo: 1029, hanzi: "卷 (章) (试卷) (交卷) (卷轴)", pinyin: "juǎn", meaning: "I love the 2nd VOLUME/BOOK of the Douluo Dalu especially the 29th CHAPTER | (Where is your EXAM PAPER) (微微一笑很倾城 Oh you already HAND-ed IN your TEST PAPER early) | (I have legend rank 5 SCROLLs | 妖神记+冰火魔厨 Using the Wind-Blade SCROLL I can summon the Dvalin, the Dragon of Wind)" },
   { slNo: 1030, hanzi: "决策 (决定)", pinyin: "juécè", meaning: "(formal DECISION/to MAKE DECISION) His DECISION was very wise | We MADE a DECISION together about the future of our Company | (Did you already DECIDE ON what to do from now on)" },
   { slNo: 1031, hanzi: "(清醒/觉醒) (醒悟/觉悟) (恍然大悟)", pinyin: "juéwù", meaning: "(After WAKE-ing UP in the morning I drank 4 glass of water) | (He finally AWAKEN-ed/REALIZE-d/GOT CONCIOUSNESS of his mistake) | (HunterXHunter Meruem went to kill Komugi but when he saw a little crow is hurting her he SUDDENLY REALIZED/UNDERSTOOD/CAME TO CONCIOUSNESS and killed the crow and protected Komugi | He SUDDENLY REALIZE-d/UNDERSTOOD that power is for protecting the weak)" },
@@ -1097,17 +1092,14 @@ export const hsk_list = [
   { slNo: 1040, hanzi: "开阔 (广阔/宽广/宽大/广大)", pinyin: "kāikuò", meaning: "The OPEN/BROAD grassland is perfect for picnic | He had an OPEN/BROAD view/perspective on this matter | The OPEN/BROAD field is filled with fresh air | (The VAST/WIDE ocean calms my heart | The grassland here is to VAST/WIDE)" },
   { slNo: 1041, hanzi: "开朗 (乐观)", pinyin: "kāilǎng", meaning: "She is a CHEERFUL and OPTIMISTIC girl I love her | (はめふら) Kakkoi na, you are so CHEERFUL and OPTIMISTIC | (He is an OPTIMISTIC boy | We should always be OPTIMISTIC and not PESSIMISTIC)" },
   { slNo: 1042, hanzi: "开明", pinyin: "kāimíng", meaning: "He is an OPEN-MINDED person he wouldn't mind whether you are 人类 or not | There are still lots of OPEN-MINDED Singaporeans who do not mind what you do or where you come from" },
-
-  { slNo: 1043, hanzi: "开辟 (开发/打开)", pinyin: "kāipì", meaning: "to open up" },
-  { slNo: 1044, hanzi: "开拓 (探索)", pinyin: "kāituò", meaning: "to open up/pioneer/explore (eg open up new lands, expanding knowledge etc) (to explore)" },
-  { slNo: 1045, hanzi: "开展", pinyin: "kāizhǎn", meaning: "to launch/develop/unfold" },
-
+  { slNo: 1043, hanzi: "开辟", pinyin: "kāipì", meaning: "We OPEN-ed UP our new shop in Shanghai | This idea OPEN-ed UP many new opportunities for us | We OPEN-ed UP our path with an axe, cutting all the bushes that comes our way" },
+  { slNo: 1044, hanzi: "开拓 (探索)", pinyin: "kāituò", meaning: "(原神) Let's OPEN UP/EXPLORE the new lands and domains of Genshin | I am waiting for all the Domains to be unlocked so that I can go OPEN UP/EXPLORE them all together in a vast world | Let me OPEN UP/EXPLORE the 5th Domain first then we can go together to EXPLORE together in the new World | (Let's EXPLORE the Kanariah Ruins together)" },
+  { slNo: 1045, hanzi: "开展 (开始 发展) (开发)", pinyin: "kāizhǎn", meaning: "We are planning to INITIATE/LAUNCH/(START TO) DEVELOP a new Software | We'll LAUNCH/(START TO) DEVELOP lots of new features next month | I am planning to LAUNCH/INITIATE a new project to help poor children learn | (I am a DEVELOP-er I love to DEVELOP Softwares and APIs)" },
   { slNo: 1046, hanzi: "开支 (费用)", pinyin: "kāizhī", meaning: "My monthly EXPENSES include rent electricity bill and food COSTs | (The COST of this project is 97k 元" },
-
-  { slNo: 1047, hanzi: "刊登 (发表/出版)", pinyin: "kāndēng", meaning: "to publish in a newspaper" },
-  { slNo: 1048, hanzi: "刊物", pinyin: "kānwù", meaning: "publication/published books or materials" },
-  { slNo: 1049, hanzi: "勘探", pinyin: "kāntàn", meaning: "to explore/survey/prospect for oil etc" },
-  { slNo: 1050, hanzi: "砍伐", pinyin: "kǎnfá", meaning: "to hew/to cut down (eg cut down trees)" },
+  { slNo: 1047, hanzi: "刊登 (出版)", pinyin: "kāndēng", meaning: "(to publish in newspaper/magazine etc) | This accident was PUBLISH-ed in yesterday's NEWSPAPER | My poem was PUBLISH-ed in this year's school MAGAZINE | An article about our Software was PUBLISH-ed in today's CNA NEWSPAPER | (This manga is PUBLISH-ed weekly)" },
+  { slNo: 1048, hanzi: "刊物 (出版)", pinyin: "kānwù", meaning: "Our library has different types of PUBLICATIONS/PRINTED MATERIALS for example books, magazines, newspapers, manga etc | I read various types of PUBLICATIONS/PRINTED MATERIALS every day | This PUBLICATION/PRINTED MATERIAL is PUBLISH-ed weekly | I found a new PUBLICATION/PRINTED MATERIAL" },
+  { slNo: 1049, hanzi: "勘探", pinyin: "kān tàn", meaning: "(to explore and search for esp oil/gold etc natural resources) Dr Stone Let's go EXPLORE and SEARCH for oil/gold etc in Sagara Fields I am sure we will sure find a place | EXPLORATION-and-SEARCH team found a new oil field | Chrome is the EXPLORATION-and-SEARCH King and its not easy at all" },
+  { slNo: 1050, hanzi: "砍伐", pinyin: "kǎn fá", meaning: "(to cut down esp trees, forests etc) | They CUT DOWN many TREES to build this house | The farmers CUT DOWN TREES on the mountain to build a new farm land | CUT-ting DOWN TREES is banned here and you need a permit to CUT DOWN a tree | We'll kill anyone who dares to CUT DOWN our FORESTs/TREEs" },
 
 
 
@@ -1140,7 +1132,7 @@ export const hsk_list = [
 
 
 
-  
+
   { slNo: 1076, hanzi: "空前绝后", pinyin: "kōngqiánjuéhòu", meaning: "unprecedented/been never before and never to be duplicated/the first and the last" },
   { slNo: 1077, hanzi: "空想 (幻想/做梦) (现实)", pinyin: "kōngxiǎng", meaning: "daydream/fantasy/to fantasize (reality)" },
   { slNo: 1078, hanzi: "空虚 (空洞) (充实)", pinyin: "kōngxū", meaning: "hollow/empty/emptiness (full)" },
