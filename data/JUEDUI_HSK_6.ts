@@ -1034,7 +1034,7 @@ export const hsk_list = [
   { slNo: 991, hanzi: "惊奇 (惊讶) (吃惊)", pinyin: "jīngqí", meaning: "(marvel/be pleasantly surprised) (surprised) (surprised/shocked)" },
   { slNo: 992, hanzi: "惊讶 (吃惊/诧异)", pinyin: "jīngyà", meaning: "surprised/astonished" },
   { slNo: 993, hanzi: "兢兢业业", pinyin: "jīngjīngyèyè", meaning: "adv. cautious and conscientious (to work diligently, with great care and attention to detail focusing on doing a good job)" },
-  
+
   { slNo: 994, hanzi: "井 (水井)", pinyin: "jǐng", meaning: "She jumped into the WELL (of water) and came back alive | (ラストダンジョン) Marie, Majo, threw the magical summoning orb of Alka into the WATER WELL" },
   { slNo: 995, hanzi: "警告 (告诫)", pinyin: "jǐng gào", meaning: "(妖神记) I'm WARNing you, stay away from my daughter | She WARNed me not to follow her | She WARNed me not to fight the Dragon Emperor | I did not listen to her WARNING" },
 
@@ -1081,28 +1081,37 @@ export const hsk_list = [
   { slNo: 1026, hanzi: "剧烈 (激烈/强烈/严重) (平稳)", pinyin: "jùliè", meaning: "intense/severe/violent (smooth/steady" },
   { slNo: 1027, hanzi: "聚精会神 地...", pinyin: "jùjīnghuìshén", meaning: "concentrate one's attention on" },
   { slNo: 1028, hanzi: "据悉...", pinyin: "jùxī", meaning: "according to reports.../it is reported that..." },
-  { slNo: 1029, hanzi: "卷 (章) (试卷)", pinyin: "juǎn", meaning: "volume/book (chapter) (exam paper)" },
-  { slNo: 1030, hanzi: "决策 (决定)", pinyin: "juécè", meaning: "to make policy/make decision/decision-making (to decide on sth)" },
-  { slNo: 1031, hanzi: "觉悟 (清醒/觉醒/醒悟/恍然大悟)", pinyin: "juéwù", meaning: "to come to understand/to realize/consciousness" },
-  { slNo: 1032, hanzi: "觉醒 (清醒/觉悟/醒悟/恍然大悟)", pinyin: "juéxǐng", meaning: "to awaken/come to realize/awaken to the truth" },
-  { slNo: 1033, hanzi: "绝望 (深渊)", pinyin: "juéwàng", meaning: "despair/to despair/to give up all hope (abyss)" },
-  { slNo: 1034, hanzi: "倔强 (固执/顽固)", pinyin: "juéjiàng", meaning: "stubborn" },
-  { slNo: 1035, hanzi: "军队", pinyin: "jūnduì", meaning: "army" },
-  { slNo: 1036, hanzi: "君子 (小人)", pinyin: "jūnzǐ", meaning: "gentleman (vile person)" },
-  { slNo: 1037, hanzi: "卡通 (漫画/动画)", pinyin: "kǎtōng", meaning: "cartoon (manga/anime)" },
-  { slNo: 1038, hanzi: "开采 (采掘)", pinyin: "kāicǎi", meaning: "to extract ore or other resource from a mine/to exploit/to mine" },
-  { slNo: 1039, hanzi: "开除 (革除/除名)", pinyin: "kāichú", meaning: "to expel/fire an employee (to expel)" },
-  { slNo: 1040, hanzi: "开阔 (广阔/广大)", pinyin: "kāikuò", meaning: "wide/open eg space or mind/to open up (wide/vast)" },
-  { slNo: 1041, hanzi: "开朗 (乐观)", pinyin: "kāilǎng", meaning: "optimistic" },
-  { slNo: 1042, hanzi: "开明 (开阔)", pinyin: "kāimíng", meaning: " enlightened/open-minded" },
+  
+  
+  { slNo: 1029, hanzi: "卷 (章) (试卷) (交卷) (卷轴)", pinyin: "juǎn", meaning: "I love the 2nd VOLUME/BOOK of the Douluo Dalu especially the 29th CHAPTER | (Where is your EXAM PAPER) (微微一笑很倾城 Oh you already HAND-ed IN your TEST PAPER early) | (I have legend rank 5 SCROLLs | 妖神记+冰火魔厨 Using the Wind-Blade SCROLL I can summon the Dvalin, the Dragon of Wind)" },
+  { slNo: 1030, hanzi: "决策 (决定)", pinyin: "juécè", meaning: "(formal DECISION/to MAKE DECISION) His DECISION was very wise | We MADE a DECISION together about the future of our Company | (Did you already DECIDE ON what to do from now on)" },
+  { slNo: 1031, hanzi: "(清醒/觉醒) (醒悟/觉悟) (恍然大悟)", pinyin: "juéwù", meaning: "(After WAKE-ing UP in the morning I drank 4 glass of water) | (He finally AWAKEN-ed/REALIZE-d/GOT CONCIOUSNESS of his mistake) | (HunterXHunter Meruem went to kill Komugi but when he saw a little crow is hurting her he SUDDENLY REALIZED/UNDERSTOOD/CAME TO CONCIOUSNESS and killed the crow and protected Komugi | He SUDDENLY REALIZE-d/UNDERSTOOD that power is for protecting the weak)" },
+  { slNo: 1032, hanzi: "(清醒/觉醒) (醒悟/觉悟) (恍然大悟)", pinyin: "juéwù", meaning: "(After WAKE-ing UP in the morning I drank 4 glass of water) | (He finally AWAKEN-ed/REALIZE-d/GOT CONCIOUSNESS of his mistake) | (HunterXHunter Meruem went to kill Komugi but when he saw a little crow is hurting her he SUDDENLY REALIZED/UNDERSTOOD/CAME TO CONCIOUSNESS and killed the crow and protected Komugi | He SUDDENLY REALIZE-d/UNDERSTOOD that power is for protecting the weak)" },
+  { slNo: 1033, hanzi: "绝望 (深渊)", pinyin: "juéwàng", meaning: "(オーバーロード) Let the DESPAIR begin | Let me teach you what true DESPAIR is | (I crawled back up from the bottom of ABYSS | Emperor of Darkness lives in ABYSS)" },
+  { slNo: 1034, hanzi: "(固执/顽固) 倔强", pinyin: "jué jiàng", meaning: "He is really STUBBORN/OBSTINATE when it comes to giving up" },
+  { slNo: 1035, hanzi: "军队", pinyin: "jūnduì", meaning: "Chinese ARMY is really powerful | The ARMY has many soldiers | He works in the Indian ARMY | He fought alone against the foreign ARMY" },
+  { slNo: 1036, hanzi: "君子 (小人)", pinyin: "jūnzǐ", meaning: "He is a GENTLEMAN/GOOD PERSON but he's brother is a VILE PERSON" },
+  { slNo: 1037, hanzi: "卡通 (漫画/动画)", pinyin: "kǎtōng", meaning: "In my childhood I used to watch CARTOON like Tom and Jerry but now I love MANGA and ANIME" },
+  { slNo: 1038, hanzi: "开采 (采掘) (矿|矿石)", pinyin: "kāi cǎi", meaning: "(Dr Stone) Oh we found the Oil/Crystal Mine in Sagara Field, let's start to EXTRACT oil/ore etc FROM A MINE | We can MINE oil crystal ore etc from here (mine|ore)" },
+  { slNo: 1039, hanzi: "开除", pinyin: "kāichú", meaning: "He was FIRE-d from his company due to his blunder but other 27 people were DISMISS-ed due to lack of funds" },
+  { slNo: 1040, hanzi: "开阔 (广阔/宽广/宽大/广大)", pinyin: "kāikuò", meaning: "The OPEN/BROAD grassland is perfect for picnic | He had an OPEN/BROAD view/perspective on this matter | The OPEN/BROAD field is filled with fresh air | (The VAST/WIDE ocean calms my heart | The grassland here is to VAST/WIDE)" },
+  { slNo: 1041, hanzi: "开朗 (乐观)", pinyin: "kāilǎng", meaning: "She is a CHEERFUL and OPTIMISTIC girl I love her | (はめふら) Kakkoi na, you are so CHEERFUL and OPTIMISTIC | (He is an OPTIMISTIC boy | We should always be OPTIMISTIC and not PESSIMISTIC)" },
+  { slNo: 1042, hanzi: "开明", pinyin: "kāimíng", meaning: "He is an OPEN-MINDED person he wouldn't mind whether you are 人类 or not | There are still lots of OPEN-MINDED Singaporeans who do not mind what you do or where you come from" },
+
   { slNo: 1043, hanzi: "开辟 (开发/打开)", pinyin: "kāipì", meaning: "to open up" },
   { slNo: 1044, hanzi: "开拓 (探索)", pinyin: "kāituò", meaning: "to open up/pioneer/explore (eg open up new lands, expanding knowledge etc) (to explore)" },
   { slNo: 1045, hanzi: "开展", pinyin: "kāizhǎn", meaning: "to launch/develop/unfold" },
-  { slNo: 1046, hanzi: "开支 (费用)", pinyin: "kāizhī", meaning: "expenditure/expenses/cost" },
+
+  { slNo: 1046, hanzi: "开支 (费用)", pinyin: "kāizhī", meaning: "My monthly EXPENSES include rent electricity bill and food COSTs | (The COST of this project is 97k 元" },
+
   { slNo: 1047, hanzi: "刊登 (发表/出版)", pinyin: "kāndēng", meaning: "to publish in a newspaper" },
   { slNo: 1048, hanzi: "刊物", pinyin: "kānwù", meaning: "publication/published books or materials" },
   { slNo: 1049, hanzi: "勘探", pinyin: "kāntàn", meaning: "to explore/survey/prospect for oil etc" },
   { slNo: 1050, hanzi: "砍伐", pinyin: "kǎnfá", meaning: "to hew/to cut down (eg cut down trees)" },
+
+
+
+
   { slNo: 1051, hanzi: "侃侃而谈", pinyin: "kǎnkǎn", meaning: "to speak confidently and fluently" },
   { slNo: 1052, hanzi: "看待 (对待)", pinyin: "kàndài", meaning: "to look upon/regard/view (to treat)" },
   { slNo: 1053, hanzi: "慷慨", pinyin: "kāngkǎi", meaning: "generous" },
@@ -1128,6 +1137,10 @@ export const hsk_list = [
   { slNo: 1073, hanzi: "恳切 (诚挚/诚恳/真诚)", pinyin: "kěnqiè", meaning: "earnest/sincere" },
   { slNo: 1074, hanzi: "坑 (坑洞)", pinyin: "kēng", meaning: "pit hole" },
   { slNo: 1075, hanzi: "空洞 (空虚)", pinyin: "kōngdòng", meaning: "empty (emptiness)" },
+
+
+
+  
   { slNo: 1076, hanzi: "空前绝后", pinyin: "kōngqiánjuéhòu", meaning: "unprecedented/been never before and never to be duplicated/the first and the last" },
   { slNo: 1077, hanzi: "空想 (幻想/做梦) (现实)", pinyin: "kōngxiǎng", meaning: "daydream/fantasy/to fantasize (reality)" },
   { slNo: 1078, hanzi: "空虚 (空洞) (充实)", pinyin: "kōngxū", meaning: "hollow/empty/emptiness (full)" },
