@@ -1289,7 +1289,7 @@ export const hsk_list = [
 
   { slNo: 1225, hanzi: "忙碌 (忙于/忙)", pinyin: "mánglù", meaning: "I had a BUSY day | His life is very BUSY | (He is BUSY WITH work | I am BUSY now)" },
   { slNo: 1226, hanzi: "茫茫 (宽广/宽大/广大)", pinyin: "mángmáng", meaning: "(poetic vast/endless) | Oh what a BOUNDLESS/ENDLESS/VAST ocean | I am lost in the VAST/ENDLESS/BOUNDLESS desert" },
- 
+
   { slNo: 1227, hanzi: "茫然 (困惑)", pinyin: "mángrán", meaning: "to be blank bewildered or in a daze (confused/perplexed)" },
   { slNo: 1228, hanzi: "盲目 (瞎眼) (自觉)", pinyin: "mángmù", meaning: "blind/ignorant (conscious/aware)" },
   { slNo: 1229, hanzi: "冒充", pinyin: "màochōng", meaning: "to feign/to pretend to be" },
@@ -1304,19 +1304,21 @@ export const hsk_list = [
   { slNo: 1238, hanzi: "猛烈 (强烈/激烈)", pinyin: "měngliè", meaning: "fierce/violent" },
   { slNo: 1239, hanzi: "眯 (眯缝)", pinyin: "mī", meaning: "to squint (as with dust or sunlight)" },
   { slNo: 1240, hanzi: "弥补 (补充)", pinyin: "míbǔ", meaning: "to complement/to make up for a deficiency" },
-  { slNo: 1241, hanzi: "弥漫", pinyin: "mímàn", meaning: "to fill the air" },
+
+
+
+  { slNo: 1241, hanzi: "弥漫", pinyin: "mímàn", meaning: "The delicious smell of her cooking soon FILL-ed THE Air | (斗罗大陆) Du Bo's poison soon FILL-ed THE Air all around | (万界仙踪) 神秘的 fog FILL-ed THE Air of Tong Tian 古墓 and engulfed Xingyun, Yanran and all" },
   { slNo: 1242, hanzi: "迷惑 (困惑) (疑惑)", pinyin: "míhuò", meaning: "puzzle/to confuse/baffle (to doubt/distrust/puzzle over)" },
-  
+ 
+ 
   { slNo: 1243, hanzi: "迷人", pinyin: "mírén", meaning: "Her smile is very CHARMING/ENCHANTING | She has CHARMING eyes and CHARMING voice | The scenery here is very CHARMING" },
   { slNo: 1244, hanzi: "迷信", pinyin: "míxìn", meaning: "It's just a SUPERSTITION | Kuro Neko crossed Kalego Sensei's road and He broke glass as well before going to Shoukan Test, he felt something will be wrong, can you call it SUPERSTITION as he then later became Iruma-kun's Tsukaima" },
   { slNo: 1245, hanzi: "谜语 (谜题)", pinyin: "míyǔ", meaning: "She told me a WORD RIDDLE/PUZZLE, the RIDDLE/PUZZLE was, Tin okkorer nam tar, jole thake jole khai, modhyer okkor chariya dile shunnye uriya jai | (She gave me lots of different PUZZLEs to solve, WORD PUZZLE, Sokudo, Rubix Cube, Scrambles etc)" },
-  
-  { slNo: 1246, hanzi: "密度 (强度)", pinyin: "mìdù", meaning: "density/thickness (strength/intensity)" },
-  { slNo: 1247, hanzi: "密封", pinyin: "mìfēng", meaning: "to seal up" },
+  { slNo: 1246, hanzi: "密度 (强度)", pinyin: "mìdù", meaning: "The population DENSITY of this region is high | (The training INTENSITY of this athlete is high)" },
+  { slNo: 1247, hanzi: "密封 (容器) (密封圈)", pinyin: "mìfēng", meaning: "The jar is SEAL-ed properly so that achaar doesn't get spoiled | Please SEAL the box properly | The SEAL of the jar is broken | I need few SEAL-ed CONTAINERs to carry curry and soups to office, it can be plastic or steel anything is fine | I lost the SEAL-ing rings of our Pressure Cooker" },
   { slNo: 1248, hanzi: "棉花 (棉花)", pinyin: "miánhua", meaning: "She used her COTTON and magical potion to treat my scar | I love to sleep on COTTON pillow only | (I want to eat COTTON candy)" },
- 
-  { slNo: 1249, hanzi: "免得...", pinyin: "miǎndé", meaning: "lest.../so as not to.../so as to avoid..." },
-  { slNo: 1250, hanzi: "免疫", pinyin: "miǎnyì", meaning: "immune/immunity (to disease)" },
+  { slNo: 1249, hanzi: "免得...", pinyin: "miǎn dé", meaning: "(～ないために) (入間くん) Let's study hard Zagaku, SO AS NOT TO fail the Shumatsu Test and miss the Shumatsubi" },
+  { slNo: 1250, hanzi: "免疫 (-力/-系统)", pinyin: "miǎnyì", meaning: "White Blood Cells are key players in our IMMUNE SYSTEM | Her IMMUNITY POWER is really strong" },
 
   /* ----------------------------- target for 2023 ---------------------------- */
   /* -------------------------------------------------------------------------- */
