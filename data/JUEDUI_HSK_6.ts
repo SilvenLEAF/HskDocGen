@@ -1274,20 +1274,26 @@ export const hsk_list = [
   { slNo: 1210, hanzi: "麻木 (麻痹) (瘫痪) ", pinyin: "mámù", meaning: "numbness (paralysis/be paralyzed) " },
   { slNo: 1211, hanzi: "麻醉", pinyin: "mázuì", meaning: "narcosis/anesthesia eg before surgery/(fig.) to poison (sb's mind)" },
   { slNo: 1212, hanzi: "码头", pinyin: "mǎtóu", meaning: "wharf/dock" },
-  { slNo: 1213, hanzi: "蚂蚁", pinyin: "mǎyǐ", meaning: "ant" },
-  { slNo: 1214, hanzi: "嘛", pinyin: "ma", meaning: "ma" },
-  { slNo: 1215, hanzi: "埋伏 (伏击)", pinyin: "máifú", meaning: "to ambush" },
+ 
+  { slNo: 1213, hanzi: "蚂蚁 (蝼蚁)", pinyin: "mǎ yǐ (lóu yǐ)", meaning: "(HunterXHunter) Meruem is the King of ANTs | ANT is the most powerful creature on earth | (万界仙踪 They are not 我们惹不起的人, 恐怕 to them we are nothing more than SMALL AND INSIGNIFICANT ANTS, they can easily wipe out our entire clan within one night)" },
+  { slNo: 1214, hanzi: "嘛", pinyin: "ma", meaning: "マネ.../WELL...You just go NA | ...MA" },
+  { slNo: 1215, hanzi: "埋伏 (偷袭)", pinyin: "máifú", meaning: "妖神记 Don't chase 黑暗公会, 道で 待ち伏せたら/If they AMBUSH you all are gone | The bandits AMBUSH-ed all the marchants and looted all their items | I am not worried about enemies AMBUSH-ing me but worried about my friend SNEAK ATTACK-ing me" },
+ 
   { slNo: 1216, hanzi: "埋没", pinyin: "máimò", meaning: "to engulf/bury/to fall into oblivion" },
-  { slNo: 1217, hanzi: "埋葬", pinyin: "máizàng", meaning: "to bury" },
+  
+  { slNo: 1217, hanzi: "埋葬 (埋) (陪葬) (坟墓)", pinyin: "mái zàng", meaning: "I'll BURY you with my friend | (She BURY-ed a chest in the garden, it had golds) | (妖神记 Go BE BURIED WITH/NEXT to my dead friend and I will visit your GRAVE every day)" },
   { slNo: 1218, hanzi: "迈 (迈进/迈出)", pinyin: "mài", meaning: "to take a step/move forward (to step in/out)" },
-  { slNo: 1219, hanzi: "脉搏", pinyin: "màibó", meaning: "pulse (both medical and figurative)" },
-  { slNo: 1220, hanzi: "埋怨 (抱怨/牢骚)", pinyin: "mányuàn", meaning: "to complain" },
-  { slNo: 1221, hanzi: "慢性 (急性)", pinyin: "mànxìng", meaning: "chronic (eg disease)/slow to take effect (eg a slow poison) (acute)" },
-  { slNo: 1222, hanzi: "漫长 (悠久/长久)", pinyin: "màncháng", meaning: "very long" },
-  { slNo: 1223, hanzi: "漫画", pinyin: "mànhuà", meaning: "manga" },
-  { slNo: 1224, hanzi: "蔓延 (流传/扩散/扩张) (藤蔓) (延长)", pinyin: "mànyán (téngmàn)", meaning: "to spread/extend/creep (vines/creeping plants) (to prolong/extend/delay)" },
-
+  
+  
+  
+  { slNo: 1219, hanzi: "脉搏", pinyin: "màibó", meaning: "妖神记 Just by feeling the PULSE of any 妖灵师 Nieli can 鉴定 their element and the break through materials | I can feel her PULSE is strong it reflects the state of her 身体 and the flow of her Qi" },
+  { slNo: 1220, hanzi: "埋怨 (抱怨/牢骚)", pinyin: "mái yuàn (bào yuàn/láo sāo)", meaning: "Stop COMPLAIN-ing and do the work | Stop COMPLAIN-ing about your life and work" },
+  { slNo: 1221, hanzi: "慢性 (急性)", pinyin: "mànxìng", meaning: "Diabetes is a CHRONIC disease, developes over time and doesn't go away easily and lasts almost forever | (Catching cold is an ACUTE disease, it comes fast and goes away fast)" },
+  { slNo: 1222, hanzi: "漫长 (悠久)", pinyin: "màn cháng", meaning: "It is going to be a VERY LONG/PROLONGED journey | It's a VERY LONG story let me tell you later some day | After a VERY LONG/PROLONGED waiting we finally saw her in action | (The city has a VERY LONG history/tradition)" },
+  { slNo: 1223, hanzi: "漫画 (动漫) (动画)", pinyin: "mànhuà", meaning: "I love reading MANGAs and watching ANIMEs | (For outsiders we refer Chinese ANIME as Chinese ANIMATIONs)" },
+  { slNo: 1224, hanzi: "蔓延 (藤蔓)", pinyin: "màn yán (téng màn)", meaning: "The fire SPREAD throughout the entire forest | The more I cut the VINEs the more they SPREAD | 斗罗大陆 Tang San has a skill of SPREAD-ing VINES that can 控制 any 妖灵师 easily, the more they break it the more they SPREAD and get stronger" },
   { slNo: 1225, hanzi: "忙碌 (忙于/忙)", pinyin: "máng lù", meaning: "I had a BUSY day | His life is very BUSY | (He is BUSY WITH work | I am BUSY now)" },
+
   { slNo: 1226, hanzi: "茫茫 (宽广/宽大/广大)", pinyin: "máng máng", meaning: "(poetic vast/endless) | Oh what a BOUNDLESS/ENDLESS/VAST ocean | I am lost in the VAST/ENDLESS/BOUNDLESS desert" },
   { slNo: 1227, hanzi: "茫然", pinyin: "máng rán", meaning: "(feeling adrift in a sea of uncertainty) I WAS/FELT LOST/CONFUSED in the new City and looked around everything unknown | (入間くん) Iruma-kun was lost in the Yuenchi and FELT LOST/CONFUSED/AT SEA, not knowing what to do or where to go" },
   { slNo: 1228, hanzi: "盲目", pinyin: "máng mù", meaning: "She BLIND-ly/IGNORANT-ly agreed to my suggestion | Don't BLIND-ly listen to anyone unless your parents" },
