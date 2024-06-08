@@ -1262,35 +1262,30 @@ export const hsk_list = [
   { slNo: 1199, hanzi: "轮胎 (车胎)", pinyin: "lúntāi", meaning: "tyre (car tyre)" },
   { slNo: 1200, hanzi: "论坛", pinyin: "lùntán", meaning: "forum (for discussion)" },
 
-  { slNo: 1201, hanzi: "论证", pinyin: "lùnzhèng", meaning: "demonstration/to demonstrate/prove a point" },
-  { slNo: 1202, hanzi: "啰唆 (唠叨/多嘴)", pinyin: "luōsuo", meaning: "troublesome/annoying/overly talkative or fussy" },
-  { slNo: 1203, hanzi: "落成", pinyin: "luòchéng", meaning: "to complete a construction project or building etc" },
-  { slNo: 1204, hanzi: "落实 (贯彻/实现)", pinyin: "luòshí", meaning: "to implement/carry out/to realize/put into effect" },
-  { slNo: 1205, hanzi: "络绎不绝 (不断/不停) (川流不息)", pinyin: "luòyìbùjué", meaning: "continuously and seemingly endless/one after another" },
-  { slNo: 1206, hanzi: "屡次 (多次/反复/一而再再而三/三番五次)", pinyin: "lǚcì", meaning: "repeatedly/several times " },
-  { slNo: 1207, hanzi: "履行", pinyin: "lǚxíng", meaning: "to fulfill (one's obligations)/to carry out (a task)" },
-  { slNo: 1208, hanzi: "掠夺 (抢劫/抢夺) (盗贼/强盗/掠夺者)", pinyin: "lüèduó", meaning: "to plunder/rob (robber)" },
-  { slNo: 1209, hanzi: "麻痹 (瘫痪) (麻木)", pinyin: "mábì", meaning: "to numbness/paralysis (paralysis/be paralyzed) (numb-ness)" },
-  { slNo: 1210, hanzi: "麻木 (麻痹) (瘫痪) ", pinyin: "mámù", meaning: "numbness (paralysis/be paralyzed) " },
-  { slNo: 1211, hanzi: "麻醉", pinyin: "mázuì", meaning: "narcosis/anesthesia eg before surgery/(fig.) to poison (sb's mind)" },
-  { slNo: 1212, hanzi: "码头", pinyin: "mǎtóu", meaning: "wharf/dock" },
- 
+
+  { slNo: 1201, hanzi: "论证 (演示)", pinyin: "lùn zhèng", meaning: "We have to use REASONING to prove our point | I don't find her REASONING believable or interesting | We need to study and gather information in advance if we want to PRESENT WITH REASONING to prove how much we deserve this | (We want to DEMO our new feature | I'd love to DEMO our Software to our prospective clients)" },
+  { slNo: 1202, hanzi: "啰唆 (唠叨/多嘴)", pinyin: "luō suo", meaning: "You are really TALKATIVE | She is a TALKATIVE girl but I like her" },
+  { slNo: 1203, hanzi: "落成", pinyin: "luò chéng", meaning: "(to complete a construction project or building etc) | The (construction of the) new school is expected to COMPLETE by next year | The construction of the new HBD near our apartment, done by Yong Mao will be COMPLETE by next year | The (construction of the) Art Exhibition has been finally COMPLETED" },
+  { slNo: 1204, hanzi: "落实 (贯彻) (实现)", pinyin: "luò shí", meaning: "I want to IMPLEMENT your idea | I want to IMPLEMENT this logic in my code | Let's IMPLEMENT these rules in my country too | Who is going to IMPLEMENT this change Is it UI or API | (I'll MAKE our plan INTO a REALITY | I want to REALIZE/MAKE your suggestions/plans INTO a REALITY)" },
+  { slNo: 1205, hanzi: "络绎不绝  (川流不息) (层出不穷)", pinyin: "luò yì bù jué (chuān liú bù xī) (céng chū bù qióng)", meaning: "(妖神记) ENDLESSLY ONE AFTER ANOTHER/FLOWING like an ENDLESS STREAM/EMERGE ENDLESSLY like LAYERS they keep on coming no matter how many we kill" },
+  { slNo: 1206, hanzi: "(多次/反复) 屡次 (一而再再而三/三番五次)", pinyin: "lǚ cì", meaning: "(Positive. We came here SEVERAL TIMES/REPEATEDLY | We have watched it SEVERAL TIMS/REPEATEDLY/MANY TIMES) | (Negative. He has been late REPEATEDLY/SEVERAL TIMES | He hurts my feelings REPEATEDLY/SEVERAL TIMES)" },
+  { slNo: 1207, hanzi: "履行", pinyin: "lǚ xíng", meaning: "(to fulfill one's obligations/task) | We must FULFILL our promise | We must FULFILL our responsibilities as a father | We must FULFILL our duty" },
+  { slNo: 1208, hanzi: "掠夺 (抢夺/抢劫) (强盗/盗贼)", pinyin: "lüè duó", meaning: "The ROBBERs PLUNDER-ed/ROB-ed all the foods and valuables of the village" },
+  { slNo: 1209, hanzi: "麻痹 (瘫痪)", pinyin: "má bì", meaning: "(Partial Paralysis X Complete Paralysis) He can't move his PARALYZED arm | His leg was PARTIALLY PARALYZED after the accident | (His legs were COMPLETELY PARALYZED after the accident)" },
+  { slNo: 1210, hanzi: "麻木 (瘫痪) ", pinyin: "má mù (tān huàn)", meaning: "After typing for long hours I am feeling NUMBNESS in my hands | I've been sitting for a long time, now I am feeling NUMBNESS/TINGLING in my legs | (After sitting for long hours my legs are SORE/ACHING like electric shocks) | (After the accident he WAS PARALYZED/had PARALYSIS for 3 years) " },
+  { slNo: 1211, hanzi: "麻醉", pinyin: "má zuì", meaning: "We'll give you ANESTHETICS before doing the surgery | We don't have any ANESTHETICS Senku-chan | You don't need any ANESTHETICS right Tsukasa we can do the Surgery without it right, un eeeeehhhh!" },
+  { slNo: 1212, hanzi: "码头", pinyin: "mǎ tóu", meaning: "(原神) In the WHARF/DOCK of Inazuma HARBOUR 萤 is fishing while waiting for the Ships from Liyue to land | Ship 南十字 led by 北斗 landed in the legendary DOCK of Inazuma HARBOUR" },
   { slNo: 1213, hanzi: "蚂蚁 (蝼蚁)", pinyin: "mǎ yǐ (lóu yǐ)", meaning: "(HunterXHunter) Meruem is the King of ANTs | ANT is the most powerful creature on earth | (万界仙踪 They are not 我们惹不起的人, 恐怕 to them we are nothing more than SMALL AND INSIGNIFICANT ANTS, they can easily wipe out our entire clan within one night)" },
   { slNo: 1214, hanzi: "嘛", pinyin: "ma", meaning: "マネ.../WELL...You just go NA | ...MA" },
-  { slNo: 1215, hanzi: "埋伏 (偷袭)", pinyin: "máifú", meaning: "妖神记 Don't chase 黑暗公会, 道で 待ち伏せたら/If they AMBUSH you all are gone | The bandits AMBUSH-ed all the marchants and looted all their items | I am not worried about enemies AMBUSH-ing me but worried about my friend SNEAK ATTACK-ing me" },
- 
-  { slNo: 1216, hanzi: "埋没", pinyin: "máimò", meaning: "to engulf/bury/to fall into oblivion" },
-  
+  { slNo: 1215, hanzi: "埋伏 (偷袭)", pinyin: "mái fú", meaning: "妖神记 Don't chase 黑暗公会, 道で 待ち伏せたら/If they AMBUSH you all are gone | The bandits AMBUSH-ed all the marchants and looted all their items | I am not worried about enemies AMBUSH-ing me but worried about my friend SNEAK ATTACK-ing me" },
+  { slNo: 1216, hanzi: "埋没", pinyin: "mái mò", meaning: "(to bury + to be lost) | The beautiful scenery of the village is often BURY-ed/ENGULF-ed by heavy fog making it difficult for tourists to appreciate it | In the talent competition the talent of the shy child was BURY-ed/ENGULF-ed because he was too afraid to go on stage" },
   { slNo: 1217, hanzi: "埋葬 (埋) (陪葬) (坟墓)", pinyin: "mái zàng", meaning: "I'll BURY you with my friend | (She BURY-ed a chest in the garden, it had golds) | (妖神记 Go BE BURIED WITH/NEXT to my dead friend and I will visit your GRAVE every day)" },
-  { slNo: 1218, hanzi: "迈 (迈进/迈出)", pinyin: "mài", meaning: "to take a step/move forward (to step in/out)" },
-  
-  
-  
+  { slNo: 1218, hanzi: "迈(-进/-出)  (迈进/前进) (迈出)", pinyin: "mài", meaning: "Let's MOVE FORWARD together | Let's MOVE FORWARD/STEP FORWARD/Susume Susume kangaecha osoi kara | (Let's TAKE a STEP towards our Dream | Let's TAKE a STEP towards a healthy life)" },
   { slNo: 1219, hanzi: "脉搏", pinyin: "màibó", meaning: "妖神记 Just by feeling the PULSE of any 妖灵师 Nieli can 鉴定 their element and the break through materials | I can feel her PULSE is strong it reflects the state of her 身体 and the flow of her Qi" },
   { slNo: 1220, hanzi: "埋怨 (抱怨/牢骚)", pinyin: "mái yuàn (bào yuàn/láo sāo)", meaning: "Stop COMPLAIN-ing and do the work | Stop COMPLAIN-ing about your life and work" },
-  { slNo: 1221, hanzi: "慢性 (急性)", pinyin: "mànxìng", meaning: "Diabetes is a CHRONIC disease, developes over time and doesn't go away easily and lasts almost forever | (Catching cold is an ACUTE disease, it comes fast and goes away fast)" },
+  { slNo: 1221, hanzi: "慢性 (急性)", pinyin: "màn xìng", meaning: "Diabetes is a CHRONIC disease, developes over time and doesn't go away easily and lasts almost forever | (Catching cold is an ACUTE disease, it comes fast and goes away fast)" },
   { slNo: 1222, hanzi: "漫长 (悠久)", pinyin: "màn cháng", meaning: "It is going to be a VERY LONG/PROLONGED journey | It's a VERY LONG story let me tell you later some day | After a VERY LONG/PROLONGED waiting we finally saw her in action | (The city has a VERY LONG history/tradition)" },
-  { slNo: 1223, hanzi: "漫画 (动漫) (动画)", pinyin: "mànhuà", meaning: "I love reading MANGAs and watching ANIMEs | (For outsiders we refer Chinese ANIME as Chinese ANIMATIONs)" },
+  { slNo: 1223, hanzi: "漫画 (动漫) (动画)", pinyin: "màn huà", meaning: "I love reading MANGAs and watching ANIMEs | (For outsiders we refer Chinese ANIME as Chinese ANIMATIONs)" },
   { slNo: 1224, hanzi: "蔓延 (藤蔓)", pinyin: "màn yán (téng màn)", meaning: "The fire SPREAD throughout the entire forest | The more I cut the VINEs the more they SPREAD | 斗罗大陆 Tang San has a skill of SPREAD-ing VINES that can 控制 any 妖灵师 easily, the more they break it the more they SPREAD and get stronger" },
   { slNo: 1225, hanzi: "忙碌 (忙于/忙)", pinyin: "máng lù", meaning: "I had a BUSY day | His life is very BUSY | (He is BUSY WITH work | I am BUSY now)" },
 
