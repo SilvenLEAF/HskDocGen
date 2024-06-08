@@ -1015,7 +1015,7 @@ export const hsk_list = [
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìn lái", meaning: "RECENTLY/LATELY I found out she is the only one | RECENTLY it's raining in Singapore | RECEENTLY there's been a big progress in the project" },
   /////////////////////////////// - backwards end
 
-  { slNo: 976, hanzi: "浸泡", pinyin: "jìnpào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night" },
+  { slNo: 976, hanzi: "浸泡 (气泡/气球) (肥皂泡)", pinyin: "jìnpào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night | (I love BUBBLES, it can be WATER BUBBLES or SOAP BUBBLES) | (I want a red BALOON)" },
   { slNo: 977, hanzi: "晋升 (提升)", pinyin: "jìnshēng", meaning: "I got a PROMOTION last year | I was PROMOTED to Senior Software Engineer | Harsha Sir PROMOTED me to Senior Software Engineer | My PROMOTION is an encouragement from my company" },
   { slNo: 978, hanzi: "茎", pinyin: "jīng", meaning: "Let's remove the STALKs/STEMs from the spinachs and cook only the leaves | The STALK/STEM of this flower has thorns" },
 
