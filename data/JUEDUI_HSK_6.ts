@@ -1101,36 +1101,33 @@ export const hsk_list = [
   { slNo: 1049, hanzi: "勘探", pinyin: "kān tàn", meaning: "(to explore and search for esp oil/gold etc natural resources) Dr Stone Let's go EXPLORE and SEARCH for oil/gold etc in Sagara Fields I am sure we will sure find a place | EXPLORATION-and-SEARCH team found a new oil field | Chrome is the EXPLORATION-and-SEARCH King and its not easy at all" },
   { slNo: 1050, hanzi: "砍伐", pinyin: "kǎn fá", meaning: "(to cut down esp trees, forests etc) | They CUT DOWN many TREES to build this house | The farmers CUT DOWN TREES on the mountain to build a new farm land | CUT-ting DOWN TREES is banned here and you need a permit to CUT DOWN a tree | We'll kill anyone who dares to CUT DOWN our FORESTs/TREEs" },
 
-
-
-
-  { slNo: 1051, hanzi: "侃侃而谈", pinyin: "kǎnkǎn", meaning: "Even though faced with reporters, she SPOKE CONFIDENTLY and FLUENTLY | She can SPEAK CONFIDENTLY and FLUENTLY in meetings which I can't | When meeting clients in real life, Prash Sir can SPEAK CONFIDENTLY and FLUENTLY but I can not" },
-  { slNo: 1052, hanzi: "看待", pinyin: "kàndài", meaning: "How do you VIEW him as a man | What do you THINK ABOUT/VIEW my suggestion | (HunterXHunter) Gon already VIEWs you as his best friend | They REGARD/VIEW you as an integral team member | We REGARD/VIEW failures as a pillar of success" },
-  { slNo: 1053, hanzi: "慷慨 (大方)", pinyin: "kāngkǎi", meaning: "He is a GENEROUS person who is willing to give freely | Our land-lord is a GENEROUS person | (完美先生和差不多小姐) During her difficult times, all her friends GENEROUS-ly offered their help" },
+  { slNo: 1051, hanzi: "侃侃而谈", pinyin: "kǎn kǎn ér tán", meaning: "Even though faced with reporters, she SPOKE CONFIDENTLY and FLUENTLY | She can SPEAK CONFIDENTLY and FLUENTLY in meetings which I can't | When meeting clients in real life, Prash Sir can SPEAK CONFIDENTLY and FLUENTLY but I can not" },
+  { slNo: 1052, hanzi: "看待", pinyin: "kàn dài", meaning: "How do you VIEW him as a man | What do you THINK ABOUT/VIEW my suggestion | (HunterXHunter) Gon already VIEWs you as his best friend | They REGARD/VIEW you as an integral team member | We REGARD/VIEW failures as a pillar of success" },
+  { slNo: 1053, hanzi: "慷慨 (大方)", pinyin: "kāng kǎi", meaning: "He is a GENEROUS person who is willing to give freely | Our land-lord is a GENEROUS person | (完美先生和差不多小姐) During her difficult times, all her friends GENEROUS-ly offered their help" },
   { slNo: 1054, hanzi: "扛", pinyin: "káng", meaning: "Little boy LIFT-ed OVERHEAD with BOTH HANDS/CARRY-ed ON his SHOULDER the big wood log | I LIFT-ed OVERHEAD with BOTH HANDS/CARRY-ed ON my SHOULDER the rice sacks and helped father move them from Bathroom to our Yard | Famous Song was generated due to Singer forgetting original lyrics, in her creation the song says, Dinasaur CARRY-es Wolf" },
-  { slNo: 1055, hanzi: "抗议", pinyin: "kàngyì", meaning: "(GGS) Professor asked Lao Han, Doesn't she PROTEST sometimes? PROTEST no 她很乖的 | The PROTEST against the Govt new law didn't last long | We PROTEST-ed against this unfair treatment" },
-  
-  { slNo: 1056, hanzi: "考察 (视察) (调查) (检查)", pinyin: "kǎochá", meaning: " | (Higher Officials visit to examine/oversee sth | China President came to INSPECT our School | Emperor came to INSPECT the progress of China Wall) | (Police is INVESTIGATE-ing the case | 妖神记 We'll INVESTIGATE the bottom of this, Gu Yan Zhang 您放心) | (They want to INSPECT our luggage before letting us onboard the MRT/Ship)" },
-  { slNo: 1057, hanzi: "考古 (学家)", pinyin: "kǎogǔ", meaning: "I love to study ARCHAEOLOGY | Our school organized an ARCHAEOLOGY-cal activity | (众王驾到) ARCHAEOLOGY-ists discovered a new pot from Qing Dynasty which had a little puppy's encarvement and 6 months written in days as the Emperor promised to do so once he returns in his time" },
-  
-  { slNo: 1058, hanzi: "考核", pinyin: "kǎohé", meaning: "to assess/evaluate/assessment/evaluation/appraisal eg annual" },
-  { slNo: 1059, hanzi: "考验", pinyin: "kǎoyàn", meaning: "to test/put to the test" },
-  { slNo: 1060, hanzi: "靠拢 (接近/靠近) (将近/接近)", pinyin: "kàolǒng", meaning: "to draw close to (almost/nearly)" },
-  { slNo: 1061, hanzi: "(磕门/敲门) (磕头/跪拜)", pinyin: "kē", meaning: "(to knock at the door) (to kowtow/kneel and worship)" },
-  { slNo: 1062, hanzi: "科目 (学科/课程)", pinyin: "kēmù", meaning: "subject/course" },
-  { slNo: 1063, hanzi: "渴望 (巴不得)", pinyin: "kěwàng", meaning: "to yearn for/thirst for/long for (to eagerly look forward to)" },
-  { slNo: 1064, hanzi: "可观", pinyin: "kěguān", meaning: "considerable/impressive/significant" },
-  { slNo: 1065, hanzi: "可口", pinyin: "kěkǒu", meaning: "tasty/delicious" },
-  { slNo: 1066, hanzi: "可恶", pinyin: "kěwù", meaning: "vile/loathsome/hateful" },
-  { slNo: 1067, hanzi: "可行 (不行)", pinyin: "kěxíng", meaning: "feasible (not feasible)" },
-  { slNo: 1068, hanzi: "刻不容缓 (的任务) (当务之急)", pinyin: "kèbùrónghuǎn", meaning: "urgent/no time to lose (top priority job)" },
-  { slNo: 1069, hanzi: "课题", pinyin: "kètí", meaning: "research topic/subject of study" },
-  { slNo: 1070, hanzi: "克制 (控制)", pinyin: "kèzhì", meaning: "to restrain/control/self-control" },
-  { slNo: 1071, hanzi: "客户", pinyin: "kèhù", meaning: "client/customer" },
-  { slNo: 1072, hanzi: "啃", pinyin: "kěn", meaning: "to gnaw/nibble/bite" },
-  { slNo: 1073, hanzi: "恳切 (诚挚/诚恳/真诚)", pinyin: "kěnqiè", meaning: "earnest/sincere" },
-  { slNo: 1074, hanzi: "坑 (坑洞)", pinyin: "kēng", meaning: "pit hole" },
-  { slNo: 1075, hanzi: "空洞 (空虚)", pinyin: "kōngdòng", meaning: "empty (emptiness)" },
+  { slNo: 1055, hanzi: "抗议", pinyin: "kàng yì", meaning: "(GGS) Professor asked Lao Han, Doesn't she PROTEST sometimes? PROTEST no 她很乖的 | The PROTEST against the Govt new law didn't last long | We PROTEST-ed against this unfair treatment" },
+  { slNo: 1056, hanzi: "考察 (视察) (调查) (检查)", pinyin: "kǎo chá", meaning: "Company sent us to Singapore to EXAMINE AND INSPECT the Singapore Market | Before buying the house we should INSPECT/EXAMINE AND INSPECT surrounding environment | (Higher Officials visit to examine/oversee sth | China President came to INSPECT our School | Emperor came to INSPECT the progress of China Wall) | (Police is INVESTIGATE-ing the case | 妖神记 We'll INVESTIGATE the bottom of this, Gu Yan Zhang 您放心) | (They want to INSPECT our luggage before letting us onboard the MRT/Ship)" },
+  { slNo: 1057, hanzi: "考古 (学家)", pinyin: "kǎo gǔ", meaning: "I love to study ARCHAEOLOGY | Our school organized an ARCHAEOLOGY-cal activity | (众王驾到) ARCHAEOLOGY-ists discovered a new pot from Qing Dynasty which had a little puppy's encarvement and 6 months written in days as the Emperor promised to do so once he returns in his time" },
+  { slNo: 1058, hanzi: "考核", pinyin: "kǎo hé", meaning: "One Company in RPO will ASSESS/EVALUATE their employee's performance every year | We regulary ASSESS/EVALUATE our soldier's physical fitness and skills | The manager is ASSESS-ing/EVALUATE-ing the new employee's adaptibility | After the training we will ASSESS/EVALUATE the trainees | The School ASSESS-es/EVALUATEs the students' performance every semester" },
+  { slNo: 1059, hanzi: "考验", pinyin: "kǎo yàn", meaning: "I'd love to TEST your elemental skill | This challenge is a TEST of patience | Long distance relationship is a TEST of the couple's feelings | 这个任务 TEST-ed his intelligence and skills" },
+  { slNo: 1060, hanzi: "靠拢-到 (接近/靠近) (将近/接近)", pinyin: "kàolǒng", meaning: "She MOVE-d CLOSER TO me | Kyouteki MOVE-d/DREW CLOSER towards us | Don't MOVE CLOSER TO her, Dragon Emperor will come | (We are ALMOST/NEARLY 2 kilometers away from home)" },
+  { slNo: 1061, hanzi: "(磕头/跪拜)", pinyin: "kē", meaning: "(入間くん) Blushenko Sensei got surprised seeing Sabnock Sabro KOW-TOW-ing, kneeling and bowing head low as form of submission, respect or apology | (My uncle and we all KNEEL DOWN and DEVOTE/WORSHIP to god | Good boy often KNEEL DOWN and WORSHIP their parents every evening in my culture)" },
+  { slNo: 1062, hanzi: "科目 (课程)", pinyin: "kēmù", meaning: "My SUBJECTs were Physics, Chemistry and Maths in High School | (Is the CURRICULUM released for this Year/Semester)" },
+  { slNo: 1063, hanzi: "渴望 (巴不得)", pinyin: "kěwàng", meaning: "I am YEARN-ing/THRIST-ing/LONG-ing FOR Dr Stone Season III | (I am EAGERLY LOOK-ing FORWARD TO Dr Stone Season III)" },
+  { slNo: 1064, hanzi: "可观", pinyin: "kěguān", meaning: "In last few months there are CONSIDERABLE/SIGNIFICANT changes in our Software | After the treatment her Qi had a SIGNIFICANT improvement" },
+  { slNo: 1065, hanzi: "可口 (好吃/美味)", pinyin: "kě kǒu", meaning: "This dish is very DELICIOUS/TASTY | My mom's dishes are really DELICIOUS/TASTY | Today I cooked 鸡肉饭 which was DELICIOUS/TASTY" },
+  { slNo: 1066, hanzi: "可恶", pinyin: "kě wù", meaning: "(くそ/VILE) くそったれ/おのれ Nanjakudomo-me | くそ 俺たちまた負けた" },
+  { slNo: 1067, hanzi: "可行 (不行)", pinyin: "kě xíng", meaning: "It's not FEASIBLE | This feature might be FEASIBLE let me check with Harsha Sir | (NO | It's NOT FEASIBLE)" },
+  { slNo: 1068, hanzi: "刻不容缓 (的任务) (当务之急)", pinyin: "kè bù róng huǎn", meaning: "This Client issue is URGENT-and-CAN-NOT-BE-DELAYED | This is an URGENT-and-CAN-NOT-BE-DELAYED task | (妖神记 Finding an exit is our TOP PRIORITY JOB now)" },
+  { slNo: 1069, hanzi: "课题", pinyin: "kè tí", meaning: "What is your RESEARCH TOPIC | What is the TOPIC of DISCUSSION/RESEARCH/STUDY for tomorrow" },
+  { slNo: 1070, hanzi: "克制 (节制)", pinyin: "kè zhì", meaning: "We have to learn to SELF-CONTROL/RESTRAIN our emotions, desires and impulses | When angry you should learn to SELF-CONTROL/RESTRAIN/CONTROL your anger | (SELF-CONTROL/RESTRAIN-ing anger is not same as SELF-CONTROL/MODERATE anger) | (I have to SELF-CONTROL/MODERATE my diet)" },
+  { slNo: 1071, hanzi: "客户", pinyin: "kè hù", meaning: "DSTA and NTUC are our CLIENTs | I am in a call with the CLIENTs/CUSTOMERs | MINDEF is our CLIENT they came to our SG office today" },
+  { slNo: 1072, hanzi: "啃", pinyin: "kěn", meaning: "Little rabbit is NIBBLE-ing/GNAW-ing the little carrot | Birds are NIBBLE-ing the bread | (イナズマイレブン We have to CHEW 30 times when we eat) | (She BITE my hand awww so cute)" },
+  { slNo: 1073, hanzi: "恳切 (诚恳/诚挚/真诚)", pinyin: "kěn qiè (chéng kěn/chéng zhì/zhēn chéng)", meaning: "His apology was so EARNEST/HEART-FELT/SINCERE that it moved me deeply | His request was so EARNEST that I could not refuse | (My feelings for you are SINCERE/EARNEST)" },
+  { slNo: 1074, hanzi: "坑 (坑洞) (洞穴 - 山洞/水洞/岩洞)", pinyin: "kēng", meaning: "There are lots of PIT HOLEs in this road | (There is a HOLE in this cloth | He fell in the Black HOLE) | (原神 There are 3 CAVEs in 提瓦特, Mountain CAVE of 楓丹 Forest, Water CAVE of 到期, and Rock CAVE of 璃月)" },
+  { slNo: 1075, hanzi: "空洞 (空虚)", pinyin: "kōng dòng", meaning: "(HOLLOW meaning space inside should be filled but it's hollow/empty | EMPTY) | This book is EMPTY/HOLLOW there is not much in it | (I feel an EMPTINESS in my heart)" },
+
+
 
 
 
