@@ -1104,13 +1104,15 @@ export const hsk_list = [
 
 
 
-  { slNo: 1051, hanzi: "侃侃而谈", pinyin: "kǎnkǎn", meaning: "to speak confidently and fluently" },
-  { slNo: 1052, hanzi: "看待 (对待)", pinyin: "kàndài", meaning: "to look upon/regard/view (to treat)" },
-  { slNo: 1053, hanzi: "慷慨", pinyin: "kāngkǎi", meaning: "generous" },
-  { slNo: 1054, hanzi: "扛", pinyin: "káng", meaning: "to lift overhead with both hands/carry on one's shoulder" },
-  { slNo: 1055, hanzi: "抗议 (抵抗/对抗/反抗/对立)", pinyin: "kàngyì", meaning: "to protest/protest" },
-  { slNo: 1056, hanzi: "考察", pinyin: "kǎochá", meaning: "to inspect/observe and study/investigate" },
-  { slNo: 1057, hanzi: "考古", pinyin: "kǎogǔ", meaning: "archaeology" },
+  { slNo: 1051, hanzi: "侃侃而谈", pinyin: "kǎnkǎn", meaning: "Even though faced with reporters, she SPOKE CONFIDENTLY and FLUENTLY | She can SPEAK CONFIDENTLY and FLUENTLY in meetings which I can't | When meeting clients in real life, Prash Sir can SPEAK CONFIDENTLY and FLUENTLY but I can not" },
+  { slNo: 1052, hanzi: "看待", pinyin: "kàndài", meaning: "How do you VIEW him as a man | What do you THINK ABOUT/VIEW my suggestion | (HunterXHunter) Gon already VIEWs you as his best friend | They REGARD/VIEW you as an integral team member | We REGARD/VIEW failures as a pillar of success" },
+  { slNo: 1053, hanzi: "慷慨 (大方)", pinyin: "kāngkǎi", meaning: "He is a GENEROUS person who is willing to give freely | Our land-lord is a GENEROUS person | (完美先生和差不多小姐) During her difficult times, all her friends GENEROUS-ly offered their help" },
+  { slNo: 1054, hanzi: "扛", pinyin: "káng", meaning: "Little boy LIFT-ed OVERHEAD with BOTH HANDS/CARRY-ed ON his SHOULDER the big wood log | I LIFT-ed OVERHEAD with BOTH HANDS/CARRY-ed ON my SHOULDER the rice sacks and helped father move them from Bathroom to our Yard | Famous Song was generated due to Singer forgetting original lyrics, in her creation the song says, Dinasaur CARRY-es Wolf" },
+  { slNo: 1055, hanzi: "抗议", pinyin: "kàngyì", meaning: "(GGS) Professor asked Lao Han, Doesn't she PROTEST sometimes? PROTEST no 她很乖的 | The PROTEST against the Govt new law didn't last long | We PROTEST-ed against this unfair treatment" },
+  
+  { slNo: 1056, hanzi: "考察 (视察) (调查) (检查)", pinyin: "kǎochá", meaning: " | (Higher Officials visit to examine/oversee sth | China President came to INSPECT our School | Emperor came to INSPECT the progress of China Wall) | (Police is INVESTIGATE-ing the case | 妖神记 We'll INVESTIGATE the bottom of this, Gu Yan Zhang 您放心) | (They want to INSPECT our luggage before letting us onboard the MRT/Ship)" },
+  { slNo: 1057, hanzi: "考古 (学家)", pinyin: "kǎogǔ", meaning: "I love to study ARCHAEOLOGY | Our school organized an ARCHAEOLOGY-cal activity | (众王驾到) ARCHAEOLOGY-ists discovered a new pot from Qing Dynasty which had a little puppy's encarvement and 6 months written in days as the Emperor promised to do so once he returns in his time" },
+  
   { slNo: 1058, hanzi: "考核", pinyin: "kǎohé", meaning: "to assess/evaluate/assessment/evaluation/appraisal eg annual" },
   { slNo: 1059, hanzi: "考验", pinyin: "kǎoyàn", meaning: "to test/put to the test" },
   { slNo: 1060, hanzi: "靠拢 (接近/靠近) (将近/接近)", pinyin: "kàolǒng", meaning: "to draw close to (almost/nearly)" },
