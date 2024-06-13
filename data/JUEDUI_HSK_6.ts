@@ -1127,12 +1127,6 @@ export const hsk_list = [
   { slNo: 1074, hanzi: "坑 (坑洞) (洞穴 - 山洞/水洞/岩洞)", pinyin: "kēng", meaning: "There are lots of PIT HOLEs in this road | (There is a HOLE in this cloth | He fell in the Black HOLE) | (原神 There are 3 CAVEs in 提瓦特, Mountain CAVE of 楓丹 Forest, Water CAVE of 到期, and Rock CAVE of 璃月)" },
   { slNo: 1075, hanzi: "空洞 (空虚)", pinyin: "kōng dòng", meaning: "(HOLLOW meaning space inside should be filled but it's hollow/empty | EMPTY) | This book is EMPTY/HOLLOW there is not much in it | (I feel an EMPTINESS in my heart)" },
 
-
-
-
-
-
-  
   { slNo: 1076, hanzi: "空前绝后", pinyin: "kōng qián jué hòu", meaning: "(从来没有过 今后也不会再有/been never before and never to be duplicated/the first and the last) | (ホリミヤ) Miyamura 说 this is my FIRST and the LAST bunkasai | His achievements in this field is UNPRECEDENTED and UNPARALLELED in history" },
   { slNo: 1077, hanzi: "空想 (幻想/做梦) (现实) (奇幻)", pinyin: "kōng xiǎng", meaning: "I love to DAY-DREAM/FANTASY about becoming the best hacker of the world because I believe one if I believe and keep on dreaming one day I can be one | (I love to escape from REALITY and DAY-DREAM and go to the land of FANTASY) | (His wish of becoming strongest Developer in the world is just a FANTASY) | (I love FANTASY manga and FANSTASY novels)" },
   { slNo: 1078, hanzi: "空虚 (充实)", pinyin: "kōng xū", meaning: "I feel an EMPTINESS in my heart | His life is very EMPTY/FULL OF EMPTINESS | (I feel today's study/work/experience is FULL-FILLING)" },
@@ -1151,19 +1145,14 @@ export const hsk_list = [
   { slNo: 1091, hanzi: "枯燥 (无聊)", pinyin: "kū zào", meaning: "This is so BORING/UN-INTERESTING/DULL | The party was so BORING/DULL" },
   { slNo: 1092, hanzi: "枯萎", pinyin: "kū wěi", meaning: "The flowers all WILT-ed/WITHER-ed away | (はめふら) The vegetables WILT-ed due to lack of water and sunlight | (斗罗大陆) This flower never WILTs/WITHERs" },
   { slNo: 1093, hanzi: "苦涩 (甘甜)", pinyin: "kǔ sè", meaning: "This tit-korola is really BITTER | The neem leaves are BITTER | (This fruit and this drink is so SWEET | Honey is very SWEET)" },
-  
-  
-  
-  { slNo: 1094, hanzi: "苦尽甘来", pinyin: "kǔjìngānlái", meaning: "bitterness finishes sweetness begins/all sufferings have their reward" },
-  { slNo: 1095, hanzi: "挎 (挎包)", pinyin: "kuà", meaning: "to carry on the arm (satchel/bag)" },
-  { slNo: 1096, hanzi: "跨越 (跨 江/海/国) (跨过)", pinyin: "kuà", meaning: "to step across/over (to cross a river/sea/country) (to step over obstacles)" },
-  { slNo: 1097, hanzi: "快活 (高兴/开心/快乐/欢乐/愉快)", pinyin: "kuàihuo", meaning: "happy/cheerful" },
-  { slNo: 1098, hanzi: "宽敞 (宽阔/宽广/宽大) (狭窄)", pinyin: "kuānchang", meaning: "spacious/wide (eg room) (narrow)" },
-  
+  { slNo: 1094, hanzi: "苦尽甘来", pinyin: "kǔ jìn gān lái", meaning: "After many years of long distance relationship they are finally together, truly BITTERNESS FINISHES SWEETNESS BEGINS/ALL SUFFERINGS HAVE THEIR REWARD | After years of hard work he finally got his dream job, trully BITTERNESS FINISHES SWEETNESS BEGINS | ALL SUFFERINGS HAVE THEIR REWARD" },
+  { slNo: 1095, hanzi: "挎 (挎包)", pinyin: "kuà", meaning: "While travelling I love to CARRY a light-weight SHOULDER BAG | While going to Hyderabad I only took my favourite SHOULDER BAG which I CARRY-ed from my home to airport | Same SHOULDER BAG I CARRY-ed while I was travelling to Singapore" },
+  { slNo: 1096, hanzi: "跨 (跨越/超越) (跨过)", pinyin: "kuà", meaning: "Let's CROSS the river | I'll OVERCOME/CROSS this difficulty | (I'll SURPASS/超える you one day | ワンピース Roronoa Zoro come be stronger and SURPASS me/俺を超えお I'll wait for you 最強のままで) | (X0PA is a MULTI-NATIONAL Company)" },
+  { slNo: 1097, hanzi: "快活 (快乐/愉快)", pinyin: "kuài huo", meaning: "We had a HAPPY day today | HAPPINESS is a part of our life" },
+  { slNo: 1098, hanzi: "宽敞 (狭窄)", pinyin: "kuān chang", meaning: "(spacious eg room) Our bedroom is very SPACIOUS/WIDE but this kitchen room is a little NARROW | In SG My room is SPACIOUS/WIDE but his room is NARROW" },
   { slNo: 1099, hanzi: "宽容", pinyin: "kuān róng", meaning: "Harsha Sir is a TOLERANT/FORGIVING leader | Family should be a TOLERANT/FORGIVING place | In friendship TOLERANCE/FORGIVING is very important | Her TOLERANCE/FORGIVINGNESS makes her a valuable leader" },
   { slNo: 1100, hanzi: "款待 (接待)", pinyin: "kuǎn dài", meaning: "(おもてなし) Our company provides high quality HOSPITABILITY to our clients | Thank your for your HOSPITALITY | Japanese is well known for HOSPITABILITY | She TREAT-ed us/guests HOSPITABLY | She loves to ENTERTAIN the GUESTs/TREAT the GUESTs HOSPITABLY | (Hotel's front desk is responsible for RECEIVE-ing/WELCOME-ing our GUESTs)" },
-  
-  
+
   { slNo: 1101, hanzi: "款式", pinyin: "kuǎn shì", meaning: "This cloth comes in different STYLEs/DESIGNs which one would you like | I like the STYLE/DESIGN of this dress" },
   { slNo: 1102, hanzi: "筐子 (篮筐) (投篮)", pinyin: "kuāng", meaning: "She is carrying many fruits in her BASKET | You can find a green BASKET in Giant and also in SG Fairprice to help you carry your shopping items | (You can not play basketball without BASKETBALL BASKET | Ahiru SHOOT the BASKETBALL BASKET but missed)" },
   { slNo: 1103, hanzi: "旷课 (逃课)", pinyin: "kuàng kè", meaning: "Let's SKIP CLASSes today and go to roof-top | (ホリミヤ) バカ二人 SKIP-ing CLASS Where did you go, Asked Hori-san to Miyamura and Tooru" },
