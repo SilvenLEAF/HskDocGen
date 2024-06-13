@@ -1132,33 +1132,38 @@ export const hsk_list = [
 
 
 
-  { slNo: 1076, hanzi: "空前绝后", pinyin: "kōngqiánjuéhòu", meaning: "unprecedented/been never before and never to be duplicated/the first and the last" },
-  { slNo: 1077, hanzi: "空想 (幻想/做梦) (现实)", pinyin: "kōngxiǎng", meaning: "daydream/fantasy/to fantasize (reality)" },
-  { slNo: 1078, hanzi: "空虚 (空洞) (充实)", pinyin: "kōngxū", meaning: "hollow/empty/emptiness (full)" },
-  { slNo: 1079, hanzi: "小孔 (鼻孔)", pinyin: "xiǎo kǒng", meaning: "very small hole/micropore (nostril)" },
-  { slNo: 1080, hanzi: "恐怖 (恐惧) (恐怖-分子/组织/袭击) (恐怖电影)", pinyin: "kǒngbù", meaning: "fear/terror/frightful/frightening (terrorist person/org/attack) (horror movie)" },
-  { slNo: 1081, hanzi: "恐吓 (吓唬/威胁)", pinyin: "kǒnghè", meaning: "to intimidate/threaten" },
-  { slNo: 1082, hanzi: "恐惧 (恐怖/害怕)", pinyin: "kǒngjù", meaning: "fear/dread" },
-  { slNo: 1083, hanzi: "空白", pinyin: "kòngbái", meaning: "blank space/vacancy" },
-  { slNo: 1084, hanzi: "空隙", pinyin: "kòngxì", meaning: "crack/gap between two objects" },
-  { slNo: 1085, hanzi: "口气 (语气/口风)", pinyin: "kǒuqì", meaning: "tone of voice/the way one speaks" },
-  { slNo: 1086, hanzi: "口腔", pinyin: "kǒuqiāng", meaning: "mouth/oral cavity" },
-  { slNo: 1087, hanzi: "口头 (书面)", pinyin: "kǒutóu", meaning: "oral/verbal (written/in writing)" },
-  { slNo: 1088, hanzi: "口音 (方言)", pinyin: "kǒuyīn", meaning: "accent (dialect)" },
-  { slNo: 1089, hanzi: "纽扣", pinyin: "kòu", meaning: "button (of shirt dress etc)" },
-  { slNo: 1090, hanzi: "哭泣", pinyin: "kūqì", meaning: "to weep/cry" },
-  { slNo: 1091, hanzi: "枯燥 (无聊/没趣) (风趣/有趣/有意思/好玩儿)", pinyin: "kūzào", meaning: "boring/uninteresting (interesting)" },
-  { slNo: 1092, hanzi: "枯萎", pinyin: "kūwěi", meaning: "to wilt/wither/wilted/withered" },
-  { slNo: 1093, hanzi: "苦涩 (甘甜)", pinyin: "kǔsè", meaning: "bitter (eg bitter gourd) (sweet)" },
+  
+  { slNo: 1076, hanzi: "空前绝后", pinyin: "kōng qián jué hòu", meaning: "(从来没有过 今后也不会再有/been never before and never to be duplicated/the first and the last) | (ホリミヤ) Miyamura 说 this is my FIRST and the LAST bunkasai | His achievements in this field is UNPRECEDENTED and UNPARALLELED in history" },
+  { slNo: 1077, hanzi: "空想 (幻想/做梦) (现实) (奇幻)", pinyin: "kōng xiǎng", meaning: "I love to DAY-DREAM/FANTASY about becoming the best hacker of the world because I believe one if I believe and keep on dreaming one day I can be one | (I love to escape from REALITY and DAY-DREAM and go to the land of FANTASY) | (His wish of becoming strongest Developer in the world is just a FANTASY) | (I love FANTASY manga and FANSTASY novels)" },
+  { slNo: 1078, hanzi: "空虚 (充实)", pinyin: "kōng xū", meaning: "I feel an EMPTINESS in my heart | His life is very EMPTY/FULL OF EMPTINESS | (I feel today's study/work/experience is FULL-FILLING)" },
+  { slNo: 1079, hanzi: "小孔 (鼻孔)", pinyin: "xiǎo kǒng", meaning: "There is a VERY SMALL HOME/TINY HOLE in all mobiles to open the SIM Slots | There is 2 TINY HOLEs/VERY SMALL HOLEs in Miyamura's both ears, these are pierces | Ants crawling out from a TINY HOLE/VERY SMALL HOLE" },
+  { slNo: 1080, hanzi: "恐怖 (恐惧) (瑟瑟发抖...极寒...) (-袭击/-分子)", pinyin: "kǒng bù", meaning: "I don't like HORROR movies | After the TERROR-ist ATTACK we captured 7 TERROR-ists | (原神 女士 Oh you are shivering, is it because of extreme cold or FEAR)" },
+  { slNo: 1081, hanzi: "恐吓 (威胁)", pinyin: "kǒng hè", meaning: "She INTIMIDATE-d me with a knife not to reveal her secret | Kono Baka ga, Don't INTIMIDATE the child | (She THREATEN-ed me not to tell her secret to anyone)" },
+  { slNo: 1082, hanzi: "恐惧 (恐怖) (瑟瑟发抖...极寒...)", pinyin: "kǒng jù", meaning: "(原神 女士) Oh you are shivering, is it because of extreme cold or FEAR | (I don't like HORROR movies | After the TERROR-ist ATTACK we captured 7 TERROR-ists)" },
+  { slNo: 1083, hanzi: "空白", pinyin: "kòng bái", meaning: "There is a BLANK SPACE on the paper, you can write there | There is still some BLANK SPACES in the manga painting that needs to be filled | There are some BLANK SPACES in my calendar I haven't scheduled any meetings yes | Fill in the BLANK SPACES with appropriate words" },
+  { slNo: 1084, hanzi: "空隙", pinyin: "kòng xì", meaning: "(SG MRT) Please mind the CRACK/GAP BETWEEN TWO OBJECTS | Today my schedule has some GAPS I can use them to rest | There is a GAP between these trees, we can set up a tent here" },
+  { slNo: 1085, hanzi: "口气 (语气)", pinyin: "kǒu qì", meaning: "Her WAY/MANNER/ATTITUDE of SPEAKING is cute | (Her TONE of VOICE is cute | Her TONE of VOICE sounds cute)" },
+  { slNo: 1086, hanzi: "口腔 (卫生) (溃疡)", pinyin: "kǒu qiāng", meaning: "ORAL CAVITY/MOUTH hygiene very important | We went to the doctor for a MOUTH/ORAL CAVITY checkup | ORAL CAVITY/MOUTH ulcer is very common for me I need to take care of my mouth hygiene" },
+  { slNo: 1087, hanzi: "口头 (书面)", pinyin: "kǒu tóu", meaning: "I do not want a VERBAL/ORAL explanation, I want a WRITTEN explanation IN WRITING | He gave me a VERBAL offer and when I accepted it he gave me a WRITTEN offer | WRITTEN summary and reasoning is much better than VERBAL summary and reasoning because that way we have proof for future" },
+  { slNo: 1088, hanzi: "口音 (方言)", pinyin: "kǒu yīn", meaning: "I love your ACCENT | She has a British ACCENT | (There are many DIALECTs in Chinese | Sileti is a DIALECT of Bengali)" },
+  { slNo: 1089, hanzi: "纽扣 (系好 你的 纽扣)", pinyin: "niǔ kòu", meaning: "The BUTTON of my Shirt is lost | All the BUTTONs of her dress were torn apart and... | Close your BUTTONs properly | (Lao Han helped Tong Nian TIE her shoelaces)" },
+  { slNo: 1090, hanzi: "哭泣", pinyin: "kū qì", meaning: "You dare to make her CRY/WEEP/SOB, 你们都完蛋了 她是连封号斗罗也不敢惹 | Ye Yeran 说 don't CRY/WEEP my little darling, papa is here, 完蛋了 她是 无魂斗罗 的女儿" },
+  { slNo: 1091, hanzi: "枯燥 (无聊)", pinyin: "kū zào", meaning: "This is so BORING/UN-INTERESTING/DULL | The party was so BORING/DULL" },
+  { slNo: 1092, hanzi: "枯萎", pinyin: "kū wěi", meaning: "The flowers all WILT-ed/WITHER-ed away | (はめふら) The vegetables WILT-ed due to lack of water and sunlight | (斗罗大陆) This flower never WILTs/WITHERs" },
+  { slNo: 1093, hanzi: "苦涩 (甘甜)", pinyin: "kǔ sè", meaning: "This tit-korola is really BITTER | The neem leaves are BITTER | (This fruit and this drink is so SWEET | Honey is very SWEET)" },
+  
+  
+  
   { slNo: 1094, hanzi: "苦尽甘来", pinyin: "kǔjìngānlái", meaning: "bitterness finishes sweetness begins/all sufferings have their reward" },
   { slNo: 1095, hanzi: "挎 (挎包)", pinyin: "kuà", meaning: "to carry on the arm (satchel/bag)" },
   { slNo: 1096, hanzi: "跨越 (跨 江/海/国) (跨过)", pinyin: "kuà", meaning: "to step across/over (to cross a river/sea/country) (to step over obstacles)" },
   { slNo: 1097, hanzi: "快活 (高兴/开心/快乐/欢乐/愉快)", pinyin: "kuàihuo", meaning: "happy/cheerful" },
   { slNo: 1098, hanzi: "宽敞 (宽阔/宽广/宽大) (狭窄)", pinyin: "kuānchang", meaning: "spacious/wide (eg room) (narrow)" },
-  { slNo: 1099, hanzi: "宽容", pinyin: "kuānróng", meaning: "tolerant/forgiving/tolerance/forgiveness" },
-  { slNo: 1100, hanzi: "款待 (接待/招待)", pinyin: "kuǎndài", meaning: "to entertain/to be hospitable to.../to receive guests" },
-
-
+  
+  { slNo: 1099, hanzi: "宽容", pinyin: "kuān róng", meaning: "Harsha Sir is a TOLERANT/FORGIVING leader | Family should be a TOLERANT/FORGIVING place | In friendship TOLERANCE/FORGIVING is very important | Her TOLERANCE/FORGIVINGNESS makes her a valuable leader" },
+  { slNo: 1100, hanzi: "款待 (接待)", pinyin: "kuǎn dài", meaning: "(おもてなし) Our company provides high quality HOSPITABILITY to our clients | Thank your for your HOSPITALITY | Japanese is well known for HOSPITABILITY | She TREAT-ed us/guests HOSPITABLY | She loves to ENTERTAIN the GUESTs/TREAT the GUESTs HOSPITABLY | (Hotel's front desk is responsible for RECEIVE-ing/WELCOME-ing our GUESTs)" },
+  
+  
   { slNo: 1101, hanzi: "款式", pinyin: "kuǎn shì", meaning: "This cloth comes in different STYLEs/DESIGNs which one would you like | I like the STYLE/DESIGN of this dress" },
   { slNo: 1102, hanzi: "筐子 (篮筐) (投篮)", pinyin: "kuāng", meaning: "She is carrying many fruits in her BASKET | You can find a green BASKET in Giant and also in SG Fairprice to help you carry your shopping items | (You can not play basketball without BASKETBALL BASKET | Ahiru SHOOT the BASKETBALL BASKET but missed)" },
   { slNo: 1103, hanzi: "旷课 (逃课)", pinyin: "kuàng kè", meaning: "Let's SKIP CLASSes today and go to roof-top | (ホリミヤ) バカ二人 SKIP-ing CLASS Where did you go, Asked Hori-san to Miyamura and Tooru" },
@@ -1184,11 +1189,6 @@ export const hsk_list = [
   { slNo: 1123, hanzi: "唠叨 (唠唠叨叨) (多嘴/啰唆)", pinyin: "láo dao", meaning: "His grandfather always NAGs/TALKs A LOT (esp about trivial/unimportant matters) | (You are really TALKATIVE | She is a TALKATIVE girl but I like her)" },
   { slNo: 1124, hanzi: "牢固 (结实/坚实) (坚固) (脆弱)", pinyin: "láo gù", meaning: "The city was is STURDY/STRONGLY-BUILT/STRONG/FIRM/DURABLE and didn't collapse for centuries | Their friendship is build on FIRM/STRONG/DURABLE trust | The chair is STURDY/DURABLE/FIRM and won't wobble if we sit on it | (The city wall was WEAK/NOT-DURABLE but Nieli made it FIRM/STRONG/STRUDY/STRONGLY-BUILT/DURALBE)" },
   { slNo: 1125, hanzi: "牢骚 (抱怨/埋怨)", pinyin: "láo sāo (bào yuàn/mái yuàn)", meaning: "Stop COMPLAIN-ing and do the work | Stop COMPLAIN-ing about your life and work" },
-
-
-
-
-
 
   { slNo: 1126, hanzi: "乐趣", pinyin: "lè qù", meaning: "I love drawing because it gives me lots of PLEASURE/FUN/楽しみ | We had lots of FUN/PLEASURE/楽しみ playing with you" },
   { slNo: 1127, hanzi: "乐意 (愿意) (自愿)", pinyin: "lè yì", meaning: "I'll BE WILLING TO go to your house | I am WILLING to help you | She is not WILLING to go to school | (妖神记 Ye Yan Shi Zu, I really VOLUNTARILY entered the Spirit Kui/Ling Kui)" },
