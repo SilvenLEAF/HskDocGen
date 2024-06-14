@@ -869,7 +869,7 @@ export const hsk_list = [
   { slNo: 834, hanzi: "火药 (垄断)", pinyin: "huǒ yào", meaning: "(Dr Stone) Senku-tachi went to Mount Fuji-san to make GUNPOWDER to fight against Tsukasa-kun | Both Sekika-Hodoku Kiseki no Mizu and GUNPOWDER is made from the same thing which is MONOPOLIZE-d by Tsukasa" },
   { slNo: 835, hanzi: "货币", pinyin: "huò bì", meaning: "SGD is the CURRENCY of Singapore | The value of Indian CURRENCY dropped compared to Singapore CURRENCY" },
   { slNo: 836, hanzi: "基地 (本部)", pinyin: "jī dì", meaning: "(你哥哦我的喜欢) Xin Qi 说 这是我的 secret (military) BASE | The superhero BASE for Avengers is Tony Stark's Avenger Tower | All 7 legendary (military) BASEs including Russian BASE were attacked and destroyed by the Legendary 叛逆者 | (Our HEAD-QUARTER/HEAD-OFFICE is in Singapore)" },
-  { slNo: 837, hanzi: "(救灾-/慈善-/教育-) 基金 (资金/资本) (成本)", pinyin: "jī jīn", meaning: "How much the disaster-relief/charity/education etc FUNDS did they collect/allocate this year | (FUNDS mostly charitable) | (Our project requires large amount of FUNDS/CAPITALS | トリリオンゲーム She'll provide the FUNDS for our company) | (The PRODUCTION COST of this toy is really high | The PRODUCTION COST of this project is not low)" },
+  { slNo: 837, hanzi: "基金 (资金/资本) (成本)", pinyin: "jī jīn", meaning: "How much the disaster-relief/charity/education etc FUNDS did they collect/allocate this year | (FUNDS mostly charitable) | (Our project requires large amount of FUNDS/CAPITALS | トリリオンゲーム She'll provide the FUNDS for our company) | (The PRODUCTION COST of this toy is really high | The PRODUCTION COST of this project is not low)" },
   { slNo: 838, hanzi: "基因", pinyin: "jī yīn", meaning: "Mom says our family has strong GENEs/DNAs for height | My hair color is same as my Dad, it's because of GENEs" },
   { slNo: 839, hanzi: "机动 (机动性)", pinyin: "jī dòng", meaning: "Did you ride any MOTORIZED boat before | I rode a MOTORIZED horse/car before | (The MANEUVERABILITY of this car/troops is really great)" },
   { slNo: 840, hanzi: "机构 (组织) (垄断)", pinyin: "jī gòu", meaning: "It's a Chatiry ORGANIZATION | The Welkin ORGANIZATION monopolized the whole market of Singapore | (WE ORGANIZE-d a big celebration party last night | Sakamoto-kun will ORGANIZE a big farewell ceremony for Fukase Senpai)" },
@@ -1015,21 +1015,27 @@ export const hsk_list = [
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìn lái", meaning: "RECENTLY/LATELY I found out she is the only one | RECENTLY it's raining in Singapore | RECEENTLY there's been a big progress in the project" },
   /////////////////////////////// - backwards end
 
-  { slNo: 976, hanzi: "浸泡 (气泡/气球) (肥皂泡)", pinyin: "jìnpào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night | (I love BUBBLES, it can be WATER BUBBLES or SOAP BUBBLES) | (I want a red BALOON)" },
-  { slNo: 977, hanzi: "晋升 (提升)", pinyin: "jìnshēng", meaning: "I got a PROMOTION last year | I was PROMOTED to Senior Software Engineer | Harsha Sir PROMOTED me to Senior Software Engineer | My PROMOTION is an encouragement from my company" },
+  { slNo: 976, hanzi: "浸泡 (气泡/气球) (肥皂泡)", pinyin: "jìn pào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night | (I love BUBBLES, it can be WATER BUBBLES or SOAP BUBBLES) | (I want a red BALOON)" },
+  { slNo: 977, hanzi: "晋升 (提升)", pinyin: "jìn shēng", meaning: "I got a PROMOTION last year | I was PROMOTED to Senior Software Engineer | Harsha Sir PROMOTED me to Senior Software Engineer | My PROMOTION is an encouragement from my company" },
   { slNo: 978, hanzi: "茎", pinyin: "jīng", meaning: "Let's remove the STALKs/STEMs from the spinachs and cook only the leaves | The STALK/STEM of this flower has thorns" },
 
   { slNo: 979, hanzi: "精打细算", pinyin: "jīngdǎxìsuàn", meaning: "pinch pennies" },
-  { slNo: 980, hanzi: "精华", pinyin: "jīnghuá", meaning: "best or finest part" },
-  { slNo: 981, hanzi: "精简", pinyin: "jīngjiǎn", meaning: "simplify; condense" },
+
+  { slNo: 980, hanzi: "精华", pinyin: "jīng huá", meaning: "The BEST/FINEST/MOST IMPORTANT PART of the book is the Last Chapter | (ありふれた) The BEST/MOST IMPORTANT PART of Arifureta アニメ was the last episode | (QGS) Ye Xiu is the BEST/MOST IMPORTANT PART of our team | The BEST/MOST IMPORTANT PART of Chicken curry is in the spices | Teacher explained the BEST/MOST IMPORTANT PART of the problem" },
+  { slNo: 981, hanzi: "精简", pinyin: "jīng jiǎn", meaning: "Let's SIMPLIFY our 战斗装备 | Let's MAKE our 战斗装备 MORE EFFICIENT by REMOVING UNNECESSARY PARTS | (Dr Stone) Senku SIMPLIFY-ed/MADE Chrome's Tungsten melting device MORE EFFICIENT and SIMPLE by REMOVING UNNECESSARY PARTS" },
+
   { slNo: 982, hanzi: "精密 (准确) (精确)", pinyin: "jīngmì", meaning: "(accurate in craftmanship) (accurate in broader sense) (accurate in technical/scientific)" },
   { slNo: 983, hanzi: "精确 (精密) (准确)", pinyin: "jīngquè", meaning: "(accurate in technical/scientific) (accurate in craftmanship) (accurate in broader sense)" },
-  { slNo: 984, hanzi: "精通...", pinyin: "jīngtōng", meaning: "...be master of.../be good at" },
-  { slNo: 985, hanzi: "精心...", pinyin: "jīngxīn", meaning: "with utmost care (putting your heart and effort into making it the best it can be)" },
-  { slNo: 986, hanzi: "精益求精", pinyin: "jīngyìqiújīng", meaning: "keep improving (let's make something awesome and then keep making it even more awesome)" },
-  { slNo: 987, hanzi: "精致", pinyin: "jīngzhì", meaning: "delicate/lovely/exquisite (made with a lot of care and attention to detail)" },
-  { slNo: 988, hanzi: "经费 (预算) (资金/资本/本钱)", pinyin: "jīngfèi", meaning: "funds (budget) (funds in investments)" },
-  { slNo: 989, hanzi: "经纬 (经线) (纬线) (赤道)", pinyin: "jīngwěi", meaning: "longitude and latitude" },
+
+  { slNo: 984, hanzi: "精通...", pinyin: "jīng tōng", meaning: "(...be master of.../...be goot at...) He IS MASTER OF/GOOT AT Chinese | She IS GOOT AT both Chinese and Japanese" },
+  { slNo: 985, hanzi: "精心", pinyin: "jīng xīn", meaning: "WITH UTMOST CARE she prepared a delicious dinner (putting her heart and effort into making it the best it can be) | I WITH UTMOST CARE (putting my heart and effort into making it the best it can be) developed this feature, I'm proud of it" },
+  { slNo: 986, hanzi: "精益求精 (锦上添花)", pinyin: "jīng yì qiú jīng", meaning: "to strive for excellence | She always STRIVEs for EXCELLENCE | Her grade is already good but she works hard STRIVE-ing for EXCELLENCE | (sth already beautiful making it more beautiful and perfect | (The dishes of this restaurant was delicious but the waitress' smile made it PERFECT)" },
+  { slNo: 987, hanzi: "精致", pinyin: "jīng zhì", meaning: "The EXQUISITE/BEAUTIFUL (made with lots of care and attention to detail) Sword/Tea Pot of Qing Dynasty | Look at the EXQUISITE/BEAUTIFUL/LOVELY birthday cake MADE WITH LOTS OF CARE AND ATTENTION TO DETAIL | Look at this BEAUTIFUL/EXQUISITE/REFINED artifact MADE WITH LOTS OF CARE AND ATTENTION TO DETAIL" },
+  { slNo: 988, hanzi: "经费 (资金) (预算)", pinyin: "jīng fèi", meaning: "Our project requires large amount of FUNDS | They will give us the FUNDS for this project | (What is your BUDGET)" },
+  { slNo: 989, hanzi: "经纬 (经线)(纬线)(赤道) (经度/纬度)", pinyin: "jīng wěi", meaning: "The LATITUDE AND LONGITUDE of a country is marked on the world map | (Do you know what is LINES of LATITUDE and LINES of LONGITUDE) | (They live near the EQUATOR | Greenland is farthest from EQUATOR that's why its cold) | (Dr Stone Senku knows exactly the LONGITUDE and LATITUDE of Kamakura Daibutsu)" },
+
+  
+
   { slNo: 990, hanzi: "惊动", pinyin: "jīngdòng", meaning: "to disturb/attrack attention by creating disturbance" },
   { slNo: 991, hanzi: "惊奇 (惊讶) (吃惊)", pinyin: "jīngqí", meaning: "(marvel/be pleasantly surprised) (surprised) (surprised/shocked)" },
   { slNo: 992, hanzi: "惊讶 (吃惊/诧异)", pinyin: "jīngyà", meaning: "surprised/astonished" },
@@ -1037,11 +1043,11 @@ export const hsk_list = [
 
   { slNo: 994, hanzi: "井 (水井)", pinyin: "jǐng", meaning: "She jumped into the WELL (of water) and came back alive | (ラストダンジョン) Marie, Majo, threw the magical summoning orb of Alka into the WATER WELL" },
   { slNo: 995, hanzi: "警告 (告诫)", pinyin: "jǐng gào", meaning: "(妖神记) I'm WARNing you, stay away from my daughter | She WARNed me not to follow her | She WARNed me not to fight the Dragon Emperor | I did not listen to her WARNING" },
+  { slNo: 996, hanzi: "警惕 (保持 警惕)", pinyin: "jǐng tì", meaning: "Maintain VIGILANCE/BE VIGILANT/BE ON THE ALERT when crossing the road | We have to BE VIGILANT of strangers | Singaporeans ARE VIGILANT of strangers in the MRT" },
+  { slNo: 997, hanzi: "颈椎 (肋骨)", pinyin: "jǐng zhuī", meaning: "Choose right pillow to protect your NECK BONE | Looking down at your phone for a long time can put pressure to your NECK BONE | (HunterXHunter) Phinks from Genei Ryoudan loves breaking the NECK BONE of his opponents | (Gon got few of his RIBs broken in a fight with Hisoka | She broke 3 of my RIBs)" },
+  { slNo: 998, hanzi: "敬礼 (鞠躬)", pinyin: "jìng lǐ (jū gōng)", meaning: "Military General SALUTE-d me as my rank is way above him which shocked everyone | I SALUTE to your courage brave soldier | Little Kid SALUTE-d the police officers | (Japanese often BOW DOWN in respect to the standing cars while crossing road | We should learn to BOW/BEND DOWN like a pure Japanese)" },
 
 
-  { slNo: 996, hanzi: "警惕 (小心/当心) (保持警惕)", pinyin: "jǐngtì", meaning: "be vigilant/be on the alert" },
-  { slNo: 997, hanzi: "颈椎 (胸椎) (肋骨)", pinyin: "jǐngzhuī", meaning: "(neck backbone) (ribcage backbone) (rib)" },
-  { slNo: 998, hanzi: "敬礼 (鞠躬)", pinyin: "jìnglǐ (jū gōng)", meaning: "salute/to salute (to bow/bend down)" },
   { slNo: 999, hanzi: "敬业 (奉献)", pinyin: "jìngyè", meaning: "dedication (work)/be dedicated to work/respect one's work (normal dedication)" },
   { slNo: 1000, hanzi: "境界 (边界)", pinyin: "jìngjiè", meaning: "realm/level/fig boundary (it's like an invisible line that shows where one thing ends and another begins) (physical boundary)" },
   /////////////////////////////// - wishing to END here my backwards end
