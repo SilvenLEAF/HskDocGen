@@ -1013,20 +1013,15 @@ export const hsk_list = [
   { slNo: 973, hanzi: "进化 (进化成)", pinyin: "jìn huà", meaning: "Pikachu EVOLVE-d into Raichu | The fruit of EVOLUTION" },
   { slNo: 974, hanzi: "进展", pinyin: "jìn zhǎn", meaning: "The PROGRESS/DEVELOPMENT of this project is really slow | How is the PROGRESS/DEVELOPMENT of the project going | The tasks/feature PROGRESS-ed smoothly" },
   { slNo: 975, hanzi: "近来 (最近)", pinyin: "jìn lái", meaning: "RECENTLY/LATELY I found out she is the only one | RECENTLY it's raining in Singapore | RECEENTLY there's been a big progress in the project" },
-  /////////////////////////////// - backwards end
 
   { slNo: 976, hanzi: "浸泡 (气泡/气球) (肥皂泡)", pinyin: "jìn pào", meaning: "Let's SOAK the cloths in water for 3 hours before washing | Let's SOAK the sponge in soap water | Let's SOAK the Pressure Cooker and other utensils in water for few mins it'll make easier to clean | SOAK the raisins/chana-dal/soya-beans/rice in water over-night | (I love BUBBLES, it can be WATER BUBBLES or SOAP BUBBLES) | (I want a red BALOON)" },
   { slNo: 977, hanzi: "晋升 (提升)", pinyin: "jìn shēng", meaning: "I got a PROMOTION last year | I was PROMOTED to Senior Software Engineer | Harsha Sir PROMOTED me to Senior Software Engineer | My PROMOTION is an encouragement from my company" },
   { slNo: 978, hanzi: "茎", pinyin: "jīng", meaning: "Let's remove the STALKs/STEMs from the spinachs and cook only the leaves | The STALK/STEM of this flower has thorns" },
-  { slNo: 979, hanzi: "精打细算 (-地)", pinyin: "jīngdǎxìsuàn", meaning: "I have to manage my expenses FRUGALLY if I want to save 1k+ every month | Mom and dad always shop CAREFULLY/FRUGALLY/PINCH PENNIES because they want to save money | The street vendor CAREFULLY/FRUGALLY buys ingrdients to maximize profits" },
+  { slNo: 979, hanzi: "精打细算 (-地)", pinyin: "jīng dǎ xì suàn", meaning: "I have to manage my expenses FRUGALLY if I want to save 1k+ every month | Mom and dad always shop CAREFULLY/FRUGALLY/PINCH PENNIES because they want to save money | The street vendor CAREFULLY/FRUGALLY buys ingrdients to maximize profits" },
   { slNo: 980, hanzi: "精华", pinyin: "jīng huá", meaning: "The BEST/FINEST/MOST IMPORTANT PART of the book is the Last Chapter | (ありふれた) The BEST/MOST IMPORTANT PART of Arifureta アニメ was the last episode | (QGS) Ye Xiu is the BEST/MOST IMPORTANT PART of our team | The BEST/MOST IMPORTANT PART of Chicken curry is in the spices | Teacher explained the BEST/MOST IMPORTANT PART of the problem" },
   { slNo: 981, hanzi: "精简", pinyin: "jīng jiǎn", meaning: "Let's SIMPLIFY our 战斗装备 | Let's MAKE our 战斗装备 MORE EFFICIENT by REMOVING UNNECESSARY PARTS | (Dr Stone) Senku SIMPLIFY-ed/MADE Chrome's Tungsten melting device MORE EFFICIENT and SIMPLE by REMOVING UNNECESSARY PARTS" },
-
-
-
-  { slNo: 982, hanzi: "精密 (准确) (精确)", pinyin: "jīngmì", meaning: "(accurate in craftmanship) (accurate in broader sense) (accurate in technical/scientific)" },
-  { slNo: 983, hanzi: "精确 (精密) (准确)", pinyin: "jīngquè", meaning: "(accurate in technical/scientific) (accurate in craftmanship) (accurate in broader sense)" },
-
+  { slNo: 983, hanzi: "(准确) (精确) 精密", pinyin: "jīng mì", meaning: "(Your description is ACCURATE esp in general) | (Dr Stone This measurement is not ACCURATE esp in technical/scientific) | Dr Stone The ACCURATE/INTRICATE design of this gear is really amazing | ACCURATE/INTRICATE design work let's leave it to Kaseki no Ojisan esp in craftsmanship" },
+  { slNo: 983, hanzi: "(准确) 精确 (精密)", pinyin: "jīng què", meaning: "(Your description is ACCURATE esp in general) | Dr Stone This measurement is not ACCURATE (esp in technical/scientific) | (Dr Stone The ACCURATE/INTRICATE design of this gear is really amazing | ACCURATE/INTRICATE design work let's leave it to Kaseki no Ojisan esp in craftsmanship)" },
   { slNo: 984, hanzi: "精通...", pinyin: "jīng tōng", meaning: "(...be master of.../...be goot at...) He IS MASTER OF/GOOT AT Chinese | She IS GOOT AT both Chinese and Japanese" },
   { slNo: 985, hanzi: "精心", pinyin: "jīng xīn", meaning: "WITH UTMOST CARE she prepared a delicious dinner (putting her heart and effort into making it the best it can be) | I WITH UTMOST CARE (putting my heart and effort into making it the best it can be) developed this feature, I'm proud of it" },
   { slNo: 986, hanzi: "精益求精 (锦上添花)", pinyin: "jīng yì qiú jīng", meaning: "to strive for excellence | She always STRIVEs for EXCELLENCE | Her grade is already good but she works hard STRIVE-ing for EXCELLENCE | (sth already beautiful making it more beautiful and perfect | (The dishes of this restaurant was delicious but the waitress' smile made it PERFECT)" },
@@ -1034,26 +1029,16 @@ export const hsk_list = [
   { slNo: 988, hanzi: "经费 (资金) (预算)", pinyin: "jīng fèi", meaning: "Our project requires large amount of FUNDS | They will give us the FUNDS for this project | (What is your BUDGET)" },
   { slNo: 989, hanzi: "经纬 (经线)(纬线)(赤道) (经度/纬度)", pinyin: "jīng wěi", meaning: "The LATITUDE AND LONGITUDE of a country is marked on the world map | (Do you know what is LINES of LATITUDE and LINES of LONGITUDE) | (They live near the EQUATOR | Greenland is farthest from EQUATOR that's why its cold) | (Dr Stone Senku knows exactly the LONGITUDE and LATITUDE of Kamakura Daibutsu)" },
   { slNo: 990, hanzi: "惊动", pinyin: "jīng dòng", meaning: "I accidentally knocked my steel plates in the floor which DISTURB-ed/ATTRACT-ed the ATTENTION of the entire company (by creating disturbance) | The sudden alarm in 凌晨 ATTRACT-ed the ATTENTION of the entire town (by creating disturbance) | The noise/uproar of everyone DISTURB-ed/ATTRACT-ed my ATTENTION and I woke up from sleep | (ホリミヤ) When Kaichou was about to give his speech, Miyamura's sudden 喷嚏 DISTURB-ed/ATTRACT-ed the ATTENTION of everyone" },
-
-  
-
-  { slNo: 991, hanzi: "惊奇 (惊讶) (吃惊)", pinyin: "jīngqí", meaning: "(marvel/be pleasantly surprised) (surprised) (surprised/shocked)" },
-  { slNo: 992, hanzi: "惊讶 (吃惊/诧异)", pinyin: "jīngyà", meaning: "surprised/astonished" },
-  
+  { slNo: 991, hanzi: "惊奇 (惊讶)", pinyin: "jīng qí", meaning: "It was a SURPRISING story | I was SURPRISED to hear this" },
+  { slNo: 992, hanzi: "惊讶 (惊奇)", pinyin: "jīng yà", meaning: "She was very SURPRISED/ASTONISHED hearing this news | Her SURPRISED/ASTONISHED expression was so amazing | It was a SURPRISING story" },
   { slNo: 993, hanzi: "兢兢业业 (-地) (敷衍...)", pinyin: "jīng jīng yè yè", meaning: "She DILLIGENTLY completed all her tasks (with great care and attention to detail focusing on doing a good job) | (Sometimes I DILLIGENTLY complete the tasks but sometimes if have tight deadline I DO WORK HALF-HEARTEDLY)" },
   { slNo: 994, hanzi: "井 (水井)", pinyin: "jǐng", meaning: "She jumped into the WELL (of water) and came back alive | (ラストダンジョン) Marie, Majo, threw the magical summoning orb of Alka into the WATER WELL" },
   { slNo: 995, hanzi: "警告 (告诫)", pinyin: "jǐng gào", meaning: "(妖神记) I'm WARNing you, stay away from my daughter | She WARNed me not to follow her | She WARNed me not to fight the Dragon Emperor | I did not listen to her WARNING" },
   { slNo: 996, hanzi: "警惕 (保持 警惕)", pinyin: "jǐng tì", meaning: "Maintain VIGILANCE/BE VIGILANT/BE ON THE ALERT when crossing the road | We have to BE VIGILANT of strangers | Singaporeans ARE VIGILANT of strangers in the MRT" },
   { slNo: 997, hanzi: "颈椎 (肋骨)", pinyin: "jǐng zhuī", meaning: "Choose right pillow to protect your NECK BONE | Looking down at your phone for a long time can put pressure to your NECK BONE | (HunterXHunter) Phinks from Genei Ryoudan loves breaking the NECK BONE of his opponents | (Gon got few of his RIBs broken in a fight with Hisoka | She broke 3 of my RIBs)" },
   { slNo: 998, hanzi: "敬礼 (鞠躬)", pinyin: "jìng lǐ (jū gōng)", meaning: "Military General SALUTE-d me as my rank is way above him which shocked everyone | I SALUTE to your courage brave soldier | Little Kid SALUTE-d the police officers | (Japanese often BOW DOWN in respect to the standing cars while crossing road | We should learn to BOW/BEND DOWN like a pure Japanese)" },
-  { slNo: 999, hanzi: "敬业", pinyin: "jìngyè", meaning: "He is a very (WORK-) DEDICATED teacher | (GGS) Lao Han is a DEDICATED (to work) 老板 | Bhadra Bhaiya is a DEDICATED (to work) Engineer | I want to be a DEDICATED (to work) Employee | I was DEDICATED (to work) in my early stage, I need to reclaim my old self" },
-
-
-  { slNo: 1000, hanzi: "境界 (边界)", pinyin: "jìngjiè", meaning: "realm/level/fig boundary (it's like an invisible line that shows where one thing ends and another begins) (physical boundary)" },
-  /////////////////////////////// - wishing to END here my backwards end
-
-  /* -------------------------- completed up to here -------------------------- */
-  /* -------------------------------------------------------------------------- */
+  { slNo: 999, hanzi: "敬业", pinyin: "jìng yè", meaning: "He is a very (WORK-) DEDICATED teacher | (GGS) Lao Han is a DEDICATED (to work) 老板 | Bhadra Bhaiya is a DEDICATED (to work) Engineer | I want to be a DEDICATED (to work) Employee | I was DEDICATED (to work) in my early stage, I need to reclaim my old self" },
+  { slNo: 1000, hanzi: "境界", pinyin: "jìng jiè", meaning: "妖神记 Du Ze 的 修炼 突破了 白银 REALM/LEVEL | 为了 突破了 黄金 REALM/LEVEL you need to defeat 魔石 of Golden 猴子 | 我要突破 封号斗罗 的 REALM/LEVEL" },
 
   { slNo: 1001, hanzi: "(比赛) 竞赛 (较量)", pinyin: "jìng sài", meaning: "(GGS) K&K won the championship in this CTF COMPETITION/CONTEST | COMPETETION/CONTEST already started and K&K is leading | (Dr Stone Magma wants to COMPETE stregth with Steam Engine | はめふら Alan-sama and Geordo-sama both COMPETE-ing for Katarina)" },
   { slNo: 1002, hanzi: "竞选 (当选 为...) (选举)", pinyin: "jìng xuǎn", meaning: "(入間くん) Ronove Romiere and Ameri Kaichou were CAMPAIGN-ing for Seito Kai no Kaichou position appealing why they are good fit for it | After the Seito Kaichou no CAMPAIGN Iruma-kun VOTE-d Ameri Kaichou but most of his friends VOTE-d Romeire | After the ELECTION she will BE ELECTED as our next Kaichou | She WAS ELECTED in last ELECTION as well" },
