@@ -1303,21 +1303,24 @@ export const hsk_list = [
   /* ----------------------------- target for 2023 ---------------------------- */
   /* -------------------------------------------------------------------------- */
 
-  { slNo: 1251, hanzi: "勉励", pinyin: "miǎnlì", meaning: "Encourage" },
-  { slNo: 1252, hanzi: "勉强", pinyin: "miǎnqiǎng", meaning: "to force sb to do sth" },
-  { slNo: 1253, hanzi: "面貌", pinyin: "miànmào", meaning: "face" },
-  { slNo: 1254, hanzi: "面子", pinyin: "miànzi", meaning: "prestige; face" },
+  { slNo: 1251, hanzi: "(激励/鼓励) 勉励", pinyin: "miǎn lì", meaning: "(月姐 ENCOURAGE-d me, woa you are doing great, keep practing and you can be like the Legendary Xiao Nai/you can become an amazing blader/you can speak Chinese fluently soon) | (When I was about to finish the race, thank you all for ENCOURAGE-ing me) | (When I was about to give up, thank you Torajiro for ENCOURAGE-ing me, keeping saying me 加油! 别放弃!)" },
+  { slNo: 1252, hanzi: "勉强 (逼迫)", pinyin: "miǎn qiǎng", meaning: "(to force sb/oneself to do sth) He FORCED HIMSELF TO/RELUCTANTLY agreed our request | 好吧 那我也 won't FORCE you anymore | The budget of this project is BARELY/RELUCTANTLY enough | (Sensei FORCED/COMPELLED us to write this paragraph)" },
+  { slNo: 1253, hanzi: "面貌 (外表)", pinyin: "miàn mào", meaning: "The APPEARANCE of the city has changed a lot | His APPEARANCE is very similar to his father's | Her APPEARANCE is delicate and unforgettable" },
+  { slNo: 1254, hanzi: "面子", pinyin: "miàn zi", meaning: "He cares a lot about his FACE/PRESTIGE/DIGNITY | Give me your 兄弟 some FACE and forgive him | 妖神记 Shen Yue lost the FACE of the entire 神圣家" },
+
   { slNo: 1255, hanzi: "描绘", pinyin: "miáohuì", meaning: "describe; portray" },
   { slNo: 1256, hanzi: "瞄准", pinyin: "miáozhǔn", meaning: "aim " },
   { slNo: 1257, hanzi: "渺小", pinyin: "miǎoxiǎo", meaning: "Tiny" },
   { slNo: 1258, hanzi: "藐视", pinyin: "miǎoshì", meaning: "contempt" },
   { slNo: 1259, hanzi: "蔑视", pinyin: "mièshì", meaning: "disparage; scorn" },
-  { slNo: 1260, hanzi: "灭亡", pinyin: "mièwáng", meaning: "perish" },
+  { slNo: 1260, hanzi: "灭亡", pinyin: "miè wáng", meaning: "The ancient dynasty PERISH-ed | All the 武神 sect PERISH-ed in the last 释放 | All the soldiers PERISH-ed in the war with Ains Ooal Gown" },
   { slNo: 1261, hanzi: "民间", pinyin: "mínjiān", meaning: "nongovernmental" },
   { slNo: 1262, hanzi: "民主", pinyin: "mínzhǔ", meaning: "democratic" },
   { slNo: 1263, hanzi: "敏捷", pinyin: "mǐnjié", meaning: "agile" },
   { slNo: 1264, hanzi: "敏锐", pinyin: "mǐnruì", meaning: "keen" },
-  { slNo: 1265, hanzi: "明明", pinyin: "míngmíng", meaning: "Obviously" },
+ 
+  { slNo: 1265, hanzi: "明明", pinyin: "míngmíng", meaning: "He OBVIOIUSLY knows about us | She CLEARLY/OBVIOUSLY knows the answer" },
+ 
   { slNo: 1266, hanzi: "明智", pinyin: "míngzhì", meaning: "wise" },
   { slNo: 1267, hanzi: "名次", pinyin: "míngcì", meaning: "Ranking" },
   { slNo: 1268, hanzi: "名额", pinyin: "míng é", meaning: "Places" },
