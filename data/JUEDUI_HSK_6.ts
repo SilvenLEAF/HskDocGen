@@ -1318,17 +1318,18 @@ export const hsk_list = [
 
   { slNo: 1263, hanzi: "敏捷", pinyin: "mǐnjié", meaning: "agile" },
   { slNo: 1264, hanzi: "敏锐", pinyin: "mǐnruì", meaning: "keen" },
- 
+
   { slNo: 1265, hanzi: "明明", pinyin: "míngmíng", meaning: "He OBVIOIUSLY knows about us | She CLEARLY/OBVIOUSLY knows the answer" },
- 
-  { slNo: 1266, hanzi: "明智", pinyin: "míngzhì", meaning: "wise" },
-  { slNo: 1267, hanzi: "名次", pinyin: "míngcì", meaning: "Ranking" },
-  { slNo: 1268, hanzi: "名额", pinyin: "míng é", meaning: "Places" },
-  { slNo: 1269, hanzi: "名副其实", pinyin: "míngfùqíshí", meaning: "Be worthy of the name" },
-  { slNo: 1270, hanzi: "名誉", pinyin: "míngyù", meaning: "reputation" },
-  { slNo: 1271, hanzi: "命名", pinyin: "mìngmíng", meaning: "call; nominate" },
-  { slNo: 1272, hanzi: "摸索", pinyin: "mōsuǒ", meaning: "fumble; grope" },
-  { slNo: 1273, hanzi: "膜", pinyin: "mó", meaning: "membrane" },
+  { slNo: 1266, hanzi: "明智 (聪明)", pinyin: "míng zhì", meaning: "She is WISE | （妖神记) 聂离的 师傅 很 WISE | Being WISE and being CLEVER are not same" },
+  { slNo: 1267, hanzi: "名次 (排名)", pinyin: "míngcì", meaning: "RANKING is not important | (Wind Breaker) ケンカ には the RANKING of Furin Koukou is really high | (ワンパンマン) Saitama's RANKING increased from C Kyu to B Kyu | I'll earn the RANKING of the 1st place" },
+  { slNo: 1268, hanzi: "名额", pinyin: "míng é", meaning: "(quota/spots/number of openings) (トリリオンゲーム) There are only 10 SPOTs available in the Dragon Bank competition, Haru と Gaku can they find a spot | Our company has only 100 " },
+  { slNo: 1268, hanzi: "名额 (空缺 的 职位)", pinyin: "míng é", meaning: "(quota/spots/number of openings) (トリリオンゲーム) There are only 10 SPOTs available in the Dragon Bank competition, Haru と Gaku can they find a spot | (In out company, Out of 10 ALLOTED SPOTs only 10 Job OPENINGs/VACANCY-es are left now)" },
+  { slNo: 1269, hanzi: "名副其实 (的/地)", pinyin: "míng fù qí shí", meaning: "(name matches reality) This place LIVEs UP TO ITS REPUTATION | His performance TRULY good (worthy of calling good) | He is a GENUINE expert (worthy of being called expert)" },
+  { slNo: 1270, hanzi: "名誉 (声誉) (名声)", pinyin: "míngyù", meaning: "He has a good REPUTATION in the music industry | (オーバーロード) Renner姫の generous actions and innocent behaviour earned her a good REPUTATION in the Kingdom" },
+  { slNo: 1271, hanzi: "命名", pinyin: "mìng míng", meaning: "Let's NAME this 晨露刀 | We need to NAME this new product | The Committe has NAMEd this park as Green City Park" },
+  { slNo: 1272, hanzi: "摸索 (抚摸)", pinyin: "mō suǒ", meaning: "In the dark, she is GROPE-ing/FUMBLE-ing her way forward | In the dark, I am GROPE-ing/FUMBLE-ing/SEARCH-ing for my keys but unknowingly was actually FONDLE-ing 彼女のおっぱい | (異世界でもふもふ Isekai de もふもふ なでなで が大好き | 彼女のおっぱい もふもふなでなで が 大好き)" },
+  { slNo: 1273, hanzi: "膜 (塑料薄膜) (蛋壳膜)", pinyin: "mó (sùliào báomó) (dànké mó)", meaning: "(membrane) There is a PLASTIC MEMBRANE in my room which I often use for いけない こと | I don't like to eat EGG MEMBRANE so better remove it before eating the boiled egg" },
+
   { slNo: 1274, hanzi: "摩擦", pinyin: "mócā", meaning: "rub/scrape" },
   { slNo: 1275, hanzi: "磨合", pinyin: "móhé", meaning: "running-in" },
 
@@ -1343,12 +1344,12 @@ export const hsk_list = [
   { slNo: 1284, hanzi: "墨水儿", pinyin: "mòshuǐr", meaning: "book learning" },
   { slNo: 1285, hanzi: "谋求", pinyin: "móuqiú", meaning: "seek" },
   { slNo: 1286, hanzi: "模样", pinyin: "múyàng", meaning: "Appearance" },
- 
+
   { slNo: 1287, hanzi: "母语", pinyin: "mǔyǔ", meaning: "Chinese is my MOTHER TONGUE" },
   { slNo: 1288, hanzi: "目睹", pinyin: "mù dǔ", meaning: "(ワンパンマン) Bang Silver Fang will WITNESS/SEE WITH his OWN EYES Saitama shattering the meteor with only One Punch" },
   { slNo: 1289, hanzi: "目光", pinyin: "mùguāng", meaning: "Eye" },
   { slNo: 1290, hanzi: "沐浴 (洗澡)", pinyin: "mù yù", meaning: "(to bathe/take a bath) She likes to BATHE/TAKE A BATH in the evening" },
-  
+
   { slNo: 1291, hanzi: "拿手", pinyin: "náshǒu", meaning: "Good" },
   { slNo: 1292, hanzi: "纳闷儿", pinyin: "nàmènr", meaning: "feel puzzle" },
   { slNo: 1293, hanzi: "耐用", pinyin: "nàiyòng", meaning: "durable" },
@@ -1949,7 +1950,7 @@ export const hsk_list = [
   { slNo: 1878, hanzi: "为难", pinyin: "wéinán", meaning: "to make things difficult for sb" },
   { slNo: 1879, hanzi: "为期", pinyin: "wéiqī", meaning: "by a definite date" },
   { slNo: 1880, hanzi: "委托", pinyin: "wěituō", meaning: "Entrust" },
-  { slNo: 1881, hanzi: "委员", pinyin: "wěiyuán", meaning: "Committee member" },
+  { slNo: 1881, hanzi: "委员 (委员会)", pinyin: "wěiyuán", meaning: "I am also a COMMITTE MEMBER | She is our COMMITTE MEMBER | The COMMITTE named this park as Green City Park" },
   { slNo: 1882, hanzi: "伪造", pinyin: "wěizào", meaning: "Forge" },
   { slNo: 1883, hanzi: "喂（叹词）", pinyin: "wèi", meaning: "hey" },
   { slNo: 1884, hanzi: "未免", pinyin: "wèimiǎn", meaning: "Rather" },
