@@ -1307,15 +1307,15 @@ export const hsk_list = [
   { slNo: 1252, hanzi: "勉强 (逼迫)", pinyin: "miǎn qiǎng", meaning: "(to force sb/oneself to do sth) He FORCED HIMSELF TO/RELUCTANTLY agreed our request | 好吧 那我也 won't FORCE you anymore | The budget of this project is BARELY/RELUCTANTLY enough | (Sensei FORCED/COMPELLED us to write this paragraph)" },
   { slNo: 1253, hanzi: "面貌 (外表)", pinyin: "miàn mào", meaning: "The APPEARANCE of the city has changed a lot | His APPEARANCE is very similar to his father's | Her APPEARANCE is delicate and unforgettable" },
   { slNo: 1254, hanzi: "面子", pinyin: "miàn zi", meaning: "He cares a lot about his FACE/PRESTIGE/DIGNITY | Give me your 兄弟 some FACE and forgive him | 妖神记 Shen Yue lost the FACE of the entire 神圣家" },
-
-  { slNo: 1255, hanzi: "描绘", pinyin: "miáohuì", meaning: "describe; portray" },
-  { slNo: 1256, hanzi: "瞄准", pinyin: "miáozhǔn", meaning: "aim " },
-  { slNo: 1257, hanzi: "渺小", pinyin: "miǎoxiǎo", meaning: "Tiny" },
-  { slNo: 1258, hanzi: "藐视", pinyin: "miǎoshì", meaning: "contempt" },
-  { slNo: 1259, hanzi: "蔑视", pinyin: "mièshì", meaning: "disparage; scorn" },
+  { slNo: 1255, hanzi: "描绘 (描写/形容)", pinyin: "miáo huì", meaning: "(to depict/portray/描く) This painting DEPICTs a serene lake | The author DEPICT-ed a world full of magic | (ハイキュー) This Haikyuu movie DEPICTs the legendary battle of Gomisuteba no Kessen between Karasuno and Nekoma | (This novel DESCRIBE-d a touching love story | He DESCRIBE-d to me his adventures in Yakushima Island)" },
+  { slNo: 1256, hanzi: "瞄准 (狙击手)", pinyin: "miáo zhǔn", meaning: "He AIM-ed at the target and fired a bullet | In my childhood I played a game for hunting deers, bears, lions, birds etc, there to kill the prey in one short we need to properly TAKE AIM AT/AIM AT the prey first before firing | Sniper is good at TAKE-ing AIMs/AIM-ing" },
+  { slNo: 1257, hanzi: "渺小", pinyin: "miǎo xiǎo", meaning: "(tiny/very small/insignificant) He feels VERY SMALL and INSIGNIFICANT in this world | These issues are VERY SMALL and INSIGNIFICANT we should be okay for release | Looking at the big pictures, our failures are VERY SMALL and INSIGNIFICANT in our life, so let's try learn and not be afraid of failures" },
+  { slNo: 1258, hanzi: "藐视 (蔑视) (鄙视)", pinyin: "miǎo shì", meaning: "(妖神记) 神圣家 的 女老师 DESPISEs 平民 | Everyone often DESPISE MC who is actually OP" },
+  { slNo: 1259, hanzi: "(藐视) 蔑视 (鄙视)", pinyin: "miè shì", meaning: "(妖神记) 神圣家 的 女老师 DESPISEs 平民 | Everyone often DESPISE MC who is actually OP" },
   { slNo: 1260, hanzi: "灭亡", pinyin: "miè wáng", meaning: "The ancient dynasty PERISH-ed | All the 武神 sect PERISH-ed in the last 释放 | All the soldiers PERISH-ed in the war with Ains Ooal Gown" },
-  { slNo: 1261, hanzi: "民间", pinyin: "mínjiān", meaning: "nongovernmental" },
-  { slNo: 1262, hanzi: "民主", pinyin: "mínzhǔ", meaning: "democratic" },
+  { slNo: 1261, hanzi: "民间 (-故事/-舞蹈)", pinyin: "mín jiān (wǔ dǎo)", meaning: "My Grandma used to tell me FOLK-lore/FOLK-tales about Kumorer Bhitore Murug, Momotaro | Momotaro is a famous FOLK-tale of Japan | Hojagiri and Bihu are FOLK-dances in Tripura" },
+  { slNo: 1262, hanzi: "(共和) 民主 (君主) (独裁)", pinyin: "mín zhǔ", meaning: "We love DEMOCRACY | India is a DEMOCRATIC country | (In Republic system you all chose someone to help you decide what to play, In Democracy you all vote for what to play, In Monarchy the King decides for what to play, in Dictatorship/Autocracy one person/group decides what to play) | (Republic) (Democracy) (Monarchy) (Dictatorship/Autocracy)" },
+
   { slNo: 1263, hanzi: "敏捷", pinyin: "mǐnjié", meaning: "agile" },
   { slNo: 1264, hanzi: "敏锐", pinyin: "mǐnruì", meaning: "keen" },
  
