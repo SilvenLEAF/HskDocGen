@@ -1220,7 +1220,7 @@ export const hsk_list = [
   { slNo: 1172, hanzi: "凌晨 (黎明/黄昏)", pinyin: "língchén", meaning: "Do not stay awake in WEE-HOURS | (Wake up at DAWN/DAYBREAK and sleep at TWILIGHT)" },
   { slNo: 1173, hanzi: "灵感", pinyin: "línggǎn", meaning: "妖神记 我和我妹妹要跟紫云一起住 else I won't have INSPIRATION and I can't 布置 万魔妖灵大阵" },
   { slNo: 1174, hanzi: "灵魂 (心脏)", pinyin: "línghún", meaning: "The SOUL of the Dragon Emperor will protect her even if his HEART is shredded apart" },
-  { slNo: 1175, hanzi: "灵敏", pinyin: "língmǐn", meaning: "My puppy has a KEEN/SENSITIVE sense of smell | My cat has a KEEN/SENSITIVE sense of hearing | Kohaku has a KEEN/SENSITIVE eyes, she can spot from way far away" },
+  { slNo: 1175, hanzi: "灵敏 (敏锐)", pinyin: "língmǐn", meaning: "My puppy has a KEEN/SENSITIVE sense of smell | My cat has a KEEN/SENSITIVE sense of hearing | Kohaku has a KEEN/SENSITIVE eyes, she can spot from way far away" },
 
   { slNo: 1176, hanzi: "伶俐 (聪明)", pinyin: "líng lì", meaning: "He is a CLEVER/SMART person | She is a CLEVER/SMART girl | (万界仙踪) Didn't you know,  Yanran, CLEVER/SMART girls do not get married" },
   { slNo: 1177, hanzi: "领会 (领悟)", pinyin: "lǐng huì", meaning: "妖神记 更何况 孙女婿 taught me how to COMPREHEND/UNDERSTAND the law of spirit power | I am not 灵宿强者 I just can COMPREHEND/UNDERSTAND two laws of spiritual power that's all" },
@@ -1315,23 +1315,23 @@ export const hsk_list = [
   { slNo: 1260, hanzi: "灭亡", pinyin: "miè wáng", meaning: "The ancient dynasty PERISH-ed | All the 武神 sect PERISH-ed in the last 释放 | All the soldiers PERISH-ed in the war with Ains Ooal Gown" },
   { slNo: 1261, hanzi: "民间 (-故事/-舞蹈)", pinyin: "mín jiān (wǔ dǎo)", meaning: "My Grandma used to tell me FOLK-lore/FOLK-tales about Kumorer Bhitore Murug, Momotaro | Momotaro is a famous FOLK-tale of Japan | Hojagiri and Bihu are FOLK-dances in Tripura" },
   { slNo: 1262, hanzi: "(共和) 民主 (君主) (独裁)", pinyin: "mín zhǔ", meaning: "We love DEMOCRACY | India is a DEMOCRATIC country | (In Republic system you all chose someone to help you decide what to play, In Democracy you all vote for what to play, In Monarchy the King decides for what to play, in Dictatorship/Autocracy one person/group decides what to play) | (Republic) (Democracy) (Monarchy) (Dictatorship/Autocracy)" },
-
-  { slNo: 1263, hanzi: "敏捷", pinyin: "mǐnjié", meaning: "agile" },
-  { slNo: 1264, hanzi: "敏锐", pinyin: "mǐnruì", meaning: "keen" },
-
-  { slNo: 1265, hanzi: "明明", pinyin: "míngmíng", meaning: "He OBVIOIUSLY knows about us | She CLEARLY/OBVIOUSLY knows the answer" },
+  { slNo: 1263, hanzi: "敏捷 (灵活)", pinyin: "mǐn jié", meaning: "AGILE Software Development | Kitten's movements are very AGILE" },
+  { slNo: 1264, hanzi: "(灵敏) 敏锐", pinyin: "mǐn ruì", meaning: "My puppy has a KEEN/SENSITIVE sense of smell | My cat has a KEEN/SENSITIVE sense of hearing | Kohaku has a KEEN/SENSITIVE eyes, she can spot from way far away" },
+  { slNo: 1265, hanzi: "明明", pinyin: "míng míng", meaning: "He OBVIOIUSLY knows about us | She CLEARLY/OBVIOUSLY knows the answer" },
   { slNo: 1266, hanzi: "明智 (聪明)", pinyin: "míng zhì", meaning: "She is WISE | （妖神记) 聂离的 师傅 很 WISE | Being WISE and being CLEVER are not same" },
-  { slNo: 1267, hanzi: "名次 (排名)", pinyin: "míngcì", meaning: "RANKING is not important | (Wind Breaker) ケンカ には the RANKING of Furin Koukou is really high | (ワンパンマン) Saitama's RANKING increased from C Kyu to B Kyu | I'll earn the RANKING of the 1st place" },
+  { slNo: 1267, hanzi: "名次 (排名)", pinyin: "míng cì", meaning: "RANKING is not important | (Wind Breaker) ケンカ には the RANKING of Furin Koukou is really high | (ワンパンマン) Saitama's RANKING increased from C Kyu to B Kyu | I'll earn the RANKING of the 1st place" },
   { slNo: 1268, hanzi: "名额", pinyin: "míng é", meaning: "(quota/spots/number of openings) (トリリオンゲーム) There are only 10 SPOTs available in the Dragon Bank competition, Haru と Gaku can they find a spot | Our company has only 100 " },
   { slNo: 1268, hanzi: "名额 (空缺 的 职位)", pinyin: "míng é", meaning: "(quota/spots/number of openings) (トリリオンゲーム) There are only 10 SPOTs available in the Dragon Bank competition, Haru と Gaku can they find a spot | (In out company, Out of 10 ALLOTED SPOTs only 10 Job OPENINGs/VACANCY-es are left now)" },
   { slNo: 1269, hanzi: "名副其实 (的/地)", pinyin: "míng fù qí shí", meaning: "(name matches reality) This place LIVEs UP TO ITS REPUTATION | His performance TRULY good (worthy of calling good) | He is a GENUINE expert (worthy of being called expert)" },
-  { slNo: 1270, hanzi: "名誉 (声誉) (名声)", pinyin: "míngyù", meaning: "He has a good REPUTATION in the music industry | (オーバーロード) Renner姫の generous actions and innocent behaviour earned her a good REPUTATION in the Kingdom" },
+  { slNo: 1270, hanzi: "名誉 (声誉) (名声)", pinyin: "míng yù", meaning: "He has a good REPUTATION in the music industry | (オーバーロード) Renner姫の generous actions and innocent behaviour earned her a good REPUTATION in the Kingdom" },
   { slNo: 1271, hanzi: "命名", pinyin: "mìng míng", meaning: "Let's NAME this 晨露刀 | We need to NAME this new product | The Committe has NAMEd this park as Green City Park" },
   { slNo: 1272, hanzi: "摸索 (抚摸)", pinyin: "mō suǒ", meaning: "In the dark, she is GROPE-ing/FUMBLE-ing her way forward | In the dark, I am GROPE-ing/FUMBLE-ing/SEARCH-ing for my keys but unknowingly was actually FONDLE-ing 彼女のおっぱい | (異世界でもふもふ Isekai de もふもふ なでなで が大好き | 彼女のおっぱい もふもふなでなで が 大好き)" },
   { slNo: 1273, hanzi: "膜 (塑料薄膜) (蛋壳膜)", pinyin: "mó (sùliào báomó) (dànké mó)", meaning: "(membrane) There is a PLASTIC MEMBRANE in my room which I often use for いけない こと | I don't like to eat EGG MEMBRANE so better remove it before eating the boiled egg" },
+  { slNo: 1274, hanzi: "摩擦 (摩擦力)", pinyin: "mó cā", meaning: "The FRICTION/SCRAPING between wheels and ground generates heat | When you RUB/SCRAPE two pieces of wood together with your hands it generates heat | (The FRICTION is high here | In slippery ground FRICTION is low)" },
+  { slNo: 1275, hanzi: "磨合 (磨合期)", pinyin: "mó hé", meaning: "(grind+combine/fit) (mutual adjustment) (adapt to each other over time to create a more harmonious relationship|gears/equipments etc wear in over time to adjust to each other to ensure smooth operation) Me and Kuldeep Bhaiya need some time to ADJUST to EACH OTHER | The new employee needs some time to ADJUST in the new team | (This new machine/gears need some time ADJUSTMENT PERIOD | The ADJUSTMENT PERIOD for the new employee was 3 months)" },
 
-  { slNo: 1274, hanzi: "摩擦", pinyin: "mócā", meaning: "rub/scrape" },
-  { slNo: 1275, hanzi: "磨合", pinyin: "móhé", meaning: "running-in" },
+
+
 
   { slNo: 1276, hanzi: "模范", pinyin: "mófàn", meaning: "model" },
   { slNo: 1277, hanzi: "模式", pinyin: "móshì", meaning: "mode/model/style" },
